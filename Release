@@ -1,0 +1,8 @@
+Origin: 82Flex Archive
+Label: 82Flex Archive
+Codename: 82Flex Archive
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: Lessica's repository mirror
