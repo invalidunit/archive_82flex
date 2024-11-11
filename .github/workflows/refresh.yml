@@ -9,7 +9,7 @@ jobs:
   aptb:
     uses: invalidunit/action/.github/workflows/aptb.yml@main
     with:
-      _repo: https://repo.82flex.com/
+      _repo: https://lessica.github.io/
 
 
   remove_all_old_actions:
