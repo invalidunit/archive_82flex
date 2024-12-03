@@ -1855,6 +1855,54 @@ Author: Lessica <82flex@gmail.com>
 Name: TrollRecorder JB
 
 Package: wiki.qaq.trapp.jb
+Version: 2.11-509
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 19204
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_2.11-509_iphoneos-arm_938b1e45c86d4c2aa8ba340ed76de2e948d07a447345d83632f95d76378f0d97.deb
+Size: 4744988
+MD5sum: 6f996e40d54f621a1a75ef29cad54ce1
+SHA1: c50b0c1db5483706e98a5279f43488fa05fce5b4
+SHA256: 938b1e45c86d4c2aa8ba340ed76de2e948d07a447345d83632f95d76378f0d97
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 2.11-509
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 19204
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy, uikittools (>= 2.1.6-3)
+Filename: ./debs/iphoneos-arm64e/wiki.qaq.trapp.jb_2.11-509_iphoneos-arm64e_facd7ab6a782e90751540fd3450386de3a1ba53c7e88c4fa613113c34ce3fe77.deb
+Size: 4743622
+MD5sum: 4e26453c89bf8261b0f3cc3f5e0e62c1
+SHA1: 6b93fb1c6095b4e33c20731073a1cc4bf4bd1bcf
+SHA256: facd7ab6a782e90751540fd3450386de3a1ba53c7e88c4fa613113c34ce3fe77
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 2.11-509
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 19204
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64/wiki.qaq.trapp.jb_2.11-509_iphoneos-arm64_07923f7c17856f0533f8c746d59a3d4c66c4f5ad95af01e7b24c4bda58dc97e0.deb
+Size: 4745510
+MD5sum: c4beec5e9528aea036302e05404f3736
+SHA1: 5d4f47d08e50205f3df80803852ea92f379d25ef
+SHA256: 07923f7c17856f0533f8c746d59a3d4c66c4f5ad95af01e7b24c4bda58dc97e0
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
 Version: 2.2-392
 Architecture: iphoneos-arm
 Maintainer: Lessica <82flex@gmail.com>
