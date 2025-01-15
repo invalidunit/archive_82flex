@@ -228,22 +228,6 @@ Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 936
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: ./debs/iphoneos-arm64e/codes.aurora.kayoko_2.7_iphoneos-arm64e_8fb9761bf51e6a655128b456058ab1c5b808d717974c675947f14c61d1aef5ff.deb
-Size: 124116
-MD5sum: 2cd848a42cfaea1bc98c68a8da6860b3
-SHA1: c2306a279b47079966fffd311d8fb9ddedf01a6e
-SHA256: 8fb9761bf51e6a655128b456058ab1c5b808d717974c675947f14c61d1aef5ff
-Section: Tweaks
-Description: Clipboard manager for iOS.
-Author: Alexandra Aurora Göttlicher
-Name: Kayoko
-
-Package: codes.aurora.kayoko
-Version: 2.7
-Architecture: iphoneos-arm64e
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 936
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Filename: ./debs/iphoneos-arm64e/codes.aurora.kayoko_2.7_iphoneos-arm64e_449d7f6a87677056fe1be7831a80f470121e8396eb9a3115530d8017f0740c9b.deb
 Size: 126552
 MD5sum: 62209d49c8e3d9ca031d6bbab1ecfed5
@@ -256,15 +240,15 @@ Name: Kayoko
 
 Package: codes.aurora.kayoko
 Version: 2.7
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 936
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: ./debs/iphoneos-arm64/codes.aurora.kayoko_2.7_iphoneos-arm64_f7febacc089d2432f47524e67f2dde276d18572d53f9bfafdc8242d10cc4c09f.deb
-Size: 126294
-MD5sum: ef8bf34a3bf7d1e3c1f69e4fd2fc303b
-SHA1: ae04ce0726840ce0db94c567c56a3a33060c6e88
-SHA256: f7febacc089d2432f47524e67f2dde276d18572d53f9bfafdc8242d10cc4c09f
+Filename: ./debs/iphoneos-arm64e/codes.aurora.kayoko_2.7_iphoneos-arm64e_8fb9761bf51e6a655128b456058ab1c5b808d717974c675947f14c61d1aef5ff.deb
+Size: 124116
+MD5sum: 2cd848a42cfaea1bc98c68a8da6860b3
+SHA1: c2306a279b47079966fffd311d8fb9ddedf01a6e
+SHA256: 8fb9761bf51e6a655128b456058ab1c5b808d717974c675947f14c61d1aef5ff
 Section: Tweaks
 Description: Clipboard manager for iOS.
 Author: Alexandra Aurora Göttlicher
@@ -286,21 +270,21 @@ Description: Clipboard manager for iOS.
 Author: Alexandra Aurora Göttlicher
 Name: Kayoko
 
-Package: com.82flex.iconrestore
-Version: 1.7
-Architecture: iphoneos-arm
+Package: codes.aurora.kayoko
+Version: 2.7
+Architecture: iphoneos-arm64
 Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 412
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm/com.82flex.iconrestore_1.7_iphoneos-arm_5c61d7575333235598964801c587468a215d901c28be9aa3712ba7221a04b2e5.deb
-Size: 29654
-MD5sum: e440c120dc45a046b19fa61a02ab751d
-SHA1: f95a6d995cafdcb482af3b765c220e287104d8e3
-SHA256: 5c61d7575333235598964801c587468a215d901c28be9aa3712ba7221a04b2e5
+Installed-Size: 936
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64/codes.aurora.kayoko_2.7_iphoneos-arm64_f7febacc089d2432f47524e67f2dde276d18572d53f9bfafdc8242d10cc4c09f.deb
+Size: 126294
+MD5sum: ef8bf34a3bf7d1e3c1f69e4fd2fc303b
+SHA1: ae04ce0726840ce0db94c567c56a3a33060c6e88
+SHA256: f7febacc089d2432f47524e67f2dde276d18572d53f9bfafdc8242d10cc4c09f
 Section: Tweaks
-Description: Save and restore the layout of your icons.
-Author: Lessica <82flex@gmail.com>
-Name: Icon Restore
+Description: Clipboard manager for iOS.
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko
 
 Package: com.82flex.iconrestore
 Version: 1.7
@@ -320,15 +304,15 @@ Name: Icon Restore
 
 Package: com.82flex.iconrestore
 Version: 1.7
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 412
 Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.82flex.iconrestore_1.7_iphoneos-arm64e_10339ba6b8fcbb93b72e5634dbd8575736eb21fc7c5c540413d55807f14f28ac.deb
-Size: 30404
-MD5sum: 0aa2b5ce8fc9e254a9b0429393e88769
-SHA1: 765b7a1df88cbeb81c07c12ce709424f74465ff4
-SHA256: 10339ba6b8fcbb93b72e5634dbd8575736eb21fc7c5c540413d55807f14f28ac
+Filename: ./debs/iphoneos-arm/com.82flex.iconrestore_1.7_iphoneos-arm_5c61d7575333235598964801c587468a215d901c28be9aa3712ba7221a04b2e5.deb
+Size: 29654
+MD5sum: e440c120dc45a046b19fa61a02ab751d
+SHA1: f95a6d995cafdcb482af3b765c220e287104d8e3
+SHA256: 5c61d7575333235598964801c587468a215d901c28be9aa3712ba7221a04b2e5
 Section: Tweaks
 Description: Save and restore the layout of your icons.
 Author: Lessica <82flex@gmail.com>
@@ -352,15 +336,15 @@ Name: Icon Restore
 
 Package: com.82flex.iconrestore
 Version: 1.7
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 412
 Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.82flex.iconrestore_1.7_iphoneos-arm64_9333d6247309cb18f0ea7f67ee7d130b2867471ca07943ebd08d09d0800fa90e.deb
-Size: 29712
-MD5sum: 0f3a9a50a14aee76115dccb654741f93
-SHA1: 2c3f40152e7625e3c659011620fab28f98b4fb9f
-SHA256: 9333d6247309cb18f0ea7f67ee7d130b2867471ca07943ebd08d09d0800fa90e
+Filename: ./debs/iphoneos-arm64e/com.82flex.iconrestore_1.7_iphoneos-arm64e_10339ba6b8fcbb93b72e5634dbd8575736eb21fc7c5c540413d55807f14f28ac.deb
+Size: 30404
+MD5sum: 0aa2b5ce8fc9e254a9b0429393e88769
+SHA1: 765b7a1df88cbeb81c07c12ce709424f74465ff4
+SHA256: 10339ba6b8fcbb93b72e5634dbd8575736eb21fc7c5c540413d55807f14f28ac
 Section: Tweaks
 Description: Save and restore the layout of your icons.
 Author: Lessica <82flex@gmail.com>
@@ -377,6 +361,22 @@ Size: 30460
 MD5sum: fd6409554b1bdbb3f7cc707147b1356f
 SHA1: 943d2e18477aaa2947f44e5e3e240eb2b4ed7728
 SHA256: 1ffd1e0836e4d2e03c9abb931249ec3ec3a24df6308b06d7d126dc4d42281eb3
+Section: Tweaks
+Description: Save and restore the layout of your icons.
+Author: Lessica <82flex@gmail.com>
+Name: Icon Restore
+
+Package: com.82flex.iconrestore
+Version: 1.7
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 412
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.82flex.iconrestore_1.7_iphoneos-arm64_9333d6247309cb18f0ea7f67ee7d130b2867471ca07943ebd08d09d0800fa90e.deb
+Size: 29712
+MD5sum: 0f3a9a50a14aee76115dccb654741f93
+SHA1: 2c3f40152e7625e3c659011620fab28f98b4fb9f
+SHA256: 9333d6247309cb18f0ea7f67ee7d130b2867471ca07943ebd08d09d0800fa90e
 Section: Tweaks
 Description: Save and restore the layout of your icons.
 Author: Lessica <82flex@gmail.com>
@@ -482,13 +482,13 @@ Package: com.82flex.removewidgetbg
 Version: 1.7
 Architecture: iphoneos-arm
 Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 388
+Installed-Size: 384
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
-Filename: ./debs/iphoneos-arm/com.82flex.removewidgetbg_1.7_iphoneos-arm_1e819db5e99343ac501e65b04d016c1bf1a027b23e05059492c6efe41969f767.deb
-Size: 30280
-MD5sum: 3443d957528d96700d0e56c1a0b12c75
-SHA1: a1afe30e496e548e56ea5f4e7abc9b3b0eb2b84d
-SHA256: 1e819db5e99343ac501e65b04d016c1bf1a027b23e05059492c6efe41969f767
+Filename: ./debs/iphoneos-arm/com.82flex.removewidgetbg_1.7_iphoneos-arm_1f1aede8ac9dfdd3718e517ab29b2ebeccae53a8a4d77f92711de714aaa794df.deb
+Size: 29566
+MD5sum: 83fe6bf9374c693647019a2a5998b3ae
+SHA1: 8d954f1343db8a3d4eda32e96b423242a006df21
+SHA256: 1f1aede8ac9dfdd3718e517ab29b2ebeccae53a8a4d77f92711de714aaa794df
 Section: Tweaks
 Description: Remove the background of the widgets on the home screen.
 Author: Lessica <82flex@gmail.com>
@@ -498,13 +498,13 @@ Package: com.82flex.removewidgetbg
 Version: 1.7
 Architecture: iphoneos-arm
 Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 384
+Installed-Size: 388
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
-Filename: ./debs/iphoneos-arm/com.82flex.removewidgetbg_1.7_iphoneos-arm_1f1aede8ac9dfdd3718e517ab29b2ebeccae53a8a4d77f92711de714aaa794df.deb
-Size: 29566
-MD5sum: 83fe6bf9374c693647019a2a5998b3ae
-SHA1: 8d954f1343db8a3d4eda32e96b423242a006df21
-SHA256: 1f1aede8ac9dfdd3718e517ab29b2ebeccae53a8a4d77f92711de714aaa794df
+Filename: ./debs/iphoneos-arm/com.82flex.removewidgetbg_1.7_iphoneos-arm_1e819db5e99343ac501e65b04d016c1bf1a027b23e05059492c6efe41969f767.deb
+Size: 30280
+MD5sum: 3443d957528d96700d0e56c1a0b12c75
+SHA1: a1afe30e496e548e56ea5f4e7abc9b3b0eb2b84d
+SHA256: 1e819db5e99343ac501e65b04d016c1bf1a027b23e05059492c6efe41969f767
 Section: Tweaks
 Description: Remove the background of the widgets on the home screen.
 Author: Lessica <82flex@gmail.com>
@@ -546,22 +546,6 @@ Package: com.82flex.removewidgetbg
 Version: 1.7
 Architecture: iphoneos-arm64
 Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 388
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
-Filename: ./debs/iphoneos-arm64/com.82flex.removewidgetbg_1.7_iphoneos-arm64_a7bd501a36b7d939e6b0c0b18a6f705b818493eb065377e51c61c810d6672b06.deb
-Size: 30360
-MD5sum: c25085f731df479be9dfb37f9251e47a
-SHA1: 99bad699a70efef360d281570a2cd766f23fe609
-SHA256: a7bd501a36b7d939e6b0c0b18a6f705b818493eb065377e51c61c810d6672b06
-Section: Tweaks
-Description: Remove the background of the widgets on the home screen.
-Author: Lessica <82flex@gmail.com>
-Name: Remove Widget Background
-
-Package: com.82flex.removewidgetbg
-Version: 1.7
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 384
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
 Filename: ./debs/iphoneos-arm64/com.82flex.removewidgetbg_1.7_iphoneos-arm64_7e062f8c965e9eb6eeae3feef04455cbe7ea4618ca9120512ed7334024a9c210.deb
@@ -574,21 +558,21 @@ Description: Remove the background of the widgets on the home screen.
 Author: Lessica <82flex@gmail.com>
 Name: Remove Widget Background
 
-Package: com.82flex.singlemute
-Version: 1.5
-Architecture: iphoneos-arm
-Maintainer: 82Flex <82flex@gmail.com>
-Installed-Size: 384
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm/com.82flex.singlemute_1.5_iphoneos-arm_fe0c2eeb2062c375705dafda226e8e839eeb45403582e98cedc81a0d445bdaa0.deb
-Size: 24580
-MD5sum: afb6589a4a44dd1571457f7721d2f752
-SHA1: f562add09c0631208e1ac16f84ae2c19adebfac2
-SHA256: fe0c2eeb2062c375705dafda226e8e839eeb45403582e98cedc81a0d445bdaa0
+Package: com.82flex.removewidgetbg
+Version: 1.7
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 388
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Filename: ./debs/iphoneos-arm64/com.82flex.removewidgetbg_1.7_iphoneos-arm64_a7bd501a36b7d939e6b0c0b18a6f705b818493eb065377e51c61c810d6672b06.deb
+Size: 30360
+MD5sum: c25085f731df479be9dfb37f9251e47a
+SHA1: 99bad699a70efef360d281570a2cd766f23fe609
+SHA256: a7bd501a36b7d939e6b0c0b18a6f705b818493eb065377e51c61c810d6672b06
 Section: Tweaks
-Description: Just a single mute icon on the status bar of iOS.
-Author: 82Flex <82flex@gmail.com>
-Name: Single Mute
+Description: Remove the background of the widgets on the home screen.
+Author: Lessica <82flex@gmail.com>
+Name: Remove Widget Background
 
 Package: com.82flex.singlemute
 Version: 1.5
@@ -608,15 +592,15 @@ Name: Single Mute
 
 Package: com.82flex.singlemute
 Version: 1.5
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm
 Maintainer: 82Flex <82flex@gmail.com>
-Installed-Size: 380
+Installed-Size: 384
 Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.82flex.singlemute_1.5_iphoneos-arm64e_b1e07289ebae087c746ae59bd34d77369e06259c64a3a2e625f301fffaa680c3.deb
-Size: 23990
-MD5sum: ac49f43269d4887db49fb81bac6b867f
-SHA1: a320ec660f26b881bd4ac3bd57b6e6c82eb0bf5e
-SHA256: b1e07289ebae087c746ae59bd34d77369e06259c64a3a2e625f301fffaa680c3
+Filename: ./debs/iphoneos-arm/com.82flex.singlemute_1.5_iphoneos-arm_fe0c2eeb2062c375705dafda226e8e839eeb45403582e98cedc81a0d445bdaa0.deb
+Size: 24580
+MD5sum: afb6589a4a44dd1571457f7721d2f752
+SHA1: f562add09c0631208e1ac16f84ae2c19adebfac2
+SHA256: fe0c2eeb2062c375705dafda226e8e839eeb45403582e98cedc81a0d445bdaa0
 Section: Tweaks
 Description: Just a single mute icon on the status bar of iOS.
 Author: 82Flex <82flex@gmail.com>
@@ -640,15 +624,15 @@ Name: Single Mute
 
 Package: com.82flex.singlemute
 Version: 1.5
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: 82Flex <82flex@gmail.com>
-Installed-Size: 384
+Installed-Size: 380
 Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.82flex.singlemute_1.5_iphoneos-arm64_0ada31d0107f3694235d782a492b3a5cf538321436e3622165ef0f411b94044a.deb
-Size: 24664
-MD5sum: e8b039f92193b4d93c480b7267b35ab9
-SHA1: 3632614f544037b06ac2a40915402590a5a33b01
-SHA256: 0ada31d0107f3694235d782a492b3a5cf538321436e3622165ef0f411b94044a
+Filename: ./debs/iphoneos-arm64e/com.82flex.singlemute_1.5_iphoneos-arm64e_b1e07289ebae087c746ae59bd34d77369e06259c64a3a2e625f301fffaa680c3.deb
+Size: 23990
+MD5sum: ac49f43269d4887db49fb81bac6b867f
+SHA1: a320ec660f26b881bd4ac3bd57b6e6c82eb0bf5e
+SHA256: b1e07289ebae087c746ae59bd34d77369e06259c64a3a2e625f301fffaa680c3
 Section: Tweaks
 Description: Just a single mute icon on the status bar of iOS.
 Author: 82Flex <82flex@gmail.com>
@@ -665,6 +649,22 @@ Size: 24082
 MD5sum: 5356652a55abab7158081ca825fd22f0
 SHA1: 317a22bcb768e79338e85b85083a7adf7eddd753
 SHA256: 45b2249cd5a19610aeee644ccb0cdf2a5419259f762e59eebb2debbe2d99467a
+Section: Tweaks
+Description: Just a single mute icon on the status bar of iOS.
+Author: 82Flex <82flex@gmail.com>
+Name: Single Mute
+
+Package: com.82flex.singlemute
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.82flex.singlemute_1.5_iphoneos-arm64_0ada31d0107f3694235d782a492b3a5cf538321436e3622165ef0f411b94044a.deb
+Size: 24664
+MD5sum: e8b039f92193b4d93c480b7267b35ab9
+SHA1: 3632614f544037b06ac2a40915402590a5a33b01
+SHA256: 0ada31d0107f3694235d782a492b3a5cf538321436e3622165ef0f411b94044a
 Section: Tweaks
 Description: Just a single mute icon on the status bar of iOS.
 Author: 82Flex <82flex@gmail.com>
@@ -1044,22 +1044,6 @@ Architecture: iphoneos-arm
 Maintainer: Lessica
 Installed-Size: 372
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: ./debs/iphoneos-arm/com.82flex.wtvrbglauncher_1.1_iphoneos-arm_a9fdc5d1634de4a18a31d2b36c3050b21c847789dec83a2f5f173dbcf2c1da64.deb
-Size: 22288
-MD5sum: 313a298a9b20cd00c58bd02276b69c7b
-SHA1: 43b8fc98abfc3d8ace80e31154066ba5aff3c84d
-SHA256: a9fdc5d1634de4a18a31d2b36c3050b21c847789dec83a2f5f173dbcf2c1da64
-Section: Tweaks
-Description: 中文输入法语音转文字免跳转插件。无设置选项，安装并注销后立即生效。支持的输入法：微信、百度、搜狗、讯飞
-Author: Lessica
-Name: 语音转文字免跳转
-
-Package: com.82flex.wtvrbglauncher
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: Lessica
-Installed-Size: 372
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
 Filename: ./debs/iphoneos-arm/com.82flex.wtvrbglauncher_1.1_iphoneos-arm_d69564258a69dc330959082a056aaf7f9805fb5b74ef65be53c308e0d8293c8e.deb
 Size: 22928
 MD5sum: bfcdce23f19e6b989efd1f73b49093aa
@@ -1072,15 +1056,15 @@ Name: 语音转文字免跳转
 
 Package: com.82flex.wtvrbglauncher
 Version: 1.1
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm
 Maintainer: Lessica
 Installed-Size: 372
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: ./debs/iphoneos-arm64e/com.82flex.wtvrbglauncher_1.1_iphoneos-arm64e_b78bccf2fa4d91c9ae0df098b0aa4c3831f2bcb8d64b6c4ef0b054b5b5429038.deb
-Size: 22314
-MD5sum: 403d33d6c9f753bce285a9f88c7b4702
-SHA1: 5c88b3ed6f220b807330e500ec347f8d9563cf49
-SHA256: b78bccf2fa4d91c9ae0df098b0aa4c3831f2bcb8d64b6c4ef0b054b5b5429038
+Filename: ./debs/iphoneos-arm/com.82flex.wtvrbglauncher_1.1_iphoneos-arm_a9fdc5d1634de4a18a31d2b36c3050b21c847789dec83a2f5f173dbcf2c1da64.deb
+Size: 22288
+MD5sum: 313a298a9b20cd00c58bd02276b69c7b
+SHA1: 43b8fc98abfc3d8ace80e31154066ba5aff3c84d
+SHA256: a9fdc5d1634de4a18a31d2b36c3050b21c847789dec83a2f5f173dbcf2c1da64
 Section: Tweaks
 Description: 中文输入法语音转文字免跳转插件。无设置选项，安装并注销后立即生效。支持的输入法：微信、百度、搜狗、讯飞
 Author: Lessica
@@ -1097,6 +1081,22 @@ Size: 22952
 MD5sum: 8ef0fd3611d4b26b4e9376e9617bffa3
 SHA1: bc5c2d3146e45780df111c757c000da072af7f33
 SHA256: 227a58b581a0bf35ba2ba6f380d4e89cf749b3ab5d90337e1387ece886b90161
+Section: Tweaks
+Description: 中文输入法语音转文字免跳转插件。无设置选项，安装并注销后立即生效。支持的输入法：微信、百度、搜狗、讯飞
+Author: Lessica
+Name: 语音转文字免跳转
+
+Package: com.82flex.wtvrbglauncher
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: Lessica
+Installed-Size: 372
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.82flex.wtvrbglauncher_1.1_iphoneos-arm64e_b78bccf2fa4d91c9ae0df098b0aa4c3831f2bcb8d64b6c4ef0b054b5b5429038.deb
+Size: 22314
+MD5sum: 403d33d6c9f753bce285a9f88c7b4702
+SHA1: 5c88b3ed6f220b807330e500ec347f8d9563cf49
+SHA256: b78bccf2fa4d91c9ae0df098b0aa4c3831f2bcb8d64b6c4ef0b054b5b5429038
 Section: Tweaks
 Description: 中文输入法语音转文字免跳转插件。无设置选项，安装并注销后立即生效。支持的输入法：微信、百度、搜狗、讯飞
 Author: Lessica
