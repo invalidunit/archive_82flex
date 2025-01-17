@@ -1006,6 +1006,54 @@ Description: Display your touch interactions!
 Author: Lessica <82flex@gmail.com>
 Name: Touch-Viz
 
+Package: com.82flex.touchvis
+Version: 3.12
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 3112
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm/com.82flex.touchvis_3.12_iphoneos-arm_31fb966ccdc2867d8c68d09e87e5599e13b8abe366de2eed30d8e17aa4f3b1d7.deb
+Size: 700968
+MD5sum: 546cb4e9ed66a6457b2bcd308af9c290
+SHA1: 89dac1e319886777754e7a504eb124a59ddfd4aa
+SHA256: 31fb966ccdc2867d8c68d09e87e5599e13b8abe366de2eed30d8e17aa4f3b1d7
+Section: Tweaks
+Description: Display your touch interactions!
+Author: Lessica <82flex@gmail.com>
+Name: Touch-Viz
+
+Package: com.82flex.touchvis
+Version: 3.12
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 3112
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.82flex.touchvis_3.12_iphoneos-arm64e_6796622a3777e250bea7e97e4de0cc8eb01992506b1a6922dea960a1c6273c3b.deb
+Size: 700828
+MD5sum: 3ede904ffd38ccac3ac4ebcd3a5423d8
+SHA1: 5280834cda76611f5f40df8fdabc91021e956007
+SHA256: 6796622a3777e250bea7e97e4de0cc8eb01992506b1a6922dea960a1c6273c3b
+Section: Tweaks
+Description: Display your touch interactions!
+Author: Lessica <82flex@gmail.com>
+Name: Touch-Viz
+
+Package: com.82flex.touchvis
+Version: 3.12
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 3112
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.82flex.touchvis_3.12_iphoneos-arm64_ec784957210eec3d3761a900115428e28515854ab8d314c3bb083d51c77587ee.deb
+Size: 700502
+MD5sum: 74b1ed4e389e28af2934895f85315a1b
+SHA1: 57ddeb3018084923a6ff9016010d1032d194b61d
+SHA256: ec784957210eec3d3761a900115428e28515854ab8d314c3bb083d51c77587ee
+Section: Tweaks
+Description: Display your touch interactions!
+Author: Lessica <82flex@gmail.com>
+Name: Touch-Viz
+
 Package: com.82flex.wtvrbglauncher
 Version: 0.0.1
 Architecture: iphoneos-arm
