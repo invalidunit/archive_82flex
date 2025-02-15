@@ -2622,6 +2622,54 @@ Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
 Name: TrollRecorder JB
 
+Package: wiki.qaq.trapp.jb
+Version: 3.0-594
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 58248
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_3.0-594_iphoneos-arm_0dc7d0daac124c494c12e8987e22af2c1c39fe835967546d3a904552d27c875a.deb
+Size: 14055738
+MD5sum: b1642e26bc831af7ce7edf2bf2776921
+SHA1: edce265277c74fa437d3b009ff86515b863abd6f
+SHA256: 0dc7d0daac124c494c12e8987e22af2c1c39fe835967546d3a904552d27c875a
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 3.0-594
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 58244
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64e/wiki.qaq.trapp.jb_3.0-594_iphoneos-arm64e_bc564739cedcaf686e01dea5e5f64e4171df2d6975f0181deb68896f095fa1f2.deb
+Size: 14054560
+MD5sum: 11a95d1a6728356e0ec1457e5b22954c
+SHA1: 32e1ff550c4ebfbecf95bc97c93589d6c606632d
+SHA256: bc564739cedcaf686e01dea5e5f64e4171df2d6975f0181deb68896f095fa1f2
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 3.0-594
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 58236
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64/wiki.qaq.trapp.jb_3.0-594_iphoneos-arm64_2ba75bed7b18f771365ae23e4d47d371b193d84710167ef5db21113b719dd982.deb
+Size: 14052862
+MD5sum: 8f1f0cea85533dfbf5fcbeccad69a47a
+SHA1: 66ae0cc554c3be8ef9a3045f82f4ad6533f2787a
+SHA256: 2ba75bed7b18f771365ae23e4d47d371b193d84710167ef5db21113b719dd982
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
 Package: wiki.qaq.writenow
 Version: 2.0
 Architecture: iphoneos-arm
