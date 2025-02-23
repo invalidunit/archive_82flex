@@ -2766,6 +2766,54 @@ Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
 Name: TrollRecorder JB
 
+Package: wiki.qaq.trapp.jb
+Version: 3.2-608
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 58432
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_3.2-608_iphoneos-arm_4f5d39fcb81dc3a3ebc67842b0755fd92e6291384f03727be7e076f3e5b1ae25.deb
+Size: 14499646
+MD5sum: 330b3d2fd3be31f73337296a194f12f8
+SHA1: 031fb7793a72d766903589bd93429e84d040e108
+SHA256: 4f5d39fcb81dc3a3ebc67842b0755fd92e6291384f03727be7e076f3e5b1ae25
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 3.2-608
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 58432
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64e/wiki.qaq.trapp.jb_3.2-608_iphoneos-arm64e_9ccf0b262fb1d9f134c1bdfd5c0bdbbd6ce50fa144ae06d386a5b08e048465b5.deb
+Size: 14497106
+MD5sum: 095718d01161410fac9d0aaf52d27f3c
+SHA1: 99c149fa651afa94c0de0a5e6af36f0f89733d02
+SHA256: 9ccf0b262fb1d9f134c1bdfd5c0bdbbd6ce50fa144ae06d386a5b08e048465b5
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 3.2-608
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 58432
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64/wiki.qaq.trapp.jb_3.2-608_iphoneos-arm64_9be10beabaa7b74740911ad6e14a72c6855fd469386a64128ce74a9ee4bc130b.deb
+Size: 14502532
+MD5sum: 90362797ebcb1838c070584f7dbae6c0
+SHA1: 94c025a4aadae206bde61d630928613a88c1dd02
+SHA256: 9be10beabaa7b74740911ad6e14a72c6855fd469386a64128ce74a9ee4bc130b
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
 Package: wiki.qaq.writenow
 Version: 2.0
 Architecture: iphoneos-arm
@@ -2809,6 +2857,54 @@ Size: 3272674
 MD5sum: a14b0e3fdfbcb6b0ff8116594c2b9158
 SHA1: 50f549ceb23b0429bb72df8e524654128445c4c7
 SHA256: ae785768fc786dfb855696f8eb726f66bc82d0f2046eb5c7718deddc08c7658c
+Section: Tweaks
+Description: AI tool within your hands.
+Author: Lessica <82flex@gmail.com>
+Name: Write Now
+
+Package: wiki.qaq.writenow
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 15168
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm/wiki.qaq.writenow_2.1_iphoneos-arm_1fcdca6c0e522382b3f34c657163c8cc3f0a2821f4abf240d2007a2ffefd9463.deb
+Size: 3292000
+MD5sum: 896bb175b7c766cff4599cadfc0814e9
+SHA1: 18b32e9fbff852172d422202a9c4e2f8b6f1754b
+SHA256: 1fcdca6c0e522382b3f34c657163c8cc3f0a2821f4abf240d2007a2ffefd9463
+Section: Tweaks
+Description: AI tool within your hands.
+Author: Lessica <82flex@gmail.com>
+Name: Write Now
+
+Package: wiki.qaq.writenow
+Version: 2.1
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 15168
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/wiki.qaq.writenow_2.1_iphoneos-arm64e_dd36162a0ff41a8e0a6eabf9c86b4686eeb03015b6fb9e3b175f19be5c27ed1e.deb
+Size: 3290562
+MD5sum: 7c7da2f75aae4081bb67746a67ad415c
+SHA1: 741b8925d3ec8d2ff8f21071dce05fbdd1e48f6c
+SHA256: dd36162a0ff41a8e0a6eabf9c86b4686eeb03015b6fb9e3b175f19be5c27ed1e
+Section: Tweaks
+Description: AI tool within your hands.
+Author: Lessica <82flex@gmail.com>
+Name: Write Now
+
+Package: wiki.qaq.writenow
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 15168
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/wiki.qaq.writenow_2.1_iphoneos-arm64_e01e2799b2a5055d634811907f255ff426c41890f791f626607258318dde598b.deb
+Size: 3292968
+MD5sum: ef61a53cd0849eeb3d15a7837e609f3a
+SHA1: c5acbd1586e8702f93248fbc3647701d054d4b24
+SHA256: e01e2799b2a5055d634811907f255ff426c41890f791f626607258318dde598b
 Section: Tweaks
 Description: AI tool within your hands.
 Author: Lessica <82flex@gmail.com>
