@@ -910,6 +910,51 @@ Description: Combine VPN state and wireless state into one icon.
 Author: 82Flex <82flex@gmail.com>
 Name: Single VPN
 
+Package: com.82flex.socpwrbud
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 76
+Filename: ./debs/iphoneos-arm/com.82flex.socpwrbud_1.0_iphoneos-arm_d555075ff2b79cd45106edcc03e0effac367a908feb5d4526e7601163e388b34.deb
+Size: 9614
+MD5sum: 9ebba1546d9691d88d758a9018097217
+SHA1: 0b6876e992db95a14cf57964d02b187f620e822d
+SHA256: d555075ff2b79cd45106edcc03e0effac367a908feb5d4526e7601163e388b34
+Section: Utilities
+Description: Sudoless alternative to powermetrics for Apple Silicon; realtime CPU & GPU frequency, volts, usage, etc.
+Author: Lessica <82flex@gmail.com>
+Name: SoC Power Buddy
+
+Package: com.82flex.socpwrbud
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 76
+Filename: ./debs/iphoneos-arm64/com.82flex.socpwrbud_1.0_iphoneos-arm64_82edd03a43cc978baf3fb16c60a5a401592737982e67cfec7aba5f3c94502bf2.deb
+Size: 9710
+MD5sum: f97b329deb6fc1915ebd2cc596789533
+SHA1: 11e6ce86745a4d17a09719ba38622acdbb861e0b
+SHA256: 82edd03a43cc978baf3fb16c60a5a401592737982e67cfec7aba5f3c94502bf2
+Section: Utilities
+Description: Sudoless alternative to powermetrics for Apple Silicon; realtime CPU & GPU frequency, volts, usage, etc.
+Author: Lessica <82flex@gmail.com>
+Name: SoC Power Buddy
+
+Package: com.82flex.socpwrbud
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 76
+Filename: ./debs/iphoneos-arm64e/com.82flex.socpwrbud_1.0_iphoneos-arm64e_5287b2ed8939c227c539a267198bef24002bd36591665c03a57c9041a1673f9b.deb
+Size: 9630
+MD5sum: 472c48a941d2446beaec0efd6d0d560e
+SHA1: bee7c381b86650cfaa713f38013ccedf7ea26559
+SHA256: 5287b2ed8939c227c539a267198bef24002bd36591665c03a57c9041a1673f9b
+Section: Utilities
+Description: Sudoless alternative to powermetrics for Apple Silicon; realtime CPU & GPU frequency, volts, usage, etc.
+Author: Lessica <82flex@gmail.com>
+Name: SoC Power Buddy
+
 Package: com.82flex.touchvis
 Version: 3.10
 Architecture: iphoneos-arm
@@ -1296,6 +1341,38 @@ Name: XcodeRootDebug
 
 Package: com.byteage.xcoderootdebug
 Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: h4ck1n <luanpao2014@gmail.com>
+Installed-Size: 368
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debs/iphoneos-arm/com.byteage.xcoderootdebug_0.0.2_iphoneos-arm_82531c61768c76f25bc288c9ab582e61980f15c25a1bcfe5506cc7eadee32ef4.deb
+Size: 27092
+MD5sum: 763252e09fcdcb066e7c5728e9034e26
+SHA1: 1132edc177d9824320a2c1bb5a819c930b99ccac
+SHA256: 82531c61768c76f25bc288c9ab582e61980f15c25a1bcfe5506cc7eadee32ef4
+Section: Tweaks
+Description: Allow Xcode to start a custom debugserver with root privileges to debug iOS apps.
+Author: h4ck1n <luanpao2014@gmail.com>
+Name: XcodeRootDebug
+
+Package: com.byteage.xcoderootdebug
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: h4ck1n <luanpao2014@gmail.com>
+Installed-Size: 368
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debs/iphoneos-arm64/com.byteage.xcoderootdebug_0.0.2_iphoneos-arm64_f34676f59115b8739afa1c6574788636994d44fd8f5ab3486233b1d41792b227.deb
+Size: 27170
+MD5sum: fbcb248b7b21b1038244da2ab0eca125
+SHA1: 09a93d0c61dc15f9a2ecabc7b9ce2a0e42f2edb3
+SHA256: f34676f59115b8739afa1c6574788636994d44fd8f5ab3486233b1d41792b227
+Section: Tweaks
+Description: Allow Xcode to start a custom debugserver with root privileges to debug iOS apps.
+Author: h4ck1n <luanpao2014@gmail.com>
+Name: XcodeRootDebug
+
+Package: com.byteage.xcoderootdebug
+Version: 0.0.2
 Architecture: iphoneos-arm64
 Maintainer: h4ck1n
 Installed-Size: 336
@@ -1308,6 +1385,22 @@ SHA256: 1a65d32b1deebe8b4f20934a68ce86db637b113f2565a90c0fb6ee62bab2834a
 Section: Tweaks
 Description: Allow Xcode to start a custom debugserver with root privileges to debug iOS apps.
 Author: h4ck1n
+Name: XcodeRootDebug
+
+Package: com.byteage.xcoderootdebug
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: h4ck1n <luanpao2014@gmail.com>
+Installed-Size: 368
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debs/iphoneos-arm64e/com.byteage.xcoderootdebug_0.0.2_iphoneos-arm64e_910011e2345510851ba0153620e78035128e2211ffd584ad2e1860d01248bcb1.deb
+Size: 27148
+MD5sum: f01f05ded5397ca0e0d060c4d000d706
+SHA1: 94823004c374a827dd5ab9302b54cf65c14ac339
+SHA256: 910011e2345510851ba0153620e78035128e2211ffd584ad2e1860d01248bcb1
+Section: Tweaks
+Description: Allow Xcode to start a custom debugserver with root privileges to debug iOS apps.
+Author: h4ck1n <luanpao2014@gmail.com>
 Name: XcodeRootDebug
 
 Package: com.byteage.xcoderootdebug
@@ -1341,6 +1434,54 @@ Section: Tweaks
 Description: Feature rich clipboard manager for iOS
 Author: Traurige <hello@traurige.dev>
 Name: Kayoko
+
+Package: system-cmds-memory-pressure
+Version: 880.120.1
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 72
+Depends: firmware (>= 13.0)
+Filename: ./debs/iphoneos-arm/system-cmds-memory-pressure_880.120.1_iphoneos-arm_7f70a20cd5458cfd41ac8e2afda77c67d8e165bef114effc354a565a4a00d878.deb
+Size: 8266
+MD5sum: 991b32f2ca9fec8810adf863a00964fd
+SHA1: 270856266ec8170b77f13e394114c9d9eaf9349f
+SHA256: 7f70a20cd5458cfd41ac8e2afda77c67d8e165bef114effc354a565a4a00d878
+Section: Utilities
+Description: Tool to apply real or simulate memory pressure on the system.
+Author: Apple Inc.
+Name: memory_pressure
+
+Package: system-cmds-memory-pressure
+Version: 880.120.1
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 72
+Depends: firmware (>= 13.0)
+Filename: ./debs/iphoneos-arm64/system-cmds-memory-pressure_880.120.1_iphoneos-arm64_735a94b99902125702fa082d8f73a2cab26e5c801b54e494cf9ab2df5e17fe99.deb
+Size: 8346
+MD5sum: ccb630169a8ac36c5919ce89416b0185
+SHA1: 552666702f1406579f6decef460d799539190c55
+SHA256: 735a94b99902125702fa082d8f73a2cab26e5c801b54e494cf9ab2df5e17fe99
+Section: Utilities
+Description: Tool to apply real or simulate memory pressure on the system.
+Author: Apple Inc.
+Name: memory_pressure
+
+Package: system-cmds-memory-pressure
+Version: 880.120.1
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 72
+Depends: firmware (>= 13.0)
+Filename: ./debs/iphoneos-arm64e/system-cmds-memory-pressure_880.120.1_iphoneos-arm64e_9d4d74615d3ada31460aa1302dc2c4176969622cea974a770ecf779ea56ab549.deb
+Size: 8274
+MD5sum: 9e96e3db6589d827b35eb93c82096c28
+SHA1: aa26803626d44c8853ac719a998b3a0063ef26c7
+SHA256: 9d4d74615d3ada31460aa1302dc2c4176969622cea974a770ecf779ea56ab549
+Section: Utilities
+Description: Tool to apply real or simulate memory pressure on the system.
+Author: Apple Inc.
+Name: memory_pressure
 
 Package: wiki.qaq.colorfulwallpaperx
 Version: 4.8
