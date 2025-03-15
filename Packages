@@ -286,6 +286,54 @@ Description: Clipboard manager for iOS.
 Author: Alexandra Aurora Göttlicher
 Name: Kayoko
 
+Package: codes.aurora.kayoko
+Version: 2.8
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 952
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/codes.aurora.kayoko_2.8_iphoneos-arm_72e0379ba988775a296ba5a41310c6d82b4014dea245a3d21c68332d967fc1ae.deb
+Size: 126772
+MD5sum: dcb533640beca0f50ecd04111d2abe19
+SHA1: 05e29fce18db7df5309c3317579668ec7f8ba9af
+SHA256: 72e0379ba988775a296ba5a41310c6d82b4014dea245a3d21c68332d967fc1ae
+Section: Tweaks
+Description: Clipboard manager for iOS.
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko
+
+Package: codes.aurora.kayoko
+Version: 2.8
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 952
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64/codes.aurora.kayoko_2.8_iphoneos-arm64_e21dc04c6e1325b142d6ae3da1d32031ef71aed94b5cc95c5d618c7adf1239fd.deb
+Size: 127108
+MD5sum: ac36b630c29534eec36cb32ffd2d44f7
+SHA1: 4abaf11ef4b0d6b29f6e21f8cc0c7cd35937d4a5
+SHA256: e21dc04c6e1325b142d6ae3da1d32031ef71aed94b5cc95c5d618c7adf1239fd
+Section: Tweaks
+Description: Clipboard manager for iOS.
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko
+
+Package: codes.aurora.kayoko
+Version: 2.8
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 968
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64e/codes.aurora.kayoko_2.8_iphoneos-arm64e_98d074e848ab5d68a808cc0093f487f6bbcbf150b9807675ab25d4cb48da562b.deb
+Size: 127570
+MD5sum: 43d9f394bf5cdf6f27b0cf24ef589656
+SHA1: e1846c572a13910013f2cd42fd0ef38dfec8564c
+SHA256: 98d074e848ab5d68a808cc0093f487f6bbcbf150b9807675ab25d4cb48da562b
+Section: Tweaks
+Description: Clipboard manager for iOS.
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko
+
 Package: com.82flex.iconrestore
 Version: 1.7
 Architecture: iphoneos-arm
