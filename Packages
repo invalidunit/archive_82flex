@@ -1483,6 +1483,57 @@ Description: Allow Xcode to start a custom debugserver with root privileges to d
 Author: h4ck1n
 Name: XcodeRootDebug
 
+Package: com.ethanarbuckle.objsee-framework
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Ethan Arbuckle
+Installed-Size: 4196
+Depends: firmware (>= 16.1)
+Filename: ./debs/iphoneos-arm/com.ethanarbuckle.objsee-framework_0.0.1_iphoneos-arm_ff927364a48012ed68ae26b33cd8c492635d0a66cb079b0c66b6cbe714bfb0a8.deb
+Size: 595032
+MD5sum: b30fa6d73c417975a8514df986af886c
+SHA1: 1cecfced1e647abe5cd328b433a1787fa35138df
+SHA256: ff927364a48012ed68ae26b33cd8c492635d0a66cb079b0c66b6cbe714bfb0a8
+Section: System
+Description: objc_msgSend tracing framework
+Tag: role::developer
+Author: Ethan Arbuckle
+Name: objsee
+
+Package: com.ethanarbuckle.objsee-framework
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Ethan Arbuckle
+Installed-Size: 4196
+Depends: firmware (>= 16.1)
+Filename: ./debs/iphoneos-arm64/com.ethanarbuckle.objsee-framework_0.0.1_iphoneos-arm64_e5d8894ad558098d427a76bd1aa64551b357eb01a0ee25dc5f216412128793f2.deb
+Size: 595416
+MD5sum: bdd2d347818d059e9bed3d4ad13791f2
+SHA1: 74aace509364b0918b3d28252810685273d5a7b2
+SHA256: e5d8894ad558098d427a76bd1aa64551b357eb01a0ee25dc5f216412128793f2
+Section: System
+Description: objc_msgSend tracing framework
+Tag: role::developer
+Author: Ethan Arbuckle
+Name: objsee
+
+Package: com.ethanarbuckle.objsee-framework
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: Ethan Arbuckle
+Installed-Size: 4196
+Depends: firmware (>= 16.1)
+Filename: ./debs/iphoneos-arm64e/com.ethanarbuckle.objsee-framework_0.0.1_iphoneos-arm64e_7f801f25dbfd5d3c412f0b62ea16c661265d605e08bb0f6cf2985cbdeda17d5d.deb
+Size: 594684
+MD5sum: bbcf152c24e61cbcfd14adfc1b709b12
+SHA1: 3f5788037167d37e0d16ad6f189fcfc57f349c86
+SHA256: 7f801f25dbfd5d3c412f0b62ea16c661265d605e08bb0f6cf2985cbdeda17d5d
+Section: System
+Description: objc_msgSend tracing framework
+Tag: role::developer
+Author: Ethan Arbuckle
+Name: objsee
+
 Package: dev.traurige.kayoko
 Version: 1.2-3
 Architecture: iphoneos-arm
