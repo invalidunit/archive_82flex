@@ -1585,6 +1585,48 @@ Tag: role::developer
 Author: Ethan Arbuckle
 Name: objsee
 
+Package: com.rpetrich.rocketbootstrap
+Version: 1.0.10~beta5
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 552
+Depends: firmware (>= 13.0), firmware (<< 16.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.rpetrich.rocketbootstrap_1.0.10~beta5_iphoneos-arm_e2ff5a71fab5eb5ee3387d5bbdd18931a4a7657f536f37dbb4660a9055b889f4.deb
+Size: 22300
+MD5sum: e6379929c7417946b7ffff68c3e26e4c
+SHA1: f5810a936a50aa6c3721570ddb92a789f9520984
+SHA256: e2ff5a71fab5eb5ee3387d5bbdd18931a4a7657f536f37dbb4660a9055b889f4
+Section: Tweaks
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Tag: purpose::extension, role::developer
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Dev: rpetrich
+Name: RocketBootstrap
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.rpetrich.rocketbootstrap
+Version: 1.0.10~beta5
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 532
+Depends: firmware (>= 13.0), firmware (<< 16.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.rpetrich.rocketbootstrap_1.0.10~beta5_iphoneos-arm64_75d134cfdb0e7e74d7f7b19f4aadc5f81baeb453724e774c0d6ec8308c669b08.deb
+Size: 19156
+MD5sum: ba72e0bd298d5e5a785f026a01030191
+SHA1: 54389cef0dacd2f1794330ce6a3f4e815f440933
+SHA256: 75d134cfdb0e7e74d7f7b19f4aadc5f81baeb453724e774c0d6ec8308c669b08
+Section: Tweaks
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Tag: purpose::extension, role::developer
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Dev: rpetrich
+Name: RocketBootstrap
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: dev.traurige.kayoko
 Version: 1.2-3
 Architecture: iphoneos-arm
