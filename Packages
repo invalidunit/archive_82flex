@@ -464,6 +464,40 @@ Tag: role::developer
 Author: 82Flex <82flex@gmail.com>
 Name: libSandyXpc
 
+Package: com.82flex.libsandyxpc
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 200
+Depends: com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64/com.82flex.libsandyxpc_1.1_iphoneos-arm64_471bbd9438ecea2ae4b192d64d71f7b01c96ddf24e8881ded31c4d0f997469cc.deb
+Size: 18800
+MD5sum: 89d7ded810109fb0c6354f8c77e5a343
+SHA1: 898a917a89c9f5e13fe56d7587ae1cc66d6d0a44
+SHA256: 471bbd9438ecea2ae4b192d64d71f7b01c96ddf24e8881ded31c4d0f997469cc
+Section: System
+Description: Yet another XPC library for iOS
+Tag: role::developer
+Author: 82Flex <82flex@gmail.com>
+Name: libSandyXpc
+
+Package: com.82flex.libsandyxpc
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 200
+Depends: com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64e/com.82flex.libsandyxpc_1.1_iphoneos-arm64e_d5b228f015a97dbbd806c5dd4c3a1d3be996ed76785e7ad5afb5c39e317038aa.deb
+Size: 18710
+MD5sum: ace27b92a95e1f97152f796adf684c8a
+SHA1: 8240980af13d9e7768d067d2f7e3fcf7af33f972
+SHA256: d5b228f015a97dbbd806c5dd4c3a1d3be996ed76785e7ad5afb5c39e317038aa
+Section: System
+Description: Yet another XPC library for iOS
+Tag: role::developer
+Author: 82Flex <82flex@gmail.com>
+Name: libSandyXpc
+
 Package: com.82flex.noredirect
 Version: 1.10
 Architecture: iphoneos-arm
