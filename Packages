@@ -78,6 +78,54 @@ Description: Troll your speed, but jailbroken.
 Author: Lessica <82flex@gmail.com>
 Name: TrollSpeed JB
 
+Package: ch.xxtou.xxtouch
+Version: 5.0
+Architecture: iphoneos-arm
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 39184
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm/ch.xxtou.xxtouch_5.0_iphoneos-arm_a3d2a10ade9dc6bec5c8ecdd407a57d2c4a3299e6759ae950e21837d8527471f.deb
+Size: 9589722
+MD5sum: c959bb39d731fc0c16eae8a5ea3fd3a4
+SHA1: 9df60081e954a16a1597a034a822d5ff1f219796
+SHA256: a3d2a10ade9dc6bec5c8ecdd407a57d2c4a3299e6759ae950e21837d8527471f
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Name: XXTouch Elite
+
+Package: ch.xxtou.xxtouch
+Version: 5.0
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 39252
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/ch.xxtou.xxtouch_5.0_iphoneos-arm64_13f0dc44aabfb69fdfe10f2514ecf9f6ff1d0ab5304f5996a6e01abb86d0a1f9.deb
+Size: 9587370
+MD5sum: 25ff0b64f4d9bc76b92c48b4b0d11940
+SHA1: 08206685f4771c422bb56c633b3f0b95d86baae8
+SHA256: 13f0dc44aabfb69fdfe10f2514ecf9f6ff1d0ab5304f5996a6e01abb86d0a1f9
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Name: XXTouch Elite
+
+Package: ch.xxtou.xxtouch
+Version: 5.0
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 39236
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/ch.xxtou.xxtouch_5.0_iphoneos-arm64e_634b74f0d57d1544a79394d1c2bdedbc90da999632e5050a0cd5d00c584066a5.deb
+Size: 9585010
+MD5sum: f1df03b537ddcb85c97b021dfa087f5f
+SHA1: 1909d592208ac04ff6cd8f84eef181a2b0e9157f
+SHA256: 634b74f0d57d1544a79394d1c2bdedbc90da999632e5050a0cd5d00c584066a5
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Name: XXTouch Elite
+
 Package: codes.aurora.kayoko
 Version: 2.4
 Architecture: iphoneos-arm64
@@ -458,6 +506,23 @@ Size: 18102
 MD5sum: 456682d92e7bc10f692094828e83f1ba
 SHA1: 618adf266c3eb29d7d625e334806c4cf48a61bdf
 SHA256: 6b47b9d662b30c59a9a607406faf5a22ec6037f41853083d27cc61b3a7cd0d45
+Section: System
+Description: Yet another XPC library for iOS
+Tag: role::developer
+Author: 82Flex <82flex@gmail.com>
+Name: libSandyXpc
+
+Package: com.82flex.libsandyxpc
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 256
+Depends: com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/com.82flex.libsandyxpc_1.1_iphoneos-arm_6353f20df8bd397bf6ec35874b1c4396e589d113b5f196c18285ba7d9e89a3ff.deb
+Size: 28690
+MD5sum: 2d8078a772703c23fb8154b78819911b
+SHA1: c6ea4107ebf25a711630c57742c0699ffd685049
+SHA256: 6353f20df8bd397bf6ec35874b1c4396e589d113b5f196c18285ba7d9e89a3ff
 Section: System
 Description: Yet another XPC library for iOS
 Tag: role::developer
