@@ -126,6 +126,54 @@ Description: XXTouch is a powerful and flexible automation tool for iOS.
 Author: 82Flex <82flex@gmail.com>
 Name: XXTouch Elite
 
+Package: ch.xxtou.xxtouch
+Version: 5.1
+Architecture: iphoneos-arm
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 39184
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm/ch.xxtou.xxtouch_5.1_iphoneos-arm_645b978a6b6f939f24501c28251d610c5d6427976b0f8d684a9e28914c10c923.deb
+Size: 9586424
+MD5sum: 6721b1df8889c06033efe3bc6910ad64
+SHA1: c03734db25ce910efeba6a7c04aad8c7c42a1029
+SHA256: 645b978a6b6f939f24501c28251d610c5d6427976b0f8d684a9e28914c10c923
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Name: XXTouch Elite
+
+Package: ch.xxtou.xxtouch
+Version: 5.1
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 39268
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/ch.xxtou.xxtouch_5.1_iphoneos-arm64_79a8f10e8a940cfd957c4ee879fcb3e7bb7e606275932ba36bd24d101d294314.deb
+Size: 9586362
+MD5sum: e285de62de928b473888fed9705c152a
+SHA1: d0e02c6b56bb660e2ae4d41e34138386efc4d320
+SHA256: 79a8f10e8a940cfd957c4ee879fcb3e7bb7e606275932ba36bd24d101d294314
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Name: XXTouch Elite
+
+Package: ch.xxtou.xxtouch
+Version: 5.1
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 39252
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/ch.xxtou.xxtouch_5.1_iphoneos-arm64e_317cc4f9525c29cd3ae0eddb52e0c7c325e29081bfb8b228d2c47b32f194db84.deb
+Size: 9589058
+MD5sum: b1757422afd07866cf6969d501ddc85a
+SHA1: 1aad503de605f729f02d181b861cd75788aaf878
+SHA256: 317cc4f9525c29cd3ae0eddb52e0c7c325e29081bfb8b228d2c47b32f194db84
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Name: XXTouch Elite
+
 Package: codes.aurora.kayoko
 Version: 2.4
 Architecture: iphoneos-arm64
@@ -3435,6 +3483,54 @@ Size: 14126448
 MD5sum: 8f298df22fe7102f254bccff0abe5ce5
 SHA1: 32622832e9b0e4c202374eb856e5cfb907bc285d
 SHA256: 539295ba307fa3c2f245227c26c513f58b3da525e908e88d7267b7b2b058fbe4
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 3.4-614
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 58540
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_3.4-614_iphoneos-arm_6e1db0a9dd758d322f022aa986522d46cb2913b2e0ea11b2cd1f61bf62e08b7e.deb
+Size: 14143222
+MD5sum: 1ccd3c9ea7aea0de9d9d2f0017ef022e
+SHA1: 048d35f271a0b1b99c9ce51400e6d953de35ee69
+SHA256: 6e1db0a9dd758d322f022aa986522d46cb2913b2e0ea11b2cd1f61bf62e08b7e
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 3.4-614
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 58544
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64/wiki.qaq.trapp.jb_3.4-614_iphoneos-arm64_c5ee4fd3c03697ccdcdc15be922893687d7a0c96e6b82a7315708202b9a733cf.deb
+Size: 14128722
+MD5sum: 408d3d7df9e0a21b5c79450b9e6f21eb
+SHA1: 27184c5253e27797d3e9b18af7e36efe6ec10da5
+SHA256: c5ee4fd3c03697ccdcdc15be922893687d7a0c96e6b82a7315708202b9a733cf
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 3.4-614
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 58540
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64e/wiki.qaq.trapp.jb_3.4-614_iphoneos-arm64e_233b48d4d34e7b1e468a537370926d2eec30fc20863f2cb68799b4762ee4d0f4.deb
+Size: 14134196
+MD5sum: 350b59e0e2d0a63eb6ca92adc9ba6118
+SHA1: 81716ea89707ee0577dc217abc68bbafa290586a
+SHA256: 233b48d4d34e7b1e468a537370926d2eec30fc20863f2cb68799b4762ee4d0f4
 Section: Applications
 Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
