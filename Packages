@@ -1872,6 +1872,54 @@ Description: Feature rich clipboard manager for iOS
 Author: Traurige <hello@traurige.dev>
 Name: Kayoko
 
+Package: love.litten.rose
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 2868
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.0)
+Filename: ./debs/iphoneos-arm/love.litten.rose_1.1.0_iphoneos-arm_1633bfc2dbf12e0f6e3b17edf8f42ebba5e25adb734c48cc49242b3ee497e5d7.deb
+Size: 432460
+MD5sum: b3a2760273480eadf7d455d941e2f929
+SHA1: c5f89be7cea8dc32eb604e9b9888aba6efe8b235
+SHA256: 1633bfc2dbf12e0f6e3b17edf8f42ebba5e25adb734c48cc49242b3ee497e5d7
+Section: Tweaks
+Description: Getting peeped by a rose doesn't feel that good, it's time to change that
+Author: Litten
+Name: Rose 🌹
+
+Package: love.litten.rose
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: Litten
+Installed-Size: 2832
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.0)
+Filename: ./debs/iphoneos-arm64/love.litten.rose_1.1.0_iphoneos-arm64_3d41bb53e99062bee045cd562d5e9ed38a2176d253e12439cb82427579c0f15f.deb
+Size: 430810
+MD5sum: db63f7cc63e870de158058d9605a6eea
+SHA1: f27d7c003417f92ef369c06589c523d45a25bb4a
+SHA256: 3d41bb53e99062bee045cd562d5e9ed38a2176d253e12439cb82427579c0f15f
+Section: Tweaks
+Description: Getting peeped by a rose doesn't feel that good, it's time to change that
+Author: Litten
+Name: Rose 🌹
+
+Package: love.litten.rose
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: Litten
+Installed-Size: 2816
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.0)
+Filename: ./debs/iphoneos-arm64e/love.litten.rose_1.1.0_iphoneos-arm64e_ecf026ea62b693cf985616357ce04040863d0d0240f943a286d26e57a1b9790d.deb
+Size: 429488
+MD5sum: 1408f43be7171677a9c27c6e9c46c5f9
+SHA1: e2694f2a70d7d6d0c8bf5979296fa2a572c2cfa8
+SHA256: ecf026ea62b693cf985616357ce04040863d0d0240f943a286d26e57a1b9790d
+Section: Tweaks
+Description: Getting peeped by a rose doesn't feel that good, it's time to change that
+Author: Litten
+Name: Rose 🌹
+
 Package: system-cmds-memory-pressure
 Version: 880.120.1
 Architecture: iphoneos-arm
