@@ -478,6 +478,102 @@ Description: Clipboard manager for iOS.
 Author: Alexandra Aurora Göttlicher
 Name: Kayoko
 
+Package: com.82flex.artworkspinner
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Lessica
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.82flex.artworkspinner_1.2_iphoneos-arm_ab14c5955494d8b2636ad93557785627e6d512193e60a3956fc6f5eed9f48375.deb
+Size: 27808
+MD5sum: e53fba5aa689d901574477e73e1509ba
+SHA1: 106daea08880e8789c220250c290a388853d2ebf
+SHA256: ab14c5955494d8b2636ad93557785627e6d512193e60a3956fc6f5eed9f48375
+Section: Tweaks
+Description: Rotate the album artwork!
+Author: Lessica
+Name: ArtworkSpinner
+
+Package: com.82flex.artworkspinner
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.82flex.artworkspinner_1.2_iphoneos-arm64_4731647b8d1b93f602696ad03a85bc95247d8032a96008dea42f7bec1c58caf9.deb
+Size: 27874
+MD5sum: b73ccc9c2869df26777152698bc5719d
+SHA1: e043eaa58ac817141fe502d2063ed5daa5c20e35
+SHA256: 4731647b8d1b93f602696ad03a85bc95247d8032a96008dea42f7bec1c58caf9
+Section: Tweaks
+Description: Rotate the album artwork!
+Author: Lessica
+Name: ArtworkSpinner
+
+Package: com.82flex.artworkspinner
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: Lessica
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.82flex.artworkspinner_1.2_iphoneos-arm64e_b8c88fd05a4ab0ee31e75e4249997527ff74abd5e297181d504a454e1751f143.deb
+Size: 27832
+MD5sum: ca4ad37653b3916cc86aac22c165fb74
+SHA1: 6dbbf4f7e1c2fe170ef6a119bcef0ea286c893a7
+SHA256: b8c88fd05a4ab0ee31e75e4249997527ff74abd5e297181d504a454e1751f143
+Section: Tweaks
+Description: Rotate the album artwork!
+Author: Lessica
+Name: ArtworkSpinner
+
+Package: com.82flex.artworkspinner
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Lessica
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.82flex.artworkspinner_1.3_iphoneos-arm_3fe9850890158fa6e564357cc6ca226372cf2459857e168b2adf69d53e8c0e98.deb
+Size: 28758
+MD5sum: 510a435150b9b48655613ffd4516ed39
+SHA1: e0e8894cbd2e27ea91de6fe6766acd90767cab40
+SHA256: 3fe9850890158fa6e564357cc6ca226372cf2459857e168b2adf69d53e8c0e98
+Section: Tweaks
+Description: Rotate the album artwork!
+Author: Lessica
+Name: ArtworkSpinner
+
+Package: com.82flex.artworkspinner
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.82flex.artworkspinner_1.3_iphoneos-arm64_a480d83e7175f6561a3130377996948a7b05838e9d161cbe06f74420a9144525.deb
+Size: 28822
+MD5sum: 7bd9443960110ed6eb24fa52ced7c8c6
+SHA1: 6f59974034881998e5428f08c023db10c5832c11
+SHA256: a480d83e7175f6561a3130377996948a7b05838e9d161cbe06f74420a9144525
+Section: Tweaks
+Description: Rotate the album artwork!
+Author: Lessica
+Name: ArtworkSpinner
+
+Package: com.82flex.artworkspinner
+Version: 1.3
+Architecture: iphoneos-arm64e
+Maintainer: Lessica
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.82flex.artworkspinner_1.3_iphoneos-arm64e_b0c4be34b3b80bab521d341373abe0d00a7050b3d83a3f4f296ad3230080dc68.deb
+Size: 28752
+MD5sum: 5c7ebf376de050dee93d354e42b1d462
+SHA1: 657492b6e274e25d10871c6895314d4c69bea2f5
+SHA256: b0c4be34b3b80bab521d341373abe0d00a7050b3d83a3f4f296ad3230080dc68
+Section: Tweaks
+Description: Rotate the album artwork!
+Author: Lessica
+Name: ArtworkSpinner
+
 Package: com.82flex.iconrestore
 Version: 1.7
 Architecture: iphoneos-arm
