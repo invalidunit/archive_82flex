@@ -222,6 +222,54 @@ Description: XXTouch is a powerful and flexible automation tool for iOS.
 Author: 82Flex <82flex@gmail.com>
 Name: XXTouch Elite
 
+Package: ch.xxtou.xxtouch
+Version: 5.2
+Architecture: iphoneos-arm
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 55372
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/ch.xxtou.xxtouch_5.2_iphoneos-arm_20250504-1036_819c9bb0cc2e1d11b99a3a7f75a5451c94307e918d13898993585044b6408fd7.deb
+Size: 19160274
+MD5sum: c87ccc161816aa5a63b4d7f9978379c4
+SHA1: 902b035a482e039bb2ae43b843cffe3a55d9ff4e
+SHA256: 819c9bb0cc2e1d11b99a3a7f75a5451c94307e918d13898993585044b6408fd7
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Name: XXTouch Elite
+
+Package: ch.xxtou.xxtouch
+Version: 5.2
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 55440
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/ch.xxtou.xxtouch_5.2_iphoneos-arm64e_20250504-1036_64b8d6ad62bcf5a2ec54ccaf0fe88ef914dc3f348b96f07a2f7dcca6b87f6b05.deb
+Size: 19163866
+MD5sum: 108e7cbe9c234874e72c970caf02cf4d
+SHA1: 8e2bd3c9ea3965b1a1795f0d1e8e8747b0e8b5e6
+SHA256: 64b8d6ad62bcf5a2ec54ccaf0fe88ef914dc3f348b96f07a2f7dcca6b87f6b05
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Name: XXTouch Elite
+
+Package: ch.xxtou.xxtouch
+Version: 5.2
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 55456
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/ch.xxtou.xxtouch_5.2_iphoneos-arm64_20250504-1036_086603415b05c976c034a01bc778b2c4bb69bccd06aaa55e4204220827cae48b.deb
+Size: 19157962
+MD5sum: 6b22cee7baa6dbf2f41381092b8777ec
+SHA1: b23c33b63cbf568cbfd4ab745ab83f2a05718817
+SHA256: 086603415b05c976c034a01bc778b2c4bb69bccd06aaa55e4204220827cae48b
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Name: XXTouch Elite
+
 Package: codes.aurora.kayoko
 Version: 2.4
 Architecture: iphoneos-arm64
@@ -617,6 +665,54 @@ Size: 29608
 MD5sum: 8b67c5015a052d0dc306dd44a373705d
 SHA1: fc50339784e66c6988b7bee643a619743212ab56
 SHA256: c3645c01cde0e25b814b9df4b70ed4a27aa1e8ec7ef0a3cec99ba5f0e6d95755
+Section: Tweaks
+Description: Rotate the album artwork!
+Author: Lessica
+Name: ArtworkSpinner
+
+Package: com.82flex.artworkspinner
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Lessica
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.82flex.artworkspinner_1.5_iphoneos-arm_20250504-1036_95f087508b45172efc3ae6d66743acf50ded8cc2e5e68c9c432f74741cfed499.deb
+Size: 28482
+MD5sum: 43854385bffec5e6b8ecc81b75d3088d
+SHA1: 22d350ee3b436ca20f02dedad06e9d8b9a415069
+SHA256: 95f087508b45172efc3ae6d66743acf50ded8cc2e5e68c9c432f74741cfed499
+Section: Tweaks
+Description: Rotate the album artwork!
+Author: Lessica
+Name: ArtworkSpinner
+
+Package: com.82flex.artworkspinner
+Version: 1.5
+Architecture: iphoneos-arm64e
+Maintainer: Lessica
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.82flex.artworkspinner_1.5_iphoneos-arm64e_20250504-1036_469a2c2c80b0c21c19337408c014ccd1c9650e1b07df584e3359bc6ac44684ec.deb
+Size: 28496
+MD5sum: b1a6d68c95af383f25863c4f78080345
+SHA1: aaeed537d40429d6888c77248a228e896414beac
+SHA256: 469a2c2c80b0c21c19337408c014ccd1c9650e1b07df584e3359bc6ac44684ec
+Section: Tweaks
+Description: Rotate the album artwork!
+Author: Lessica
+Name: ArtworkSpinner
+
+Package: com.82flex.artworkspinner
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.82flex.artworkspinner_1.5_iphoneos-arm64_20250504-1036_53c8fbf21fa142c1d73ec9d97d1ce9a645b2450f350417094ca1713ad872f905.deb
+Size: 28554
+MD5sum: 26d8de93c74828303fc4022208dd28f7
+SHA1: 337c6532b80dc4f7afeec100fd376d731dcf538e
+SHA256: 53c8fbf21fa142c1d73ec9d97d1ce9a645b2450f350417094ca1713ad872f905
 Section: Tweaks
 Description: Rotate the album artwork!
 Author: Lessica
