@@ -32,22 +32,6 @@ Name: TrollSpeed JB
 
 Package: ch.xxtou.hudapp.jb
 Version: 1.12.1
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 636
-Depends: firmware (>= 14.0)
-Filename: ./debs/iphoneos-arm/ch.xxtou.hudapp.jb_1.12.1_iphoneos-arm_bc23b786e2d0558a517893f5bd28b59e52c87d4c028d59f335495be83bd211d6.deb
-Size: 161720
-MD5sum: 8b7f676fa2efcc5f3471bbe6655ee0cc
-SHA1: 48984dfcc1073d954a47d2aecaac818e76261cbc
-SHA256: bc23b786e2d0558a517893f5bd28b59e52c87d4c028d59f335495be83bd211d6
-Section: Tweaks
-Description: Troll your speed, but jailbroken.
-Author: Lessica <82flex@gmail.com>
-Name: TrollSpeed JB
-
-Package: ch.xxtou.hudapp.jb
-Version: 1.12.1
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 636
@@ -57,6 +41,22 @@ Size: 161658
 MD5sum: 855678f68d1a011c609372795da68afc
 SHA1: 77546e0bab1e4eb263502554855548787d8d71f5
 SHA256: ace79d71eb227ad90feeb5fe854fca85ae78ee06a2ec6509e50fda8f09756cb1
+Section: Tweaks
+Description: Troll your speed, but jailbroken.
+Author: Lessica <82flex@gmail.com>
+Name: TrollSpeed JB
+
+Package: ch.xxtou.hudapp.jb
+Version: 1.12.1
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 636
+Depends: firmware (>= 14.0)
+Filename: ./debs/iphoneos-arm/ch.xxtou.hudapp.jb_1.12.1_iphoneos-arm_bc23b786e2d0558a517893f5bd28b59e52c87d4c028d59f335495be83bd211d6.deb
+Size: 161720
+MD5sum: 8b7f676fa2efcc5f3471bbe6655ee0cc
+SHA1: 48984dfcc1073d954a47d2aecaac818e76261cbc
+SHA256: bc23b786e2d0558a517893f5bd28b59e52c87d4c028d59f335495be83bd211d6
 Section: Tweaks
 Description: Troll your speed, but jailbroken.
 Author: Lessica <82flex@gmail.com>
@@ -80,22 +80,6 @@ Name: TrollSpeed JB
 
 Package: ch.xxtou.xxtouch
 Version: 5.0
-Architecture: iphoneos-arm
-Maintainer: 82Flex <82flex@gmail.com>
-Installed-Size: 39184
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: ./debs/iphoneos-arm/ch.xxtou.xxtouch_5.0_iphoneos-arm_a3d2a10ade9dc6bec5c8ecdd407a57d2c4a3299e6759ae950e21837d8527471f.deb
-Size: 9589722
-MD5sum: c959bb39d731fc0c16eae8a5ea3fd3a4
-SHA1: 9df60081e954a16a1597a034a822d5ff1f219796
-SHA256: a3d2a10ade9dc6bec5c8ecdd407a57d2c4a3299e6759ae950e21837d8527471f
-Section: Tweaks
-Description: XXTouch is a powerful and flexible automation tool for iOS.
-Author: 82Flex <82flex@gmail.com>
-Name: XXTouch Elite
-
-Package: ch.xxtou.xxtouch
-Version: 5.0
 Architecture: iphoneos-arm64e
 Maintainer: 82Flex <82flex@gmail.com>
 Installed-Size: 39236
@@ -112,6 +96,22 @@ Name: XXTouch Elite
 
 Package: ch.xxtou.xxtouch
 Version: 5.0
+Architecture: iphoneos-arm
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 39184
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm/ch.xxtou.xxtouch_5.0_iphoneos-arm_a3d2a10ade9dc6bec5c8ecdd407a57d2c4a3299e6759ae950e21837d8527471f.deb
+Size: 9589722
+MD5sum: c959bb39d731fc0c16eae8a5ea3fd3a4
+SHA1: 9df60081e954a16a1597a034a822d5ff1f219796
+SHA256: a3d2a10ade9dc6bec5c8ecdd407a57d2c4a3299e6759ae950e21837d8527471f
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Name: XXTouch Elite
+
+Package: ch.xxtou.xxtouch
+Version: 5.0
 Architecture: iphoneos-arm64
 Maintainer: 82Flex <82flex@gmail.com>
 Installed-Size: 39252
@@ -121,38 +121,6 @@ Size: 9587370
 MD5sum: 25ff0b64f4d9bc76b92c48b4b0d11940
 SHA1: 08206685f4771c422bb56c633b3f0b95d86baae8
 SHA256: 13f0dc44aabfb69fdfe10f2514ecf9f6ff1d0ab5304f5996a6e01abb86d0a1f9
-Section: Tweaks
-Description: XXTouch is a powerful and flexible automation tool for iOS.
-Author: 82Flex <82flex@gmail.com>
-Name: XXTouch Elite
-
-Package: ch.xxtou.xxtouch
-Version: 5.1
-Architecture: iphoneos-arm
-Maintainer: 82Flex <82flex@gmail.com>
-Installed-Size: 39184
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: ./debs/iphoneos-arm/ch.xxtou.xxtouch_5.1_iphoneos-arm_dea995e1da9a8a3b814c40eade5bea6a3ba4212afd6129b388c3390e9ee6b089.deb
-Size: 9590216
-MD5sum: 7adcc3e859819b3f115862e5b16f7431
-SHA1: 03a65206fbd09492a468292db9a349004c3e6dae
-SHA256: dea995e1da9a8a3b814c40eade5bea6a3ba4212afd6129b388c3390e9ee6b089
-Section: Tweaks
-Description: XXTouch is a powerful and flexible automation tool for iOS.
-Author: 82Flex <82flex@gmail.com>
-Name: XXTouch Elite
-
-Package: ch.xxtou.xxtouch
-Version: 5.1
-Architecture: iphoneos-arm
-Maintainer: 82Flex <82flex@gmail.com>
-Installed-Size: 39184
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: ./debs/iphoneos-arm/ch.xxtou.xxtouch_5.1_iphoneos-arm_645b978a6b6f939f24501c28251d610c5d6427976b0f8d684a9e28914c10c923.deb
-Size: 9586424
-MD5sum: 6721b1df8889c06033efe3bc6910ad64
-SHA1: c03734db25ce910efeba6a7c04aad8c7c42a1029
-SHA256: 645b978a6b6f939f24501c28251d610c5d6427976b0f8d684a9e28914c10c923
 Section: Tweaks
 Description: XXTouch is a powerful and flexible automation tool for iOS.
 Author: 82Flex <82flex@gmail.com>
@@ -192,15 +160,31 @@ Name: XXTouch Elite
 
 Package: ch.xxtou.xxtouch
 Version: 5.1
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: 82Flex <82flex@gmail.com>
-Installed-Size: 39268
+Installed-Size: 39184
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: ./debs/iphoneos-arm64/ch.xxtou.xxtouch_5.1_iphoneos-arm64_7998bf54843693e018a509844c2dbb35bae10b8a56a884e49809f959f2704ec4.deb
-Size: 9587966
-MD5sum: 5a4fe9e55db34dd45d79049b485466f4
-SHA1: 22bd748cc3e57cd53450b300a41f9b0579ffd6d0
-SHA256: 7998bf54843693e018a509844c2dbb35bae10b8a56a884e49809f959f2704ec4
+Filename: ./debs/iphoneos-arm/ch.xxtou.xxtouch_5.1_iphoneos-arm_dea995e1da9a8a3b814c40eade5bea6a3ba4212afd6129b388c3390e9ee6b089.deb
+Size: 9590216
+MD5sum: 7adcc3e859819b3f115862e5b16f7431
+SHA1: 03a65206fbd09492a468292db9a349004c3e6dae
+SHA256: dea995e1da9a8a3b814c40eade5bea6a3ba4212afd6129b388c3390e9ee6b089
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Name: XXTouch Elite
+
+Package: ch.xxtou.xxtouch
+Version: 5.1
+Architecture: iphoneos-arm
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 39184
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm/ch.xxtou.xxtouch_5.1_iphoneos-arm_645b978a6b6f939f24501c28251d610c5d6427976b0f8d684a9e28914c10c923.deb
+Size: 9586424
+MD5sum: 6721b1df8889c06033efe3bc6910ad64
+SHA1: c03734db25ce910efeba6a7c04aad8c7c42a1029
+SHA256: 645b978a6b6f939f24501c28251d610c5d6427976b0f8d684a9e28914c10c923
 Section: Tweaks
 Description: XXTouch is a powerful and flexible automation tool for iOS.
 Author: 82Flex <82flex@gmail.com>
@@ -223,32 +207,16 @@ Author: 82Flex <82flex@gmail.com>
 Name: XXTouch Elite
 
 Package: ch.xxtou.xxtouch
-Version: 5.2
-Architecture: iphoneos-arm
+Version: 5.1
+Architecture: iphoneos-arm64
 Maintainer: 82Flex <82flex@gmail.com>
-Installed-Size: 55372
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm/ch.xxtou.xxtouch_5.2_iphoneos-arm_20250504-1636_a25db3ae7ecc52c58b190f99045d889f346f86a9808d88739e9d0153f0689878.deb
-Size: 19162504
-MD5sum: 404ba567ebd7d91a411c096178af17ab
-SHA1: 8f375125733cee8e40efd3745adf5d2d01ebdd18
-SHA256: a25db3ae7ecc52c58b190f99045d889f346f86a9808d88739e9d0153f0689878
-Section: Tweaks
-Description: XXTouch is a powerful and flexible automation tool for iOS.
-Author: 82Flex <82flex@gmail.com>
-Name: XXTouch Elite
-
-Package: ch.xxtou.xxtouch
-Version: 5.2
-Architecture: iphoneos-arm
-Maintainer: 82Flex <82flex@gmail.com>
-Installed-Size: 55372
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm/ch.xxtou.xxtouch_5.2_iphoneos-arm_20250504-1036_819c9bb0cc2e1d11b99a3a7f75a5451c94307e918d13898993585044b6408fd7.deb
-Size: 19160274
-MD5sum: c87ccc161816aa5a63b4d7f9978379c4
-SHA1: 902b035a482e039bb2ae43b843cffe3a55d9ff4e
-SHA256: 819c9bb0cc2e1d11b99a3a7f75a5451c94307e918d13898993585044b6408fd7
+Installed-Size: 39268
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/ch.xxtou.xxtouch_5.1_iphoneos-arm64_7998bf54843693e018a509844c2dbb35bae10b8a56a884e49809f959f2704ec4.deb
+Size: 9587966
+MD5sum: 5a4fe9e55db34dd45d79049b485466f4
+SHA1: 22bd748cc3e57cd53450b300a41f9b0579ffd6d0
+SHA256: 7998bf54843693e018a509844c2dbb35bae10b8a56a884e49809f959f2704ec4
 Section: Tweaks
 Description: XXTouch is a powerful and flexible automation tool for iOS.
 Author: 82Flex <82flex@gmail.com>
@@ -281,6 +249,38 @@ Size: 19160532
 MD5sum: f5debac846ca581133a4125dcf8268f4
 SHA1: 7a8b72935405150ed5014674284f3dace048f056
 SHA256: 9a3edf6e72007e8c4e5e9f18eff32e8b17ace16ae69a1f9d9f7df0f757935aa3
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Name: XXTouch Elite
+
+Package: ch.xxtou.xxtouch
+Version: 5.2
+Architecture: iphoneos-arm
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 55372
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/ch.xxtou.xxtouch_5.2_iphoneos-arm_20250504-1036_819c9bb0cc2e1d11b99a3a7f75a5451c94307e918d13898993585044b6408fd7.deb
+Size: 19160274
+MD5sum: c87ccc161816aa5a63b4d7f9978379c4
+SHA1: 902b035a482e039bb2ae43b843cffe3a55d9ff4e
+SHA256: 819c9bb0cc2e1d11b99a3a7f75a5451c94307e918d13898993585044b6408fd7
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Name: XXTouch Elite
+
+Package: ch.xxtou.xxtouch
+Version: 5.2
+Architecture: iphoneos-arm
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 55372
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/ch.xxtou.xxtouch_5.2_iphoneos-arm_20250504-1636_a25db3ae7ecc52c58b190f99045d889f346f86a9808d88739e9d0153f0689878.deb
+Size: 19162504
+MD5sum: 404ba567ebd7d91a411c096178af17ab
+SHA1: 8f375125733cee8e40efd3745adf5d2d01ebdd18
+SHA256: a25db3ae7ecc52c58b190f99045d889f346f86a9808d88739e9d0153f0689878
 Section: Tweaks
 Description: XXTouch is a powerful and flexible automation tool for iOS.
 Author: 82Flex <82flex@gmail.com>
@@ -336,22 +336,6 @@ Name: Kayoko
 
 Package: codes.aurora.kayoko
 Version: 2.5
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 1088
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: ./debs/iphoneos-arm/codes.aurora.kayoko_2.5_iphoneos-arm_1c4a85293f52a804e77454d840041185ae56ba7d075f576e1958cc10537df315.deb
-Size: 125918
-MD5sum: e87509c919a0ecd1d439066eb4514988
-SHA1: d8bf7944800bfc394df67908e91421d1b69bd154
-SHA256: 1c4a85293f52a804e77454d840041185ae56ba7d075f576e1958cc10537df315
-Section: Tweaks
-Description: Clipboard manager for iOS.
-Author: Alexandra Aurora Göttlicher
-Name: Kayoko
-
-Package: codes.aurora.kayoko
-Version: 2.5
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 1104
@@ -361,6 +345,22 @@ Size: 126162
 MD5sum: a3d2531a7d4b54ffb7e1948ce7aef5e0
 SHA1: f6a2c6f04e3eb12391e162c477e96c54ac90ceb1
 SHA256: 89b64ae9f89f16a8601df6041a7223a6d4d0e9a211c72f73131390afe56520b3
+Section: Tweaks
+Description: Clipboard manager for iOS.
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko
+
+Package: codes.aurora.kayoko
+Version: 2.5
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1088
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/codes.aurora.kayoko_2.5_iphoneos-arm_1c4a85293f52a804e77454d840041185ae56ba7d075f576e1958cc10537df315.deb
+Size: 125918
+MD5sum: e87509c919a0ecd1d439066eb4514988
+SHA1: d8bf7944800bfc394df67908e91421d1b69bd154
+SHA256: 1c4a85293f52a804e77454d840041185ae56ba7d075f576e1958cc10537df315
 Section: Tweaks
 Description: Clipboard manager for iOS.
 Author: Alexandra Aurora Göttlicher
@@ -384,22 +384,6 @@ Name: Kayoko
 
 Package: codes.aurora.kayoko
 Version: 2.6
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 1104
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: ./debs/iphoneos-arm/codes.aurora.kayoko_2.6_iphoneos-arm_105b5a7ce3d3c6bd05c0365f0170c010627bc4b0b405a747a9952e73432288c1.deb
-Size: 126390
-MD5sum: 09fe38f0dacc3c1ac6c46d45053e8039
-SHA1: 54147c1d10ecf40811bbab382dbaf0199c148d06
-SHA256: 105b5a7ce3d3c6bd05c0365f0170c010627bc4b0b405a747a9952e73432288c1
-Section: Tweaks
-Description: Clipboard manager for iOS.
-Author: Alexandra Aurora Göttlicher
-Name: Kayoko
-
-Package: codes.aurora.kayoko
-Version: 2.6
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 1104
@@ -416,6 +400,22 @@ Name: Kayoko
 
 Package: codes.aurora.kayoko
 Version: 2.6
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1104
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/codes.aurora.kayoko_2.6_iphoneos-arm_105b5a7ce3d3c6bd05c0365f0170c010627bc4b0b405a747a9952e73432288c1.deb
+Size: 126390
+MD5sum: 09fe38f0dacc3c1ac6c46d45053e8039
+SHA1: 54147c1d10ecf40811bbab382dbaf0199c148d06
+SHA256: 105b5a7ce3d3c6bd05c0365f0170c010627bc4b0b405a747a9952e73432288c1
+Section: Tweaks
+Description: Clipboard manager for iOS.
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko
+
+Package: codes.aurora.kayoko
+Version: 2.6
 Architecture: iphoneos-arm64
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 1104
@@ -425,6 +425,38 @@ Size: 126188
 MD5sum: 07e230b7ea563d2882d19f2c3d48134d
 SHA1: 8dbd2ce7205a4aec8a3cf9991195f87e9fbcf3af
 SHA256: c80caf9b1cf90bcabf8920ff18b2ebe56f389dfc7c7b2684e55bd7b3a0638268
+Section: Tweaks
+Description: Clipboard manager for iOS.
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko
+
+Package: codes.aurora.kayoko
+Version: 2.7
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 936
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64e/codes.aurora.kayoko_2.7_iphoneos-arm64e_449d7f6a87677056fe1be7831a80f470121e8396eb9a3115530d8017f0740c9b.deb
+Size: 126552
+MD5sum: 62209d49c8e3d9ca031d6bbab1ecfed5
+SHA1: 0394ef427a5938054adced6d873c6de0050f3c0d
+SHA256: 449d7f6a87677056fe1be7831a80f470121e8396eb9a3115530d8017f0740c9b
+Section: Tweaks
+Description: Clipboard manager for iOS.
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko
+
+Package: codes.aurora.kayoko
+Version: 2.7
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 936
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64e/codes.aurora.kayoko_2.7_iphoneos-arm64e_8fb9761bf51e6a655128b456058ab1c5b808d717974c675947f14c61d1aef5ff.deb
+Size: 124116
+MD5sum: 2cd848a42cfaea1bc98c68a8da6860b3
+SHA1: c2306a279b47079966fffd311d8fb9ddedf01a6e
+SHA256: 8fb9761bf51e6a655128b456058ab1c5b808d717974c675947f14c61d1aef5ff
 Section: Tweaks
 Description: Clipboard manager for iOS.
 Author: Alexandra Aurora Göttlicher
@@ -464,31 +496,15 @@ Name: Kayoko
 
 Package: codes.aurora.kayoko
 Version: 2.7
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 936
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: ./debs/iphoneos-arm64e/codes.aurora.kayoko_2.7_iphoneos-arm64e_8fb9761bf51e6a655128b456058ab1c5b808d717974c675947f14c61d1aef5ff.deb
-Size: 124116
-MD5sum: 2cd848a42cfaea1bc98c68a8da6860b3
-SHA1: c2306a279b47079966fffd311d8fb9ddedf01a6e
-SHA256: 8fb9761bf51e6a655128b456058ab1c5b808d717974c675947f14c61d1aef5ff
-Section: Tweaks
-Description: Clipboard manager for iOS.
-Author: Alexandra Aurora Göttlicher
-Name: Kayoko
-
-Package: codes.aurora.kayoko
-Version: 2.7
-Architecture: iphoneos-arm64e
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 936
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: ./debs/iphoneos-arm64e/codes.aurora.kayoko_2.7_iphoneos-arm64e_449d7f6a87677056fe1be7831a80f470121e8396eb9a3115530d8017f0740c9b.deb
-Size: 126552
-MD5sum: 62209d49c8e3d9ca031d6bbab1ecfed5
-SHA1: 0394ef427a5938054adced6d873c6de0050f3c0d
-SHA256: 449d7f6a87677056fe1be7831a80f470121e8396eb9a3115530d8017f0740c9b
+Filename: ./debs/iphoneos-arm64/codes.aurora.kayoko_2.7_iphoneos-arm64_f7febacc089d2432f47524e67f2dde276d18572d53f9bfafdc8242d10cc4c09f.deb
+Size: 126294
+MD5sum: ef8bf34a3bf7d1e3c1f69e4fd2fc303b
+SHA1: ae04ce0726840ce0db94c567c56a3a33060c6e88
+SHA256: f7febacc089d2432f47524e67f2dde276d18572d53f9bfafdc8242d10cc4c09f
 Section: Tweaks
 Description: Clipboard manager for iOS.
 Author: Alexandra Aurora Göttlicher
@@ -505,38 +521,6 @@ Size: 123740
 MD5sum: 4d6390b845b7492ae31cc8b3e0dd05ed
 SHA1: 776d1e1e9e4d1eb3ed8cdae0cfe85cf8320966c0
 SHA256: a1e6f5ad57be9e0d7242ea6ccdfd805b5941f9d680edbd25d33fb0836dfde249
-Section: Tweaks
-Description: Clipboard manager for iOS.
-Author: Alexandra Aurora Göttlicher
-Name: Kayoko
-
-Package: codes.aurora.kayoko
-Version: 2.7
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 936
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: ./debs/iphoneos-arm64/codes.aurora.kayoko_2.7_iphoneos-arm64_f7febacc089d2432f47524e67f2dde276d18572d53f9bfafdc8242d10cc4c09f.deb
-Size: 126294
-MD5sum: ef8bf34a3bf7d1e3c1f69e4fd2fc303b
-SHA1: ae04ce0726840ce0db94c567c56a3a33060c6e88
-SHA256: f7febacc089d2432f47524e67f2dde276d18572d53f9bfafdc8242d10cc4c09f
-Section: Tweaks
-Description: Clipboard manager for iOS.
-Author: Alexandra Aurora Göttlicher
-Name: Kayoko
-
-Package: codes.aurora.kayoko
-Version: 2.8
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 952
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: ./debs/iphoneos-arm/codes.aurora.kayoko_2.8_iphoneos-arm_72e0379ba988775a296ba5a41310c6d82b4014dea245a3d21c68332d967fc1ae.deb
-Size: 126772
-MD5sum: dcb533640beca0f50ecd04111d2abe19
-SHA1: 05e29fce18db7df5309c3317579668ec7f8ba9af
-SHA256: 72e0379ba988775a296ba5a41310c6d82b4014dea245a3d21c68332d967fc1ae
 Section: Tweaks
 Description: Clipboard manager for iOS.
 Author: Alexandra Aurora Göttlicher
@@ -560,6 +544,22 @@ Name: Kayoko
 
 Package: codes.aurora.kayoko
 Version: 2.8
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 952
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/codes.aurora.kayoko_2.8_iphoneos-arm_72e0379ba988775a296ba5a41310c6d82b4014dea245a3d21c68332d967fc1ae.deb
+Size: 126772
+MD5sum: dcb533640beca0f50ecd04111d2abe19
+SHA1: 05e29fce18db7df5309c3317579668ec7f8ba9af
+SHA256: 72e0379ba988775a296ba5a41310c6d82b4014dea245a3d21c68332d967fc1ae
+Section: Tweaks
+Description: Clipboard manager for iOS.
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko
+
+Package: codes.aurora.kayoko
+Version: 2.8
 Architecture: iphoneos-arm64
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 952
@@ -576,22 +576,6 @@ Name: Kayoko
 
 Package: com.82flex.artworkspinner
 Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: Lessica
-Installed-Size: 384
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm/com.82flex.artworkspinner_1.2_iphoneos-arm_ab14c5955494d8b2636ad93557785627e6d512193e60a3956fc6f5eed9f48375.deb
-Size: 27808
-MD5sum: e53fba5aa689d901574477e73e1509ba
-SHA1: 106daea08880e8789c220250c290a388853d2ebf
-SHA256: ab14c5955494d8b2636ad93557785627e6d512193e60a3956fc6f5eed9f48375
-Section: Tweaks
-Description: Rotate the album artwork!
-Author: Lessica
-Name: ArtworkSpinner
-
-Package: com.82flex.artworkspinner
-Version: 1.2
 Architecture: iphoneos-arm64e
 Maintainer: Lessica
 Installed-Size: 384
@@ -601,6 +585,22 @@ Size: 27832
 MD5sum: ca4ad37653b3916cc86aac22c165fb74
 SHA1: 6dbbf4f7e1c2fe170ef6a119bcef0ea286c893a7
 SHA256: b8c88fd05a4ab0ee31e75e4249997527ff74abd5e297181d504a454e1751f143
+Section: Tweaks
+Description: Rotate the album artwork!
+Author: Lessica
+Name: ArtworkSpinner
+
+Package: com.82flex.artworkspinner
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Lessica
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.82flex.artworkspinner_1.2_iphoneos-arm_ab14c5955494d8b2636ad93557785627e6d512193e60a3956fc6f5eed9f48375.deb
+Size: 27808
+MD5sum: e53fba5aa689d901574477e73e1509ba
+SHA1: 106daea08880e8789c220250c290a388853d2ebf
+SHA256: ab14c5955494d8b2636ad93557785627e6d512193e60a3956fc6f5eed9f48375
 Section: Tweaks
 Description: Rotate the album artwork!
 Author: Lessica
@@ -624,22 +624,6 @@ Name: ArtworkSpinner
 
 Package: com.82flex.artworkspinner
 Version: 1.3
-Architecture: iphoneos-arm
-Maintainer: Lessica
-Installed-Size: 384
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm/com.82flex.artworkspinner_1.3_iphoneos-arm_3fe9850890158fa6e564357cc6ca226372cf2459857e168b2adf69d53e8c0e98.deb
-Size: 28758
-MD5sum: 510a435150b9b48655613ffd4516ed39
-SHA1: e0e8894cbd2e27ea91de6fe6766acd90767cab40
-SHA256: 3fe9850890158fa6e564357cc6ca226372cf2459857e168b2adf69d53e8c0e98
-Section: Tweaks
-Description: Rotate the album artwork!
-Author: Lessica
-Name: ArtworkSpinner
-
-Package: com.82flex.artworkspinner
-Version: 1.3
 Architecture: iphoneos-arm64e
 Maintainer: Lessica
 Installed-Size: 384
@@ -649,6 +633,22 @@ Size: 28752
 MD5sum: 5c7ebf376de050dee93d354e42b1d462
 SHA1: 657492b6e274e25d10871c6895314d4c69bea2f5
 SHA256: b0c4be34b3b80bab521d341373abe0d00a7050b3d83a3f4f296ad3230080dc68
+Section: Tweaks
+Description: Rotate the album artwork!
+Author: Lessica
+Name: ArtworkSpinner
+
+Package: com.82flex.artworkspinner
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Lessica
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.82flex.artworkspinner_1.3_iphoneos-arm_3fe9850890158fa6e564357cc6ca226372cf2459857e168b2adf69d53e8c0e98.deb
+Size: 28758
+MD5sum: 510a435150b9b48655613ffd4516ed39
+SHA1: e0e8894cbd2e27ea91de6fe6766acd90767cab40
+SHA256: 3fe9850890158fa6e564357cc6ca226372cf2459857e168b2adf69d53e8c0e98
 Section: Tweaks
 Description: Rotate the album artwork!
 Author: Lessica
@@ -672,22 +672,6 @@ Name: ArtworkSpinner
 
 Package: com.82flex.artworkspinner
 Version: 1.4
-Architecture: iphoneos-arm
-Maintainer: Lessica
-Installed-Size: 384
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm/com.82flex.artworkspinner_1.4_iphoneos-arm_93e5eba1a190a03d1f2cd2b7ebc4ec68a729b80edabbe2e131cf81d3279e183a.deb
-Size: 29544
-MD5sum: 7f9c66f814f9491af16856d047fd3998
-SHA1: dfb55f50a392eda9536c69f0340caa605f857fb4
-SHA256: 93e5eba1a190a03d1f2cd2b7ebc4ec68a729b80edabbe2e131cf81d3279e183a
-Section: Tweaks
-Description: Rotate the album artwork!
-Author: Lessica
-Name: ArtworkSpinner
-
-Package: com.82flex.artworkspinner
-Version: 1.4
 Architecture: iphoneos-arm64e
 Maintainer: Lessica
 Installed-Size: 384
@@ -697,6 +681,22 @@ Size: 29558
 MD5sum: fb07ba82855652d66c3f661954894a82
 SHA1: 3e7787295d91aad15170d5c1221c3ac1cdc590c8
 SHA256: 8a46f9563a31cb328f1fcbea2f55416cb6edc48ce296190b8697c6241f58eb13
+Section: Tweaks
+Description: Rotate the album artwork!
+Author: Lessica
+Name: ArtworkSpinner
+
+Package: com.82flex.artworkspinner
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Lessica
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.82flex.artworkspinner_1.4_iphoneos-arm_93e5eba1a190a03d1f2cd2b7ebc4ec68a729b80edabbe2e131cf81d3279e183a.deb
+Size: 29544
+MD5sum: 7f9c66f814f9491af16856d047fd3998
+SHA1: dfb55f50a392eda9536c69f0340caa605f857fb4
+SHA256: 93e5eba1a190a03d1f2cd2b7ebc4ec68a729b80edabbe2e131cf81d3279e183a
 Section: Tweaks
 Description: Rotate the album artwork!
 Author: Lessica
@@ -720,22 +720,6 @@ Name: ArtworkSpinner
 
 Package: com.82flex.artworkspinner
 Version: 1.5
-Architecture: iphoneos-arm
-Maintainer: Lessica
-Installed-Size: 384
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm/com.82flex.artworkspinner_1.5_iphoneos-arm_20250504-1036_95f087508b45172efc3ae6d66743acf50ded8cc2e5e68c9c432f74741cfed499.deb
-Size: 28482
-MD5sum: 43854385bffec5e6b8ecc81b75d3088d
-SHA1: 22d350ee3b436ca20f02dedad06e9d8b9a415069
-SHA256: 95f087508b45172efc3ae6d66743acf50ded8cc2e5e68c9c432f74741cfed499
-Section: Tweaks
-Description: Rotate the album artwork!
-Author: Lessica
-Name: ArtworkSpinner
-
-Package: com.82flex.artworkspinner
-Version: 1.5
 Architecture: iphoneos-arm64e
 Maintainer: Lessica
 Installed-Size: 384
@@ -745,6 +729,22 @@ Size: 28496
 MD5sum: b1a6d68c95af383f25863c4f78080345
 SHA1: aaeed537d40429d6888c77248a228e896414beac
 SHA256: 469a2c2c80b0c21c19337408c014ccd1c9650e1b07df584e3359bc6ac44684ec
+Section: Tweaks
+Description: Rotate the album artwork!
+Author: Lessica
+Name: ArtworkSpinner
+
+Package: com.82flex.artworkspinner
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Lessica
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.82flex.artworkspinner_1.5_iphoneos-arm_20250504-1036_95f087508b45172efc3ae6d66743acf50ded8cc2e5e68c9c432f74741cfed499.deb
+Size: 28482
+MD5sum: 43854385bffec5e6b8ecc81b75d3088d
+SHA1: 22d350ee3b436ca20f02dedad06e9d8b9a415069
+SHA256: 95f087508b45172efc3ae6d66743acf50ded8cc2e5e68c9c432f74741cfed499
 Section: Tweaks
 Description: Rotate the album artwork!
 Author: Lessica
@@ -765,38 +765,6 @@ Section: Tweaks
 Description: Rotate the album artwork!
 Author: Lessica
 Name: ArtworkSpinner
-
-Package: com.82flex.iconrestore
-Version: 1.7
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 412
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm/com.82flex.iconrestore_1.7_iphoneos-arm_421ae5548cdce7e473b5bec85065194eeccc69023d8593415b3cb504e6e29031.deb
-Size: 30374
-MD5sum: 2ef92de545c4fc665799f763e9a57a74
-SHA1: 09964c08f569a8b8a1b8f4d0d80b13a0a1b4a151
-SHA256: 421ae5548cdce7e473b5bec85065194eeccc69023d8593415b3cb504e6e29031
-Section: Tweaks
-Description: Save and restore the layout of your icons.
-Author: Lessica <82flex@gmail.com>
-Name: Icon Restore
-
-Package: com.82flex.iconrestore
-Version: 1.7
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 412
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm/com.82flex.iconrestore_1.7_iphoneos-arm_5c61d7575333235598964801c587468a215d901c28be9aa3712ba7221a04b2e5.deb
-Size: 29654
-MD5sum: e440c120dc45a046b19fa61a02ab751d
-SHA1: f95a6d995cafdcb482af3b765c220e287104d8e3
-SHA256: 5c61d7575333235598964801c587468a215d901c28be9aa3712ba7221a04b2e5
-Section: Tweaks
-Description: Save and restore the layout of your icons.
-Author: Lessica <82flex@gmail.com>
-Name: Icon Restore
 
 Package: com.82flex.iconrestore
 Version: 1.7
@@ -832,15 +800,31 @@ Name: Icon Restore
 
 Package: com.82flex.iconrestore
 Version: 1.7
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 412
 Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.82flex.iconrestore_1.7_iphoneos-arm64_9333d6247309cb18f0ea7f67ee7d130b2867471ca07943ebd08d09d0800fa90e.deb
-Size: 29712
-MD5sum: 0f3a9a50a14aee76115dccb654741f93
-SHA1: 2c3f40152e7625e3c659011620fab28f98b4fb9f
-SHA256: 9333d6247309cb18f0ea7f67ee7d130b2867471ca07943ebd08d09d0800fa90e
+Filename: ./debs/iphoneos-arm/com.82flex.iconrestore_1.7_iphoneos-arm_421ae5548cdce7e473b5bec85065194eeccc69023d8593415b3cb504e6e29031.deb
+Size: 30374
+MD5sum: 2ef92de545c4fc665799f763e9a57a74
+SHA1: 09964c08f569a8b8a1b8f4d0d80b13a0a1b4a151
+SHA256: 421ae5548cdce7e473b5bec85065194eeccc69023d8593415b3cb504e6e29031
+Section: Tweaks
+Description: Save and restore the layout of your icons.
+Author: Lessica <82flex@gmail.com>
+Name: Icon Restore
+
+Package: com.82flex.iconrestore
+Version: 1.7
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 412
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.82flex.iconrestore_1.7_iphoneos-arm_5c61d7575333235598964801c587468a215d901c28be9aa3712ba7221a04b2e5.deb
+Size: 29654
+MD5sum: e440c120dc45a046b19fa61a02ab751d
+SHA1: f95a6d995cafdcb482af3b765c220e287104d8e3
+SHA256: 5c61d7575333235598964801c587468a215d901c28be9aa3712ba7221a04b2e5
 Section: Tweaks
 Description: Save and restore the layout of your icons.
 Author: Lessica <82flex@gmail.com>
@@ -857,6 +841,22 @@ Size: 30460
 MD5sum: fd6409554b1bdbb3f7cc707147b1356f
 SHA1: 943d2e18477aaa2947f44e5e3e240eb2b4ed7728
 SHA256: 1ffd1e0836e4d2e03c9abb931249ec3ec3a24df6308b06d7d126dc4d42281eb3
+Section: Tweaks
+Description: Save and restore the layout of your icons.
+Author: Lessica <82flex@gmail.com>
+Name: Icon Restore
+
+Package: com.82flex.iconrestore
+Version: 1.7
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 412
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.82flex.iconrestore_1.7_iphoneos-arm64_9333d6247309cb18f0ea7f67ee7d130b2867471ca07943ebd08d09d0800fa90e.deb
+Size: 29712
+MD5sum: 0f3a9a50a14aee76115dccb654741f93
+SHA1: 2c3f40152e7625e3c659011620fab28f98b4fb9f
+SHA256: 9333d6247309cb18f0ea7f67ee7d130b2867471ca07943ebd08d09d0800fa90e
 Section: Tweaks
 Description: Save and restore the layout of your icons.
 Author: Lessica <82flex@gmail.com>
@@ -898,23 +898,6 @@ Name: libSandyXpc
 
 Package: com.82flex.libsandyxpc
 Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: 82Flex <82flex@gmail.com>
-Installed-Size: 256
-Depends: com.opa334.libsandy
-Filename: ./debs/iphoneos-arm/com.82flex.libsandyxpc_1.1_iphoneos-arm_6353f20df8bd397bf6ec35874b1c4396e589d113b5f196c18285ba7d9e89a3ff.deb
-Size: 28690
-MD5sum: 2d8078a772703c23fb8154b78819911b
-SHA1: c6ea4107ebf25a711630c57742c0699ffd685049
-SHA256: 6353f20df8bd397bf6ec35874b1c4396e589d113b5f196c18285ba7d9e89a3ff
-Section: System
-Description: Yet another XPC library for iOS
-Tag: role::developer
-Author: 82Flex <82flex@gmail.com>
-Name: libSandyXpc
-
-Package: com.82flex.libsandyxpc
-Version: 1.1
 Architecture: iphoneos-arm64e
 Maintainer: 82Flex <82flex@gmail.com>
 Installed-Size: 200
@@ -924,6 +907,23 @@ Size: 18710
 MD5sum: ace27b92a95e1f97152f796adf684c8a
 SHA1: 8240980af13d9e7768d067d2f7e3fcf7af33f972
 SHA256: d5b228f015a97dbbd806c5dd4c3a1d3be996ed76785e7ad5afb5c39e317038aa
+Section: System
+Description: Yet another XPC library for iOS
+Tag: role::developer
+Author: 82Flex <82flex@gmail.com>
+Name: libSandyXpc
+
+Package: com.82flex.libsandyxpc
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 256
+Depends: com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/com.82flex.libsandyxpc_1.1_iphoneos-arm_6353f20df8bd397bf6ec35874b1c4396e589d113b5f196c18285ba7d9e89a3ff.deb
+Size: 28690
+MD5sum: 2d8078a772703c23fb8154b78819911b
+SHA1: c6ea4107ebf25a711630c57742c0699ffd685049
+SHA256: 6353f20df8bd397bf6ec35874b1c4396e589d113b5f196c18285ba7d9e89a3ff
 Section: System
 Description: Yet another XPC library for iOS
 Tag: role::developer
@@ -949,31 +949,15 @@ Name: libSandyXpc
 
 Package: com.82flex.noredirect
 Version: 1.10
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 580
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.libsandy
-Filename: ./debs/iphoneos-arm/com.82flex.noredirect_1.10_iphoneos-arm_a0c6f476afad8275dca0942f89f0c891f85fa556f3ea0a03568a9c03d226d032.deb
-Size: 55634
-MD5sum: d8de08061563e50c5e63b770809595da
-SHA1: 2e330bccfed2073c9be527968119f22b82418a4a
-SHA256: a0c6f476afad8275dca0942f89f0c891f85fa556f3ea0a03568a9c03d226d032
-Section: Tweaks
-Description: Stop specified apps from redirecting to App Store, Safari or other apps.
-Author: Lessica <82flex@gmail.com>
-Name: No Redirect
-
-Package: com.82flex.noredirect
-Version: 1.10
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 580
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.libsandy
-Filename: ./debs/iphoneos-arm/com.82flex.noredirect_1.10_iphoneos-arm_265ee9725d86fa956ba5fe643ab5d3fc9df3250bcbb8d97794101e5beca0b32a.deb
-Size: 56938
-MD5sum: 8be2eaa41fd42010accac3bfe977ccaa
-SHA1: 381d814c6414712307ebae3894028db298b3c80e
-SHA256: 265ee9725d86fa956ba5fe643ab5d3fc9df3250bcbb8d97794101e5beca0b32a
+Filename: ./debs/iphoneos-arm64e/com.82flex.noredirect_1.10_iphoneos-arm64e_60d93c9c46a942e802499591f64708c5226535408611377e6f8854662826017c.deb
+Size: 55688
+MD5sum: 6871725cf5996ada0300a3a079e93b1b
+SHA1: 0c5f32a71e38d73ec14c135e74cbe987f921ca43
+SHA256: 60d93c9c46a942e802499591f64708c5226535408611377e6f8854662826017c
 Section: Tweaks
 Description: Stop specified apps from redirecting to App Store, Safari or other apps.
 Author: Lessica <82flex@gmail.com>
@@ -997,15 +981,31 @@ Name: No Redirect
 
 Package: com.82flex.noredirect
 Version: 1.10
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 580
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.libsandy
-Filename: ./debs/iphoneos-arm64e/com.82flex.noredirect_1.10_iphoneos-arm64e_60d93c9c46a942e802499591f64708c5226535408611377e6f8854662826017c.deb
-Size: 55688
-MD5sum: 6871725cf5996ada0300a3a079e93b1b
-SHA1: 0c5f32a71e38d73ec14c135e74cbe987f921ca43
-SHA256: 60d93c9c46a942e802499591f64708c5226535408611377e6f8854662826017c
+Filename: ./debs/iphoneos-arm/com.82flex.noredirect_1.10_iphoneos-arm_265ee9725d86fa956ba5fe643ab5d3fc9df3250bcbb8d97794101e5beca0b32a.deb
+Size: 56938
+MD5sum: 8be2eaa41fd42010accac3bfe977ccaa
+SHA1: 381d814c6414712307ebae3894028db298b3c80e
+SHA256: 265ee9725d86fa956ba5fe643ab5d3fc9df3250bcbb8d97794101e5beca0b32a
+Section: Tweaks
+Description: Stop specified apps from redirecting to App Store, Safari or other apps.
+Author: Lessica <82flex@gmail.com>
+Name: No Redirect
+
+Package: com.82flex.noredirect
+Version: 1.10
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 580
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/com.82flex.noredirect_1.10_iphoneos-arm_a0c6f476afad8275dca0942f89f0c891f85fa556f3ea0a03568a9c03d226d032.deb
+Size: 55634
+MD5sum: d8de08061563e50c5e63b770809595da
+SHA1: 2e330bccfed2073c9be527968119f22b82418a4a
+SHA256: a0c6f476afad8275dca0942f89f0c891f85fa556f3ea0a03568a9c03d226d032
 Section: Tweaks
 Description: Stop specified apps from redirecting to App Store, Safari or other apps.
 Author: Lessica <82flex@gmail.com>
@@ -1045,22 +1045,6 @@ Name: No Redirect
 
 Package: com.82flex.ohmyinsets
 Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 1600
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/iphoneos-arm/com.82flex.ohmyinsets_1.2_iphoneos-arm_2d71f9da9065ff1261bc6ba1d60d92c8316615a72eb3048d9c93968e1d83173c.deb
-Size: 210282
-MD5sum: 04992a0a6c0e45456b31bac174e93043
-SHA1: f49d9e8b6caba89b9531f2b5c299a7e70dbf5689
-SHA256: 2d71f9da9065ff1261bc6ba1d60d92c8316615a72eb3048d9c93968e1d83173c
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: Lessica <82flex@gmail.com>
-Name: Oh My Insets
-
-Package: com.82flex.ohmyinsets
-Version: 1.2
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 1600
@@ -1070,6 +1054,22 @@ Size: 208986
 MD5sum: d1eb48d7603ba987b6a234054a3ce520
 SHA1: 11afed170b0012e26b34b00c8612decb441b8543
 SHA256: 25599e2c33610fe1e2b1a772bd9283e607bdc45a80ab45c55ae35e200d4a34b6
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Lessica <82flex@gmail.com>
+Name: Oh My Insets
+
+Package: com.82flex.ohmyinsets
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1600
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm/com.82flex.ohmyinsets_1.2_iphoneos-arm_2d71f9da9065ff1261bc6ba1d60d92c8316615a72eb3048d9c93968e1d83173c.deb
+Size: 210282
+MD5sum: 04992a0a6c0e45456b31bac174e93043
+SHA1: f49d9e8b6caba89b9531f2b5c299a7e70dbf5689
+SHA256: 2d71f9da9065ff1261bc6ba1d60d92c8316615a72eb3048d9c93968e1d83173c
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: Lessica <82flex@gmail.com>
@@ -1090,38 +1090,6 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: Lessica <82flex@gmail.com>
 Name: Oh My Insets
-
-Package: com.82flex.removewidgetbg
-Version: 1.7
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 384
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
-Filename: ./debs/iphoneos-arm/com.82flex.removewidgetbg_1.7_iphoneos-arm_1f1aede8ac9dfdd3718e517ab29b2ebeccae53a8a4d77f92711de714aaa794df.deb
-Size: 29566
-MD5sum: 83fe6bf9374c693647019a2a5998b3ae
-SHA1: 8d954f1343db8a3d4eda32e96b423242a006df21
-SHA256: 1f1aede8ac9dfdd3718e517ab29b2ebeccae53a8a4d77f92711de714aaa794df
-Section: Tweaks
-Description: Remove the background of the widgets on the home screen.
-Author: Lessica <82flex@gmail.com>
-Name: Remove Widget Background
-
-Package: com.82flex.removewidgetbg
-Version: 1.7
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 388
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
-Filename: ./debs/iphoneos-arm/com.82flex.removewidgetbg_1.7_iphoneos-arm_1e819db5e99343ac501e65b04d016c1bf1a027b23e05059492c6efe41969f767.deb
-Size: 30280
-MD5sum: 3443d957528d96700d0e56c1a0b12c75
-SHA1: a1afe30e496e548e56ea5f4e7abc9b3b0eb2b84d
-SHA256: 1e819db5e99343ac501e65b04d016c1bf1a027b23e05059492c6efe41969f767
-Section: Tweaks
-Description: Remove the background of the widgets on the home screen.
-Author: Lessica <82flex@gmail.com>
-Name: Remove Widget Background
 
 Package: com.82flex.removewidgetbg
 Version: 1.7
@@ -1150,6 +1118,38 @@ Size: 29586
 MD5sum: b73e462b544347eb337b5fd7584bb3ff
 SHA1: d0ccc56d0f54de2a305744e89f96e0ca231fc637
 SHA256: 0ea4865f7f741cc9e22f99b8b6680e0e62fb673c72628a0a54d6a8d112b261f0
+Section: Tweaks
+Description: Remove the background of the widgets on the home screen.
+Author: Lessica <82flex@gmail.com>
+Name: Remove Widget Background
+
+Package: com.82flex.removewidgetbg
+Version: 1.7
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 384
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Filename: ./debs/iphoneos-arm/com.82flex.removewidgetbg_1.7_iphoneos-arm_1f1aede8ac9dfdd3718e517ab29b2ebeccae53a8a4d77f92711de714aaa794df.deb
+Size: 29566
+MD5sum: 83fe6bf9374c693647019a2a5998b3ae
+SHA1: 8d954f1343db8a3d4eda32e96b423242a006df21
+SHA256: 1f1aede8ac9dfdd3718e517ab29b2ebeccae53a8a4d77f92711de714aaa794df
+Section: Tweaks
+Description: Remove the background of the widgets on the home screen.
+Author: Lessica <82flex@gmail.com>
+Name: Remove Widget Background
+
+Package: com.82flex.removewidgetbg
+Version: 1.7
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 388
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Filename: ./debs/iphoneos-arm/com.82flex.removewidgetbg_1.7_iphoneos-arm_1e819db5e99343ac501e65b04d016c1bf1a027b23e05059492c6efe41969f767.deb
+Size: 30280
+MD5sum: 3443d957528d96700d0e56c1a0b12c75
+SHA1: a1afe30e496e548e56ea5f4e7abc9b3b0eb2b84d
+SHA256: 1e819db5e99343ac501e65b04d016c1bf1a027b23e05059492c6efe41969f767
 Section: Tweaks
 Description: Remove the background of the widgets on the home screen.
 Author: Lessica <82flex@gmail.com>
@@ -1189,6 +1189,38 @@ Name: Remove Widget Background
 
 Package: com.82flex.singlemute
 Version: 1.5
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.82flex.singlemute_1.5_iphoneos-arm64e_f0a9788058cd7f9970c670c29e405156c92ab5832d2aa54be7161b987d7f76f5.deb
+Size: 24606
+MD5sum: 253c3aabcf18e2c4ef0ad46a08c1aecd
+SHA1: 72b2ff995113cfea61641a4aeabe7b98223086f8
+SHA256: f0a9788058cd7f9970c670c29e405156c92ab5832d2aa54be7161b987d7f76f5
+Section: Tweaks
+Description: Just a single mute icon on the status bar of iOS.
+Author: 82Flex <82flex@gmail.com>
+Name: Single Mute
+
+Package: com.82flex.singlemute
+Version: 1.5
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 380
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.82flex.singlemute_1.5_iphoneos-arm64e_b1e07289ebae087c746ae59bd34d77369e06259c64a3a2e625f301fffaa680c3.deb
+Size: 23990
+MD5sum: ac49f43269d4887db49fb81bac6b867f
+SHA1: a320ec660f26b881bd4ac3bd57b6e6c82eb0bf5e
+SHA256: b1e07289ebae087c746ae59bd34d77369e06259c64a3a2e625f301fffaa680c3
+Section: Tweaks
+Description: Just a single mute icon on the status bar of iOS.
+Author: 82Flex <82flex@gmail.com>
+Name: Single Mute
+
+Package: com.82flex.singlemute
+Version: 1.5
 Architecture: iphoneos-arm
 Maintainer: 82Flex <82flex@gmail.com>
 Installed-Size: 384
@@ -1221,31 +1253,15 @@ Name: Single Mute
 
 Package: com.82flex.singlemute
 Version: 1.5
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Maintainer: 82Flex <82flex@gmail.com>
 Installed-Size: 380
 Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.82flex.singlemute_1.5_iphoneos-arm64e_b1e07289ebae087c746ae59bd34d77369e06259c64a3a2e625f301fffaa680c3.deb
-Size: 23990
-MD5sum: ac49f43269d4887db49fb81bac6b867f
-SHA1: a320ec660f26b881bd4ac3bd57b6e6c82eb0bf5e
-SHA256: b1e07289ebae087c746ae59bd34d77369e06259c64a3a2e625f301fffaa680c3
-Section: Tweaks
-Description: Just a single mute icon on the status bar of iOS.
-Author: 82Flex <82flex@gmail.com>
-Name: Single Mute
-
-Package: com.82flex.singlemute
-Version: 1.5
-Architecture: iphoneos-arm64e
-Maintainer: 82Flex <82flex@gmail.com>
-Installed-Size: 384
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.82flex.singlemute_1.5_iphoneos-arm64e_f0a9788058cd7f9970c670c29e405156c92ab5832d2aa54be7161b987d7f76f5.deb
-Size: 24606
-MD5sum: 253c3aabcf18e2c4ef0ad46a08c1aecd
-SHA1: 72b2ff995113cfea61641a4aeabe7b98223086f8
-SHA256: f0a9788058cd7f9970c670c29e405156c92ab5832d2aa54be7161b987d7f76f5
+Filename: ./debs/iphoneos-arm64/com.82flex.singlemute_1.5_iphoneos-arm64_45b2249cd5a19610aeee644ccb0cdf2a5419259f762e59eebb2debbe2d99467a.deb
+Size: 24082
+MD5sum: 5356652a55abab7158081ca825fd22f0
+SHA1: 317a22bcb768e79338e85b85083a7adf7eddd753
+SHA256: 45b2249cd5a19610aeee644ccb0cdf2a5419259f762e59eebb2debbe2d99467a
 Section: Tweaks
 Description: Just a single mute icon on the status bar of iOS.
 Author: 82Flex <82flex@gmail.com>
@@ -1267,21 +1283,21 @@ Description: Just a single mute icon on the status bar of iOS.
 Author: 82Flex <82flex@gmail.com>
 Name: Single Mute
 
-Package: com.82flex.singlemute
-Version: 1.5
-Architecture: iphoneos-arm64
+Package: com.82flex.singlevpn
+Version: 1.2
+Architecture: iphoneos-arm64e
 Maintainer: 82Flex <82flex@gmail.com>
-Installed-Size: 380
+Installed-Size: 384
 Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.82flex.singlemute_1.5_iphoneos-arm64_45b2249cd5a19610aeee644ccb0cdf2a5419259f762e59eebb2debbe2d99467a.deb
-Size: 24082
-MD5sum: 5356652a55abab7158081ca825fd22f0
-SHA1: 317a22bcb768e79338e85b85083a7adf7eddd753
-SHA256: 45b2249cd5a19610aeee644ccb0cdf2a5419259f762e59eebb2debbe2d99467a
+Filename: ./debs/iphoneos-arm64e/com.82flex.singlevpn_1.2_iphoneos-arm64e_5aba9a6cd07f4afd924dd7f0860f3ffbaff275ee7e53865235973136eed71c7b.deb
+Size: 27666
+MD5sum: 5613ad49a9d443105dcb03445f4f75e1
+SHA1: 8b72060d16b2aa2f84565b7f1115fe01bd55f142
+SHA256: 5aba9a6cd07f4afd924dd7f0860f3ffbaff275ee7e53865235973136eed71c7b
 Section: Tweaks
-Description: Just a single mute icon on the status bar of iOS.
+Description: Combine VPN state and wireless state into one icon.
 Author: 82Flex <82flex@gmail.com>
-Name: Single Mute
+Name: Single VPN
 
 Package: com.82flex.singlevpn
 Version: 1.2
@@ -1294,22 +1310,6 @@ Size: 27656
 MD5sum: ac556d222d25d58922a015780ad8c531
 SHA1: 2ebb2b4ff95765225198f35aaa0213f32c8b2fca
 SHA256: 93c3a13e2d9276ac4eafd4d82978e1223b6f772c5d35550d145d127a1d07ef8d
-Section: Tweaks
-Description: Combine VPN state and wireless state into one icon.
-Author: 82Flex <82flex@gmail.com>
-Name: Single VPN
-
-Package: com.82flex.singlevpn
-Version: 1.2
-Architecture: iphoneos-arm64e
-Maintainer: 82Flex <82flex@gmail.com>
-Installed-Size: 384
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.82flex.singlevpn_1.2_iphoneos-arm64e_5aba9a6cd07f4afd924dd7f0860f3ffbaff275ee7e53865235973136eed71c7b.deb
-Size: 27666
-MD5sum: 5613ad49a9d443105dcb03445f4f75e1
-SHA1: 8b72060d16b2aa2f84565b7f1115fe01bd55f142
-SHA256: 5aba9a6cd07f4afd924dd7f0860f3ffbaff275ee7e53865235973136eed71c7b
 Section: Tweaks
 Description: Combine VPN state and wireless state into one icon.
 Author: 82Flex <82flex@gmail.com>
@@ -1333,22 +1333,6 @@ Name: Single VPN
 
 Package: com.82flex.singlevpn
 Version: 1.3
-Architecture: iphoneos-arm
-Maintainer: 82Flex <82flex@gmail.com>
-Installed-Size: 384
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm/com.82flex.singlevpn_1.3_iphoneos-arm_9810a260f371bf7a6814bce974fac9870c8f78d37295708576e76a32ecf1cb7e.deb
-Size: 27982
-MD5sum: 829507cedd039240fe246c53ec57c35b
-SHA1: 9ce05c07b7c31b3653e88d7f07f98bbe83efdf4b
-SHA256: 9810a260f371bf7a6814bce974fac9870c8f78d37295708576e76a32ecf1cb7e
-Section: Tweaks
-Description: Combine VPN state and wireless state into one icon.
-Author: 82Flex <82flex@gmail.com>
-Name: Single VPN
-
-Package: com.82flex.singlevpn
-Version: 1.3
 Architecture: iphoneos-arm64e
 Maintainer: 82Flex <82flex@gmail.com>
 Installed-Size: 384
@@ -1358,6 +1342,22 @@ Size: 28012
 MD5sum: 661c4e6d3cc52999f45fb6a55a32572f
 SHA1: 8b971080caacdfa5fc9cadda52683271e660bb16
 SHA256: b1f170e5dd076663a7ac3c790f72276e85d29f7d2b39c0c87a4989f9416e8f91
+Section: Tweaks
+Description: Combine VPN state and wireless state into one icon.
+Author: 82Flex <82flex@gmail.com>
+Name: Single VPN
+
+Package: com.82flex.singlevpn
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.82flex.singlevpn_1.3_iphoneos-arm_9810a260f371bf7a6814bce974fac9870c8f78d37295708576e76a32ecf1cb7e.deb
+Size: 27982
+MD5sum: 829507cedd039240fe246c53ec57c35b
+SHA1: 9ce05c07b7c31b3653e88d7f07f98bbe83efdf4b
+SHA256: 9810a260f371bf7a6814bce974fac9870c8f78d37295708576e76a32ecf1cb7e
 Section: Tweaks
 Description: Combine VPN state and wireless state into one icon.
 Author: 82Flex <82flex@gmail.com>
@@ -1381,31 +1381,15 @@ Name: Single VPN
 
 Package: com.82flex.singlevpn
 Version: 1.4
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64e
 Maintainer: 82Flex <82flex@gmail.com>
 Installed-Size: 384
 Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm/com.82flex.singlevpn_1.4_iphoneos-arm_31db4cb145db77bb310e09d00a23fc1c0eb12311aee72e610eb096b4110c9d76.deb
-Size: 28594
-MD5sum: 497e4c3a29afcb3a3e52d99e37db41da
-SHA1: 266e39121f32be5436dcf63b7d7bd146739d4c6a
-SHA256: 31db4cb145db77bb310e09d00a23fc1c0eb12311aee72e610eb096b4110c9d76
-Section: Tweaks
-Description: Combine VPN state and wireless state into one icon.
-Author: 82Flex <82flex@gmail.com>
-Name: Single VPN
-
-Package: com.82flex.singlevpn
-Version: 1.4
-Architecture: iphoneos-arm
-Maintainer: 82Flex <82flex@gmail.com>
-Installed-Size: 384
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm/com.82flex.singlevpn_1.4_iphoneos-arm_719054aa6e181acdbecfc2fb6946effc41057f9a26ddd64bab8f8e77359defa0.deb
-Size: 29250
-MD5sum: 66752749c9fcb389f3ad47a7852e12c3
-SHA1: b149511c72f9a0991ed3a18ffc8745c8fd09e4a5
-SHA256: 719054aa6e181acdbecfc2fb6946effc41057f9a26ddd64bab8f8e77359defa0
+Filename: ./debs/iphoneos-arm64e/com.82flex.singlevpn_1.4_iphoneos-arm64e_ef7d5b59f4271f341d5d44d54c2055526df4a777a9d190b08142e7bd4026a065.deb
+Size: 28618
+MD5sum: c2482454e2573958fda41790d06c0753
+SHA1: a8465232582076718430ec27fc59153e02be0275
+SHA256: ef7d5b59f4271f341d5d44d54c2055526df4a777a9d190b08142e7bd4026a065
 Section: Tweaks
 Description: Combine VPN state and wireless state into one icon.
 Author: 82Flex <82flex@gmail.com>
@@ -1429,15 +1413,15 @@ Name: Single VPN
 
 Package: com.82flex.singlevpn
 Version: 1.4
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm
 Maintainer: 82Flex <82flex@gmail.com>
 Installed-Size: 384
 Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.82flex.singlevpn_1.4_iphoneos-arm64e_ef7d5b59f4271f341d5d44d54c2055526df4a777a9d190b08142e7bd4026a065.deb
-Size: 28618
-MD5sum: c2482454e2573958fda41790d06c0753
-SHA1: a8465232582076718430ec27fc59153e02be0275
-SHA256: ef7d5b59f4271f341d5d44d54c2055526df4a777a9d190b08142e7bd4026a065
+Filename: ./debs/iphoneos-arm/com.82flex.singlevpn_1.4_iphoneos-arm_719054aa6e181acdbecfc2fb6946effc41057f9a26ddd64bab8f8e77359defa0.deb
+Size: 29250
+MD5sum: 66752749c9fcb389f3ad47a7852e12c3
+SHA1: b149511c72f9a0991ed3a18ffc8745c8fd09e4a5
+SHA256: 719054aa6e181acdbecfc2fb6946effc41057f9a26ddd64bab8f8e77359defa0
 Section: Tweaks
 Description: Combine VPN state and wireless state into one icon.
 Author: 82Flex <82flex@gmail.com>
@@ -1445,15 +1429,15 @@ Name: Single VPN
 
 Package: com.82flex.singlevpn
 Version: 1.4
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: 82Flex <82flex@gmail.com>
 Installed-Size: 384
 Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.82flex.singlevpn_1.4_iphoneos-arm64_f37a7edc300f02b607d987006335c64611a8ec5750630b1cc6916924ab171614.deb
-Size: 28680
-MD5sum: 22a2841ef596d06dd9373b4ab1a4ec15
-SHA1: 5d21b4da10c46624b5499b1fd4d80c6b6fcd8a8d
-SHA256: f37a7edc300f02b607d987006335c64611a8ec5750630b1cc6916924ab171614
+Filename: ./debs/iphoneos-arm/com.82flex.singlevpn_1.4_iphoneos-arm_31db4cb145db77bb310e09d00a23fc1c0eb12311aee72e610eb096b4110c9d76.deb
+Size: 28594
+MD5sum: 497e4c3a29afcb3a3e52d99e37db41da
+SHA1: 266e39121f32be5436dcf63b7d7bd146739d4c6a
+SHA256: 31db4cb145db77bb310e09d00a23fc1c0eb12311aee72e610eb096b4110c9d76
 Section: Tweaks
 Description: Combine VPN state and wireless state into one icon.
 Author: 82Flex <82flex@gmail.com>
@@ -1476,16 +1460,16 @@ Author: 82Flex <82flex@gmail.com>
 Name: Single VPN
 
 Package: com.82flex.singlevpn
-Version: 1.5
-Architecture: iphoneos-arm
+Version: 1.4
+Architecture: iphoneos-arm64
 Maintainer: 82Flex <82flex@gmail.com>
 Installed-Size: 384
 Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm/com.82flex.singlevpn_1.5_iphoneos-arm_0b3867f213fed0ec2426edfa55127976757127a4feb05d1660c8a58ce8a572ce.deb
-Size: 28746
-MD5sum: 2d2ba524e226fad713710d3204ee58af
-SHA1: 283e8e4ecddf1d766c9ca20b67dd47cca5daa3fd
-SHA256: 0b3867f213fed0ec2426edfa55127976757127a4feb05d1660c8a58ce8a572ce
+Filename: ./debs/iphoneos-arm64/com.82flex.singlevpn_1.4_iphoneos-arm64_f37a7edc300f02b607d987006335c64611a8ec5750630b1cc6916924ab171614.deb
+Size: 28680
+MD5sum: 22a2841ef596d06dd9373b4ab1a4ec15
+SHA1: 5d21b4da10c46624b5499b1fd4d80c6b6fcd8a8d
+SHA256: f37a7edc300f02b607d987006335c64611a8ec5750630b1cc6916924ab171614
 Section: Tweaks
 Description: Combine VPN state and wireless state into one icon.
 Author: 82Flex <82flex@gmail.com>
@@ -1509,6 +1493,22 @@ Name: Single VPN
 
 Package: com.82flex.singlevpn
 Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.82flex.singlevpn_1.5_iphoneos-arm_0b3867f213fed0ec2426edfa55127976757127a4feb05d1660c8a58ce8a572ce.deb
+Size: 28746
+MD5sum: 2d2ba524e226fad713710d3204ee58af
+SHA1: 283e8e4ecddf1d766c9ca20b67dd47cca5daa3fd
+SHA256: 0b3867f213fed0ec2426edfa55127976757127a4feb05d1660c8a58ce8a572ce
+Section: Tweaks
+Description: Combine VPN state and wireless state into one icon.
+Author: 82Flex <82flex@gmail.com>
+Name: Single VPN
+
+Package: com.82flex.singlevpn
+Version: 1.5
 Architecture: iphoneos-arm64
 Maintainer: 82Flex <82flex@gmail.com>
 Installed-Size: 384
@@ -1525,21 +1525,6 @@ Name: Single VPN
 
 Package: com.82flex.socpwrbud
 Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 76
-Filename: ./debs/iphoneos-arm/com.82flex.socpwrbud_1.0_iphoneos-arm_d555075ff2b79cd45106edcc03e0effac367a908feb5d4526e7601163e388b34.deb
-Size: 9614
-MD5sum: 9ebba1546d9691d88d758a9018097217
-SHA1: 0b6876e992db95a14cf57964d02b187f620e822d
-SHA256: d555075ff2b79cd45106edcc03e0effac367a908feb5d4526e7601163e388b34
-Section: Utilities
-Description: Sudoless alternative to powermetrics for Apple Silicon; realtime CPU & GPU frequency, volts, usage, etc.
-Author: Lessica <82flex@gmail.com>
-Name: SoC Power Buddy
-
-Package: com.82flex.socpwrbud
-Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 76
@@ -1548,6 +1533,21 @@ Size: 9630
 MD5sum: 472c48a941d2446beaec0efd6d0d560e
 SHA1: bee7c381b86650cfaa713f38013ccedf7ea26559
 SHA256: 5287b2ed8939c227c539a267198bef24002bd36591665c03a57c9041a1673f9b
+Section: Utilities
+Description: Sudoless alternative to powermetrics for Apple Silicon; realtime CPU & GPU frequency, volts, usage, etc.
+Author: Lessica <82flex@gmail.com>
+Name: SoC Power Buddy
+
+Package: com.82flex.socpwrbud
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 76
+Filename: ./debs/iphoneos-arm/com.82flex.socpwrbud_1.0_iphoneos-arm_d555075ff2b79cd45106edcc03e0effac367a908feb5d4526e7601163e388b34.deb
+Size: 9614
+MD5sum: 9ebba1546d9691d88d758a9018097217
+SHA1: 0b6876e992db95a14cf57964d02b187f620e822d
+SHA256: d555075ff2b79cd45106edcc03e0effac367a908feb5d4526e7601163e388b34
 Section: Utilities
 Description: Sudoless alternative to powermetrics for Apple Silicon; realtime CPU & GPU frequency, volts, usage, etc.
 Author: Lessica <82flex@gmail.com>
@@ -1570,22 +1570,6 @@ Name: SoC Power Buddy
 
 Package: com.82flex.touchvis
 Version: 3.10
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 3108
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/iphoneos-arm/com.82flex.touchvis_3.10_iphoneos-arm_0d78ae19418bb4e4f047eca7f3d6bd5ae115376a58c38b8db9160db81662fa99.deb
-Size: 693458
-MD5sum: 6959658518e80d0d66eb3a425229d8f8
-SHA1: d5bf9c609980bb14a51006afabfd03cfa68247ee
-SHA256: 0d78ae19418bb4e4f047eca7f3d6bd5ae115376a58c38b8db9160db81662fa99
-Section: Tweaks
-Description: Display your touch interactions!
-Author: Lessica <82flex@gmail.com>
-Name: Touch-Viz
-
-Package: com.82flex.touchvis
-Version: 3.10
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 3112
@@ -1595,6 +1579,22 @@ Size: 693952
 MD5sum: 1a005eaf25e6a0718b02e9dd6ff20435
 SHA1: 40dd8aa2782a7f01aa7f2f6b8774b73e954224f7
 SHA256: 9fcca594b5d2ec3f217b34da05319f8a38eafff3844d2688fbaf5cc76f9846e7
+Section: Tweaks
+Description: Display your touch interactions!
+Author: Lessica <82flex@gmail.com>
+Name: Touch-Viz
+
+Package: com.82flex.touchvis
+Version: 3.10
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 3108
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm/com.82flex.touchvis_3.10_iphoneos-arm_0d78ae19418bb4e4f047eca7f3d6bd5ae115376a58c38b8db9160db81662fa99.deb
+Size: 693458
+MD5sum: 6959658518e80d0d66eb3a425229d8f8
+SHA1: d5bf9c609980bb14a51006afabfd03cfa68247ee
+SHA256: 0d78ae19418bb4e4f047eca7f3d6bd5ae115376a58c38b8db9160db81662fa99
 Section: Tweaks
 Description: Display your touch interactions!
 Author: Lessica <82flex@gmail.com>
@@ -1618,22 +1618,6 @@ Name: Touch-Viz
 
 Package: com.82flex.touchvis
 Version: 3.11
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 3112
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/iphoneos-arm/com.82flex.touchvis_3.11_iphoneos-arm_982c5c769281bdda7cd8cc3fe1c78d1405649e8c305965dc1ec007e6e8a2b06c.deb
-Size: 701032
-MD5sum: f335d014a04b789e0b2b62d6c225bbc7
-SHA1: a05ac3f92f77b5a03aa6b20699197d1ec08a6456
-SHA256: 982c5c769281bdda7cd8cc3fe1c78d1405649e8c305965dc1ec007e6e8a2b06c
-Section: Tweaks
-Description: Display your touch interactions!
-Author: Lessica <82flex@gmail.com>
-Name: Touch-Viz
-
-Package: com.82flex.touchvis
-Version: 3.11
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 3112
@@ -1643,6 +1627,22 @@ Size: 698876
 MD5sum: a5a446dd582a3f3af3995624f80c99fc
 SHA1: 4b2fde7662ce5cbabe46366335788bda4e2f7165
 SHA256: 48f5367ad63f010a73f18f5d085153d4a9a5c02356ed2c0d690ba5d658a85e2c
+Section: Tweaks
+Description: Display your touch interactions!
+Author: Lessica <82flex@gmail.com>
+Name: Touch-Viz
+
+Package: com.82flex.touchvis
+Version: 3.11
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 3112
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm/com.82flex.touchvis_3.11_iphoneos-arm_982c5c769281bdda7cd8cc3fe1c78d1405649e8c305965dc1ec007e6e8a2b06c.deb
+Size: 701032
+MD5sum: f335d014a04b789e0b2b62d6c225bbc7
+SHA1: a05ac3f92f77b5a03aa6b20699197d1ec08a6456
+SHA256: 982c5c769281bdda7cd8cc3fe1c78d1405649e8c305965dc1ec007e6e8a2b06c
 Section: Tweaks
 Description: Display your touch interactions!
 Author: Lessica <82flex@gmail.com>
@@ -1666,22 +1666,6 @@ Name: Touch-Viz
 
 Package: com.82flex.touchvis
 Version: 3.12
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 3112
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/iphoneos-arm/com.82flex.touchvis_3.12_iphoneos-arm_31fb966ccdc2867d8c68d09e87e5599e13b8abe366de2eed30d8e17aa4f3b1d7.deb
-Size: 700968
-MD5sum: 546cb4e9ed66a6457b2bcd308af9c290
-SHA1: 89dac1e319886777754e7a504eb124a59ddfd4aa
-SHA256: 31fb966ccdc2867d8c68d09e87e5599e13b8abe366de2eed30d8e17aa4f3b1d7
-Section: Tweaks
-Description: Display your touch interactions!
-Author: Lessica <82flex@gmail.com>
-Name: Touch-Viz
-
-Package: com.82flex.touchvis
-Version: 3.12
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 3112
@@ -1691,6 +1675,22 @@ Size: 700828
 MD5sum: 3ede904ffd38ccac3ac4ebcd3a5423d8
 SHA1: 5280834cda76611f5f40df8fdabc91021e956007
 SHA256: 6796622a3777e250bea7e97e4de0cc8eb01992506b1a6922dea960a1c6273c3b
+Section: Tweaks
+Description: Display your touch interactions!
+Author: Lessica <82flex@gmail.com>
+Name: Touch-Viz
+
+Package: com.82flex.touchvis
+Version: 3.12
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 3112
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm/com.82flex.touchvis_3.12_iphoneos-arm_31fb966ccdc2867d8c68d09e87e5599e13b8abe366de2eed30d8e17aa4f3b1d7.deb
+Size: 700968
+MD5sum: 546cb4e9ed66a6457b2bcd308af9c290
+SHA1: 89dac1e319886777754e7a504eb124a59ddfd4aa
+SHA256: 31fb966ccdc2867d8c68d09e87e5599e13b8abe366de2eed30d8e17aa4f3b1d7
 Section: Tweaks
 Description: Display your touch interactions!
 Author: Lessica <82flex@gmail.com>
@@ -1842,38 +1842,6 @@ Name: 语音转文字免跳转
 
 Package: com.82flex.wtvrbglauncher
 Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: Lessica
-Installed-Size: 372
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: ./debs/iphoneos-arm/com.82flex.wtvrbglauncher_1.1_iphoneos-arm_a9fdc5d1634de4a18a31d2b36c3050b21c847789dec83a2f5f173dbcf2c1da64.deb
-Size: 22288
-MD5sum: 313a298a9b20cd00c58bd02276b69c7b
-SHA1: 43b8fc98abfc3d8ace80e31154066ba5aff3c84d
-SHA256: a9fdc5d1634de4a18a31d2b36c3050b21c847789dec83a2f5f173dbcf2c1da64
-Section: Tweaks
-Description: 中文输入法语音转文字免跳转插件。无设置选项，安装并注销后立即生效。支持的输入法：微信、百度、搜狗、讯飞
-Author: Lessica
-Name: 语音转文字免跳转
-
-Package: com.82flex.wtvrbglauncher
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: Lessica
-Installed-Size: 372
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: ./debs/iphoneos-arm/com.82flex.wtvrbglauncher_1.1_iphoneos-arm_d69564258a69dc330959082a056aaf7f9805fb5b74ef65be53c308e0d8293c8e.deb
-Size: 22928
-MD5sum: bfcdce23f19e6b989efd1f73b49093aa
-SHA1: 636e6ddf9f1db1dde63cb9d3ab4e65b568998284
-SHA256: d69564258a69dc330959082a056aaf7f9805fb5b74ef65be53c308e0d8293c8e
-Section: Tweaks
-Description: 中文输入法语音转文字免跳转插件。无设置选项，安装并注销后立即生效。支持的输入法：微信、百度、搜狗、讯飞
-Author: Lessica
-Name: 语音转文字免跳转
-
-Package: com.82flex.wtvrbglauncher
-Version: 1.1
 Architecture: iphoneos-arm64e
 Maintainer: Lessica
 Installed-Size: 372
@@ -1899,6 +1867,38 @@ Size: 22314
 MD5sum: 403d33d6c9f753bce285a9f88c7b4702
 SHA1: 5c88b3ed6f220b807330e500ec347f8d9563cf49
 SHA256: b78bccf2fa4d91c9ae0df098b0aa4c3831f2bcb8d64b6c4ef0b054b5b5429038
+Section: Tweaks
+Description: 中文输入法语音转文字免跳转插件。无设置选项，安装并注销后立即生效。支持的输入法：微信、百度、搜狗、讯飞
+Author: Lessica
+Name: 语音转文字免跳转
+
+Package: com.82flex.wtvrbglauncher
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Lessica
+Installed-Size: 372
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm/com.82flex.wtvrbglauncher_1.1_iphoneos-arm_d69564258a69dc330959082a056aaf7f9805fb5b74ef65be53c308e0d8293c8e.deb
+Size: 22928
+MD5sum: bfcdce23f19e6b989efd1f73b49093aa
+SHA1: 636e6ddf9f1db1dde63cb9d3ab4e65b568998284
+SHA256: d69564258a69dc330959082a056aaf7f9805fb5b74ef65be53c308e0d8293c8e
+Section: Tweaks
+Description: 中文输入法语音转文字免跳转插件。无设置选项，安装并注销后立即生效。支持的输入法：微信、百度、搜狗、讯飞
+Author: Lessica
+Name: 语音转文字免跳转
+
+Package: com.82flex.wtvrbglauncher
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Lessica
+Installed-Size: 372
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm/com.82flex.wtvrbglauncher_1.1_iphoneos-arm_a9fdc5d1634de4a18a31d2b36c3050b21c847789dec83a2f5f173dbcf2c1da64.deb
+Size: 22288
+MD5sum: 313a298a9b20cd00c58bd02276b69c7b
+SHA1: 43b8fc98abfc3d8ace80e31154066ba5aff3c84d
+SHA256: a9fdc5d1634de4a18a31d2b36c3050b21c847789dec83a2f5f173dbcf2c1da64
 Section: Tweaks
 Description: 中文输入法语音转文字免跳转插件。无设置选项，安装并注销后立即生效。支持的输入法：微信、百度、搜狗、讯飞
 Author: Lessica
@@ -1938,6 +1938,38 @@ Name: 语音转文字免跳转
 
 Package: com.byteage.xcoderootdebug
 Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: h4ck1n <luanpao2014@gmail.com>
+Installed-Size: 368
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debs/iphoneos-arm64e/com.byteage.xcoderootdebug_0.0.2_iphoneos-arm64e_910011e2345510851ba0153620e78035128e2211ffd584ad2e1860d01248bcb1.deb
+Size: 27148
+MD5sum: f01f05ded5397ca0e0d060c4d000d706
+SHA1: 94823004c374a827dd5ab9302b54cf65c14ac339
+SHA256: 910011e2345510851ba0153620e78035128e2211ffd584ad2e1860d01248bcb1
+Section: Tweaks
+Description: Allow Xcode to start a custom debugserver with root privileges to debug iOS apps.
+Author: h4ck1n <luanpao2014@gmail.com>
+Name: XcodeRootDebug
+
+Package: com.byteage.xcoderootdebug
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: h4ck1n
+Installed-Size: 336
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debs/iphoneos-arm64e/com.byteage.xcoderootdebug_0.0.2_iphoneos-arm64e_7bba735fba46b1c2a656265ca4f2aa389cad9b52d784b1e165d68d799b324a72.deb
+Size: 28372
+MD5sum: 737f243907ca819c910e75051e75f078
+SHA1: c0b45a4943821327abaa1ea3f17b8836dd0405ff
+SHA256: 7bba735fba46b1c2a656265ca4f2aa389cad9b52d784b1e165d68d799b324a72
+Section: Tweaks
+Description: Allow Xcode to start a custom debugserver with root privileges to debug iOS apps.
+Author: h4ck1n
+Name: XcodeRootDebug
+
+Package: com.byteage.xcoderootdebug
+Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: h4ck1n <luanpao2014@gmail.com>
 Installed-Size: 368
@@ -1970,47 +2002,15 @@ Name: XcodeRootDebug
 
 Package: com.byteage.xcoderootdebug
 Version: 0.0.2
-Architecture: iphoneos-arm64e
-Maintainer: h4ck1n
-Installed-Size: 336
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
-Filename: ./debs/iphoneos-arm64e/com.byteage.xcoderootdebug_0.0.2_iphoneos-arm64e_7bba735fba46b1c2a656265ca4f2aa389cad9b52d784b1e165d68d799b324a72.deb
-Size: 28372
-MD5sum: 737f243907ca819c910e75051e75f078
-SHA1: c0b45a4943821327abaa1ea3f17b8836dd0405ff
-SHA256: 7bba735fba46b1c2a656265ca4f2aa389cad9b52d784b1e165d68d799b324a72
-Section: Tweaks
-Description: Allow Xcode to start a custom debugserver with root privileges to debug iOS apps.
-Author: h4ck1n
-Name: XcodeRootDebug
-
-Package: com.byteage.xcoderootdebug
-Version: 0.0.2
-Architecture: iphoneos-arm64e
-Maintainer: h4ck1n <luanpao2014@gmail.com>
-Installed-Size: 368
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
-Filename: ./debs/iphoneos-arm64e/com.byteage.xcoderootdebug_0.0.2_iphoneos-arm64e_910011e2345510851ba0153620e78035128e2211ffd584ad2e1860d01248bcb1.deb
-Size: 27148
-MD5sum: f01f05ded5397ca0e0d060c4d000d706
-SHA1: 94823004c374a827dd5ab9302b54cf65c14ac339
-SHA256: 910011e2345510851ba0153620e78035128e2211ffd584ad2e1860d01248bcb1
-Section: Tweaks
-Description: Allow Xcode to start a custom debugserver with root privileges to debug iOS apps.
-Author: h4ck1n <luanpao2014@gmail.com>
-Name: XcodeRootDebug
-
-Package: com.byteage.xcoderootdebug
-Version: 0.0.2
 Architecture: iphoneos-arm64
 Maintainer: h4ck1n <luanpao2014@gmail.com>
 Installed-Size: 368
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
-Filename: ./debs/iphoneos-arm64/com.byteage.xcoderootdebug_0.0.2_iphoneos-arm64_f34676f59115b8739afa1c6574788636994d44fd8f5ab3486233b1d41792b227.deb
-Size: 27170
-MD5sum: fbcb248b7b21b1038244da2ab0eca125
-SHA1: 09a93d0c61dc15f9a2ecabc7b9ce2a0e42f2edb3
-SHA256: f34676f59115b8739afa1c6574788636994d44fd8f5ab3486233b1d41792b227
+Filename: ./debs/iphoneos-arm64/com.byteage.xcoderootdebug_0.0.2_iphoneos-arm64_f8dbd4558b716e40346a45e1e7f4ef9afe082d43a74672e8f818adf668c1210e.deb
+Size: 28440
+MD5sum: bd3fad061566342dd6764df322b7755f
+SHA1: 641ed37cb5e6380a2ba84a9f1995b519469edd02
+SHA256: f8dbd4558b716e40346a45e1e7f4ef9afe082d43a74672e8f818adf668c1210e
 Section: Tweaks
 Description: Allow Xcode to start a custom debugserver with root privileges to debug iOS apps.
 Author: h4ck1n <luanpao2014@gmail.com>
@@ -2038,32 +2038,15 @@ Architecture: iphoneos-arm64
 Maintainer: h4ck1n <luanpao2014@gmail.com>
 Installed-Size: 368
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
-Filename: ./debs/iphoneos-arm64/com.byteage.xcoderootdebug_0.0.2_iphoneos-arm64_f8dbd4558b716e40346a45e1e7f4ef9afe082d43a74672e8f818adf668c1210e.deb
-Size: 28440
-MD5sum: bd3fad061566342dd6764df322b7755f
-SHA1: 641ed37cb5e6380a2ba84a9f1995b519469edd02
-SHA256: f8dbd4558b716e40346a45e1e7f4ef9afe082d43a74672e8f818adf668c1210e
+Filename: ./debs/iphoneos-arm64/com.byteage.xcoderootdebug_0.0.2_iphoneos-arm64_f34676f59115b8739afa1c6574788636994d44fd8f5ab3486233b1d41792b227.deb
+Size: 27170
+MD5sum: fbcb248b7b21b1038244da2ab0eca125
+SHA1: 09a93d0c61dc15f9a2ecabc7b9ce2a0e42f2edb3
+SHA256: f34676f59115b8739afa1c6574788636994d44fd8f5ab3486233b1d41792b227
 Section: Tweaks
 Description: Allow Xcode to start a custom debugserver with root privileges to debug iOS apps.
 Author: h4ck1n <luanpao2014@gmail.com>
 Name: XcodeRootDebug
-
-Package: com.ethanarbuckle.objsee-framework
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: Ethan Arbuckle
-Installed-Size: 4196
-Depends: firmware (>= 16.1)
-Filename: ./debs/iphoneos-arm/com.ethanarbuckle.objsee-framework_0.0.1_iphoneos-arm_ff927364a48012ed68ae26b33cd8c492635d0a66cb079b0c66b6cbe714bfb0a8.deb
-Size: 595032
-MD5sum: b30fa6d73c417975a8514df986af886c
-SHA1: 1cecfced1e647abe5cd328b433a1787fa35138df
-SHA256: ff927364a48012ed68ae26b33cd8c492635d0a66cb079b0c66b6cbe714bfb0a8
-Section: System
-Description: objc_msgSend tracing framework
-Tag: role::developer
-Author: Ethan Arbuckle
-Name: objsee
 
 Package: com.ethanarbuckle.objsee-framework
 Version: 0.0.1
@@ -2076,6 +2059,23 @@ Size: 594684
 MD5sum: bbcf152c24e61cbcfd14adfc1b709b12
 SHA1: 3f5788037167d37e0d16ad6f189fcfc57f349c86
 SHA256: 7f801f25dbfd5d3c412f0b62ea16c661265d605e08bb0f6cf2985cbdeda17d5d
+Section: System
+Description: objc_msgSend tracing framework
+Tag: role::developer
+Author: Ethan Arbuckle
+Name: objsee
+
+Package: com.ethanarbuckle.objsee-framework
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Ethan Arbuckle
+Installed-Size: 4196
+Depends: firmware (>= 16.1)
+Filename: ./debs/iphoneos-arm/com.ethanarbuckle.objsee-framework_0.0.1_iphoneos-arm_ff927364a48012ed68ae26b33cd8c492635d0a66cb079b0c66b6cbe714bfb0a8.deb
+Size: 595032
+MD5sum: b30fa6d73c417975a8514df986af886c
+SHA1: 1cecfced1e647abe5cd328b433a1787fa35138df
+SHA256: ff927364a48012ed68ae26b33cd8c492635d0a66cb079b0c66b6cbe714bfb0a8
 Section: System
 Description: objc_msgSend tracing framework
 Tag: role::developer
@@ -2101,23 +2101,6 @@ Name: objsee
 
 Package: com.ethanarbuckle.objsee-framework
 Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: Ethan Arbuckle
-Installed-Size: 4196
-Depends: firmware (>= 16.1)
-Filename: ./debs/iphoneos-arm/com.ethanarbuckle.objsee-framework_0.0.2_iphoneos-arm_7c4f03199da79da73ef10426792c0de4cbd8fa50c894f09aa717f261322945ec.deb
-Size: 594784
-MD5sum: f8bf400348d2fa79a02efc3ff85f4856
-SHA1: 9bedc34d8a5515e4c6aa349a3b4aaf78b20f154c
-SHA256: 7c4f03199da79da73ef10426792c0de4cbd8fa50c894f09aa717f261322945ec
-Section: System
-Description: objc_msgSend tracing framework
-Tag: role::developer
-Author: Ethan Arbuckle
-Name: objsee
-
-Package: com.ethanarbuckle.objsee-framework
-Version: 0.0.2
 Architecture: iphoneos-arm64e
 Maintainer: Ethan Arbuckle
 Installed-Size: 4196
@@ -2127,6 +2110,23 @@ Size: 596148
 MD5sum: 2aa4fbf7c1ab3e5b7750bd53be2b1aba
 SHA1: b351ea2b4c21a16822c1dfe640b2d0fd2b12d22f
 SHA256: 215bfa7ab5c5903c8e320ca198443278f9d7200a607ab78288d4a6fd9f4ea3f5
+Section: System
+Description: objc_msgSend tracing framework
+Tag: role::developer
+Author: Ethan Arbuckle
+Name: objsee
+
+Package: com.ethanarbuckle.objsee-framework
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Ethan Arbuckle
+Installed-Size: 4196
+Depends: firmware (>= 16.1)
+Filename: ./debs/iphoneos-arm/com.ethanarbuckle.objsee-framework_0.0.2_iphoneos-arm_7c4f03199da79da73ef10426792c0de4cbd8fa50c894f09aa717f261322945ec.deb
+Size: 594784
+MD5sum: f8bf400348d2fa79a02efc3ff85f4856
+SHA1: 9bedc34d8a5515e4c6aa349a3b4aaf78b20f154c
+SHA256: 7c4f03199da79da73ef10426792c0de4cbd8fa50c894f09aa717f261322945ec
 Section: System
 Description: objc_msgSend tracing framework
 Tag: role::developer
@@ -2210,22 +2210,6 @@ Name: Kayoko
 
 Package: love.litten.rose
 Version: 1.1.0
-Architecture: iphoneos-arm
-Maintainer: Litten
-Installed-Size: 2868
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.0)
-Filename: ./debs/iphoneos-arm/love.litten.rose_1.1.0_iphoneos-arm_1633bfc2dbf12e0f6e3b17edf8f42ebba5e25adb734c48cc49242b3ee497e5d7.deb
-Size: 432460
-MD5sum: b3a2760273480eadf7d455d941e2f929
-SHA1: c5f89be7cea8dc32eb604e9b9888aba6efe8b235
-SHA256: 1633bfc2dbf12e0f6e3b17edf8f42ebba5e25adb734c48cc49242b3ee497e5d7
-Section: Tweaks
-Description: Getting peeped by a rose doesn't feel that good, it's time to change that
-Author: Litten
-Name: Rose 🌹
-
-Package: love.litten.rose
-Version: 1.1.0
 Architecture: iphoneos-arm64e
 Maintainer: Litten
 Installed-Size: 2816
@@ -2235,6 +2219,22 @@ Size: 429488
 MD5sum: 1408f43be7171677a9c27c6e9c46c5f9
 SHA1: e2694f2a70d7d6d0c8bf5979296fa2a572c2cfa8
 SHA256: ecf026ea62b693cf985616357ce04040863d0d0240f943a286d26e57a1b9790d
+Section: Tweaks
+Description: Getting peeped by a rose doesn't feel that good, it's time to change that
+Author: Litten
+Name: Rose 🌹
+
+Package: love.litten.rose
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 2868
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.0)
+Filename: ./debs/iphoneos-arm/love.litten.rose_1.1.0_iphoneos-arm_1633bfc2dbf12e0f6e3b17edf8f42ebba5e25adb734c48cc49242b3ee497e5d7.deb
+Size: 432460
+MD5sum: b3a2760273480eadf7d455d941e2f929
+SHA1: c5f89be7cea8dc32eb604e9b9888aba6efe8b235
+SHA256: 1633bfc2dbf12e0f6e3b17edf8f42ebba5e25adb734c48cc49242b3ee497e5d7
 Section: Tweaks
 Description: Getting peeped by a rose doesn't feel that good, it's time to change that
 Author: Litten
@@ -2258,22 +2258,6 @@ Name: Rose 🌹
 
 Package: system-cmds-memory-pressure
 Version: 880.120.1
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 72
-Depends: firmware (>= 13.0)
-Filename: ./debs/iphoneos-arm/system-cmds-memory-pressure_880.120.1_iphoneos-arm_7f70a20cd5458cfd41ac8e2afda77c67d8e165bef114effc354a565a4a00d878.deb
-Size: 8266
-MD5sum: 991b32f2ca9fec8810adf863a00964fd
-SHA1: 270856266ec8170b77f13e394114c9d9eaf9349f
-SHA256: 7f70a20cd5458cfd41ac8e2afda77c67d8e165bef114effc354a565a4a00d878
-Section: Utilities
-Description: Tool to apply real or simulate memory pressure on the system.
-Author: Apple Inc.
-Name: memory_pressure
-
-Package: system-cmds-memory-pressure
-Version: 880.120.1
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 72
@@ -2283,6 +2267,22 @@ Size: 8274
 MD5sum: 9e96e3db6589d827b35eb93c82096c28
 SHA1: aa26803626d44c8853ac719a998b3a0063ef26c7
 SHA256: 9d4d74615d3ada31460aa1302dc2c4176969622cea974a770ecf779ea56ab549
+Section: Utilities
+Description: Tool to apply real or simulate memory pressure on the system.
+Author: Apple Inc.
+Name: memory_pressure
+
+Package: system-cmds-memory-pressure
+Version: 880.120.1
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 72
+Depends: firmware (>= 13.0)
+Filename: ./debs/iphoneos-arm/system-cmds-memory-pressure_880.120.1_iphoneos-arm_7f70a20cd5458cfd41ac8e2afda77c67d8e165bef114effc354a565a4a00d878.deb
+Size: 8266
+MD5sum: 991b32f2ca9fec8810adf863a00964fd
+SHA1: 270856266ec8170b77f13e394114c9d9eaf9349f
+SHA256: 7f70a20cd5458cfd41ac8e2afda77c67d8e165bef114effc354a565a4a00d878
 Section: Utilities
 Description: Tool to apply real or simulate memory pressure on the system.
 Author: Apple Inc.
@@ -2306,22 +2306,6 @@ Name: memory_pressure
 
 Package: wiki.qaq.colorfulwallpaperx
 Version: 4.8
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 5648
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/iphoneos-arm/wiki.qaq.colorfulwallpaperx_4.8_iphoneos-arm_a7383292a0acdd0402289cdd030edd9e2567acaf1f67eb9e46ea2315e0b88474.deb
-Size: 1392766
-MD5sum: 57fc9f19292e5e01eefdaafee22315a6
-SHA1: 3bf109b778003250288b948bd7346b7f1d909475
-SHA256: a7383292a0acdd0402289cdd030edd9e2567acaf1f67eb9e46ea2315e0b88474
-Section: Tweaks
-Description: Dynamic wallpaper with colorful effects.
-Author: Lessica <82flex@gmail.com>
-Name: ColorfulWallpaperX
-
-Package: wiki.qaq.colorfulwallpaperx
-Version: 4.8
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 5680
@@ -2331,6 +2315,22 @@ Size: 1399798
 MD5sum: 7e76cba08fa6c62020cb8ae9ecc6a40a
 SHA1: 5a8604528a429a494a5a89f249228d05dfe0a1ce
 SHA256: dd5bf33eafe3d48f56bd3a93b211fee39380d7f6b07b6b0b585e1d7ea3e78d8b
+Section: Tweaks
+Description: Dynamic wallpaper with colorful effects.
+Author: Lessica <82flex@gmail.com>
+Name: ColorfulWallpaperX
+
+Package: wiki.qaq.colorfulwallpaperx
+Version: 4.8
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 5648
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm/wiki.qaq.colorfulwallpaperx_4.8_iphoneos-arm_a7383292a0acdd0402289cdd030edd9e2567acaf1f67eb9e46ea2315e0b88474.deb
+Size: 1392766
+MD5sum: 57fc9f19292e5e01eefdaafee22315a6
+SHA1: 3bf109b778003250288b948bd7346b7f1d909475
+SHA256: a7383292a0acdd0402289cdd030edd9e2567acaf1f67eb9e46ea2315e0b88474
 Section: Tweaks
 Description: Dynamic wallpaper with colorful effects.
 Author: Lessica <82flex@gmail.com>
@@ -2354,22 +2354,6 @@ Name: ColorfulWallpaperX
 
 Package: wiki.qaq.colorfulwallpaperx
 Version: 4.9
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 5696
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/iphoneos-arm/wiki.qaq.colorfulwallpaperx_4.9_iphoneos-arm_60b35077e965d1c7cca4aaf5c3d4ad02ff16c342efd76aa17218103312d199db.deb
-Size: 1399850
-MD5sum: 33960693a7f58e64d17f5fc569bc0407
-SHA1: 0ae88ca29697263f6e153b2ae06c564b3c2c76c4
-SHA256: 60b35077e965d1c7cca4aaf5c3d4ad02ff16c342efd76aa17218103312d199db
-Section: Tweaks
-Description: Dynamic wallpaper with colorful effects.
-Author: Lessica <82flex@gmail.com>
-Name: Colorful Wallpaper X
-
-Package: wiki.qaq.colorfulwallpaperx
-Version: 4.9
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 5696
@@ -2379,6 +2363,22 @@ Size: 1402808
 MD5sum: ff26ceaa87d1706dfc2121b9c7c51c6b
 SHA1: bb189485bb7ba4f682d3d088b287e980dc07c1e6
 SHA256: a3f4d2d8b1c4f1299a2f9c2273a6f340596b15da9ace3757adec09e772d08ac1
+Section: Tweaks
+Description: Dynamic wallpaper with colorful effects.
+Author: Lessica <82flex@gmail.com>
+Name: Colorful Wallpaper X
+
+Package: wiki.qaq.colorfulwallpaperx
+Version: 4.9
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 5696
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm/wiki.qaq.colorfulwallpaperx_4.9_iphoneos-arm_60b35077e965d1c7cca4aaf5c3d4ad02ff16c342efd76aa17218103312d199db.deb
+Size: 1399850
+MD5sum: 33960693a7f58e64d17f5fc569bc0407
+SHA1: 0ae88ca29697263f6e153b2ae06c564b3c2c76c4
+SHA256: 60b35077e965d1c7cca4aaf5c3d4ad02ff16c342efd76aa17218103312d199db
 Section: Tweaks
 Description: Dynamic wallpaper with colorful effects.
 Author: Lessica <82flex@gmail.com>
@@ -3010,22 +3010,6 @@ Name: TrollRecorder JB
 
 Package: wiki.qaq.trapp.jb
 Version: 2.10-499
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 18856
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
-Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_2.10-499_iphoneos-arm_56fb7577493ccb094fbebd41eec0aed3a3478e68b214e656a996207f940f7138.deb
-Size: 4696496
-MD5sum: 3501e1f6c61f85632882bd99141f798f
-SHA1: 7ce2034d131d06438bd9e86f1bca69433063d243
-SHA256: 56fb7577493ccb094fbebd41eec0aed3a3478e68b214e656a996207f940f7138
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 2.10-499
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 18868
@@ -3035,6 +3019,22 @@ Size: 4699512
 MD5sum: 9a56d1e8cb74df68876ba378874a876d
 SHA1: e41c517fedb4b3032783a8bd91b70125f0e077c0
 SHA256: 075a87ffd9db032fbba2effeebd83f7384ba3631dab166cdf123d88ad053e694
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 2.10-499
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 18856
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_2.10-499_iphoneos-arm_56fb7577493ccb094fbebd41eec0aed3a3478e68b214e656a996207f940f7138.deb
+Size: 4696496
+MD5sum: 3501e1f6c61f85632882bd99141f798f
+SHA1: 7ce2034d131d06438bd9e86f1bca69433063d243
+SHA256: 56fb7577493ccb094fbebd41eec0aed3a3478e68b214e656a996207f940f7138
 Section: Applications
 Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
@@ -3058,22 +3058,6 @@ Name: TrollRecorder JB
 
 Package: wiki.qaq.trapp.jb
 Version: 2.11-509
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 19204
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
-Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_2.11-509_iphoneos-arm_938b1e45c86d4c2aa8ba340ed76de2e948d07a447345d83632f95d76378f0d97.deb
-Size: 4744988
-MD5sum: 6f996e40d54f621a1a75ef29cad54ce1
-SHA1: c50b0c1db5483706e98a5279f43488fa05fce5b4
-SHA256: 938b1e45c86d4c2aa8ba340ed76de2e948d07a447345d83632f95d76378f0d97
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 2.11-509
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 19204
@@ -3083,6 +3067,22 @@ Size: 4743622
 MD5sum: 4e26453c89bf8261b0f3cc3f5e0e62c1
 SHA1: 6b93fb1c6095b4e33c20731073a1cc4bf4bd1bcf
 SHA256: facd7ab6a782e90751540fd3450386de3a1ba53c7e88c4fa613113c34ce3fe77
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 2.11-509
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 19204
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_2.11-509_iphoneos-arm_938b1e45c86d4c2aa8ba340ed76de2e948d07a447345d83632f95d76378f0d97.deb
+Size: 4744988
+MD5sum: 6f996e40d54f621a1a75ef29cad54ce1
+SHA1: c50b0c1db5483706e98a5279f43488fa05fce5b4
+SHA256: 938b1e45c86d4c2aa8ba340ed76de2e948d07a447345d83632f95d76378f0d97
 Section: Applications
 Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
@@ -3106,22 +3106,6 @@ Name: TrollRecorder JB
 
 Package: wiki.qaq.trapp.jb
 Version: 2.12-521
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 19700
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
-Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_2.12-521_iphoneos-arm_92a91aa191415a0a138541368001df2412ca545b891178d17244277e0aea45a5.deb
-Size: 4856442
-MD5sum: 64d6798edc4a7a846a322c4fc28b8827
-SHA1: be53adf3a5e4285eded8ca88d5cf6da56e4ae88d
-SHA256: 92a91aa191415a0a138541368001df2412ca545b891178d17244277e0aea45a5
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 2.12-521
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 19708
@@ -3131,6 +3115,22 @@ Size: 4864004
 MD5sum: bf8a26811d1ca92904f87e8fffb91c34
 SHA1: 6a4207fd32884173ece69ebddead5ea8e9233574
 SHA256: 10f6e2f5bc651b33c45ee993dd80cb634eb325ca107c12df01874f9ffc42d66e
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 2.12-521
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 19700
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_2.12-521_iphoneos-arm_92a91aa191415a0a138541368001df2412ca545b891178d17244277e0aea45a5.deb
+Size: 4856442
+MD5sum: 64d6798edc4a7a846a322c4fc28b8827
+SHA1: be53adf3a5e4285eded8ca88d5cf6da56e4ae88d
+SHA256: 92a91aa191415a0a138541368001df2412ca545b891178d17244277e0aea45a5
 Section: Applications
 Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
@@ -3154,22 +3154,6 @@ Name: TrollRecorder JB
 
 Package: wiki.qaq.trapp.jb
 Version: 2.14-542
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 19920
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
-Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_2.14-542_iphoneos-arm_344ea42ac7f5f56817fe320e6cbb199b40da3e60e6ab055642e19150e5a842b0.deb
-Size: 4911032
-MD5sum: 4b96e7c7c344e5b3b575131c5ec23d86
-SHA1: 9a6a7c318e17afbe5f1dc60954974858185332f3
-SHA256: 344ea42ac7f5f56817fe320e6cbb199b40da3e60e6ab055642e19150e5a842b0
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 2.14-542
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 19936
@@ -3179,6 +3163,22 @@ Size: 4907828
 MD5sum: 04d633c457392f3af6a025ead00f43a5
 SHA1: 0b858ba4103fc670deb5c78fb3ace540569c2de0
 SHA256: d7c4c9cdd9d519578cde8448ad1646f280aa73ae2007799e4eda2e83ff2dbf04
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 2.14-542
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 19920
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_2.14-542_iphoneos-arm_344ea42ac7f5f56817fe320e6cbb199b40da3e60e6ab055642e19150e5a842b0.deb
+Size: 4911032
+MD5sum: 4b96e7c7c344e5b3b575131c5ec23d86
+SHA1: 9a6a7c318e17afbe5f1dc60954974858185332f3
+SHA256: 344ea42ac7f5f56817fe320e6cbb199b40da3e60e6ab055642e19150e5a842b0
 Section: Applications
 Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
@@ -3202,22 +3202,6 @@ Name: TrollRecorder JB
 
 Package: wiki.qaq.trapp.jb
 Version: 2.15-557
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 20088
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
-Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_2.15-557_iphoneos-arm_c63c8bcf24e1ee9cb42e0761ac5cfe7884acba9bcaffb10653f7d0931dfe478d.deb
-Size: 4965520
-MD5sum: 0862f21f047c8064fa38aec3b31a9856
-SHA1: c54afeab83fbf530cd437b2682595fd7c1ea51f7
-SHA256: c63c8bcf24e1ee9cb42e0761ac5cfe7884acba9bcaffb10653f7d0931dfe478d
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 2.15-557
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 20088
@@ -3227,6 +3211,22 @@ Size: 4961024
 MD5sum: 5cd6cdc1a2ee461f2a5afe23efb60f25
 SHA1: f53a96dc4861741572b365bf0f2281403f6c2b2f
 SHA256: 8e41684ff30bafbcc0a538262edb3fba5dd351f3a5202f882afc70ccb3ace729
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 2.15-557
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 20088
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_2.15-557_iphoneos-arm_c63c8bcf24e1ee9cb42e0761ac5cfe7884acba9bcaffb10653f7d0931dfe478d.deb
+Size: 4965520
+MD5sum: 0862f21f047c8064fa38aec3b31a9856
+SHA1: c54afeab83fbf530cd437b2682595fd7c1ea51f7
+SHA256: c63c8bcf24e1ee9cb42e0761ac5cfe7884acba9bcaffb10653f7d0931dfe478d
 Section: Applications
 Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
@@ -3346,22 +3346,6 @@ Name: TrollRecorder JB
 
 Package: wiki.qaq.trapp.jb
 Version: 2.6-408
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 17280
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
-Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_2.6-408_iphoneos-arm_279f0dee47d04a7c58ad9a04247dc352b8afd18e8ae23b1f5a043e6a458a8c9d.deb
-Size: 4343530
-MD5sum: 55fe3c4146903a842a4dc1855e81f59a
-SHA1: 3f3c0505e5b47168ade61507ad4a59fe51e236c1
-SHA256: 279f0dee47d04a7c58ad9a04247dc352b8afd18e8ae23b1f5a043e6a458a8c9d
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 2.6-408
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 17284
@@ -3371,6 +3355,22 @@ Size: 4341786
 MD5sum: 1a14348c361423d710fae98e24c3531f
 SHA1: e48d74f942af26d2c697c0705190b3d43e1b7344
 SHA256: b9a0c3755c0abb3fe0335a758c222b3462bc0e53e05534703d6203c94974d056
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 2.6-408
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 17280
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_2.6-408_iphoneos-arm_279f0dee47d04a7c58ad9a04247dc352b8afd18e8ae23b1f5a043e6a458a8c9d.deb
+Size: 4343530
+MD5sum: 55fe3c4146903a842a4dc1855e81f59a
+SHA1: 3f3c0505e5b47168ade61507ad4a59fe51e236c1
+SHA256: 279f0dee47d04a7c58ad9a04247dc352b8afd18e8ae23b1f5a043e6a458a8c9d
 Section: Applications
 Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
@@ -3394,22 +3394,6 @@ Name: TrollRecorder JB
 
 Package: wiki.qaq.trapp.jb
 Version: 2.7-421
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 17388
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
-Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_2.7-421_iphoneos-arm_a4b379bdcc69c6655e85bfde0f59aeeacc5c21ff85313541b9f1361cc7b96da6.deb
-Size: 4359058
-MD5sum: 165ff3aa7a0265380db27fbc924032c7
-SHA1: fb48cda109f4055a9e5233d1b4c566e23095e295
-SHA256: a4b379bdcc69c6655e85bfde0f59aeeacc5c21ff85313541b9f1361cc7b96da6
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 2.7-421
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 17392
@@ -3419,6 +3403,22 @@ Size: 4360404
 MD5sum: b515523529801a58af7da1a64d78d99a
 SHA1: cfd9057d654221537eaee98af5b00a283ad22b78
 SHA256: d2543ac475beff12609c10c0073422cec4ab598a08fd98c07b6b30bee0fbe00a
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 2.7-421
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 17388
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_2.7-421_iphoneos-arm_a4b379bdcc69c6655e85bfde0f59aeeacc5c21ff85313541b9f1361cc7b96da6.deb
+Size: 4359058
+MD5sum: 165ff3aa7a0265380db27fbc924032c7
+SHA1: fb48cda109f4055a9e5233d1b4c566e23095e295
+SHA256: a4b379bdcc69c6655e85bfde0f59aeeacc5c21ff85313541b9f1361cc7b96da6
 Section: Applications
 Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
@@ -3442,22 +3442,6 @@ Name: TrollRecorder JB
 
 Package: wiki.qaq.trapp.jb
 Version: 2.7-422
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 17388
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
-Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_2.7-422_iphoneos-arm_fe035d886894727d0c0439837d11f60bdd1bc3aa30e232bc7601b0af5afc5088.deb
-Size: 4362188
-MD5sum: 2ff95fd0edd264481bc1aeacc514a10f
-SHA1: 5348d7bb5d051f0881f7892acf0d1cfda09dc4b8
-SHA256: fe035d886894727d0c0439837d11f60bdd1bc3aa30e232bc7601b0af5afc5088
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 2.7-422
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 17396
@@ -3467,6 +3451,22 @@ Size: 4361588
 MD5sum: 53410070391b324043263069c565605e
 SHA1: f5289c32da97c0307f1c31cca10fb5bbb29ca6de
 SHA256: f683c9025aa7ea357f16135bac5d917344bde572a0ad92761c75172189f4a4dd
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 2.7-422
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 17388
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_2.7-422_iphoneos-arm_fe035d886894727d0c0439837d11f60bdd1bc3aa30e232bc7601b0af5afc5088.deb
+Size: 4362188
+MD5sum: 2ff95fd0edd264481bc1aeacc514a10f
+SHA1: 5348d7bb5d051f0881f7892acf0d1cfda09dc4b8
+SHA256: fe035d886894727d0c0439837d11f60bdd1bc3aa30e232bc7601b0af5afc5088
 Section: Applications
 Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
@@ -3490,22 +3490,6 @@ Name: TrollRecorder JB
 
 Package: wiki.qaq.trapp.jb
 Version: 2.8-474
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 18016
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
-Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_2.8-474_iphoneos-arm_974da30eff9f893955f20a9c28882dc571e7b6e6f447d64db0055b09a6b85992.deb
-Size: 4506474
-MD5sum: 4b7fea1630afb280e2ac09d5475b8baf
-SHA1: 97c56217cc71d569a10bfc4e20d0ae66f343d818
-SHA256: 974da30eff9f893955f20a9c28882dc571e7b6e6f447d64db0055b09a6b85992
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 2.8-474
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 18016
@@ -3515,6 +3499,22 @@ Size: 4505398
 MD5sum: f860664bf80a6acbb7c252590b27e97a
 SHA1: 0b491947542db487faaa0292e85d20090944bff6
 SHA256: cec25b7a6529348483006ec8257daf75f283fd78910dc3fdd9755d802edfe6a5
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 2.8-474
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 18016
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_2.8-474_iphoneos-arm_974da30eff9f893955f20a9c28882dc571e7b6e6f447d64db0055b09a6b85992.deb
+Size: 4506474
+MD5sum: 4b7fea1630afb280e2ac09d5475b8baf
+SHA1: 97c56217cc71d569a10bfc4e20d0ae66f343d818
+SHA256: 974da30eff9f893955f20a9c28882dc571e7b6e6f447d64db0055b09a6b85992
 Section: Applications
 Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
@@ -3538,22 +3538,6 @@ Name: TrollRecorder JB
 
 Package: wiki.qaq.trapp.jb
 Version: 2.9-484
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 18088
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
-Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_2.9-484_iphoneos-arm_c1fdff0a7b8c894a61b2648b1b4c070c5e0e97235d7a0b020a904f252f2b34e3.deb
-Size: 4517248
-MD5sum: fa795432dbdfb607b9738f6b73b04e26
-SHA1: 0d555133e23dab992591e35508b6aaa40946c81d
-SHA256: c1fdff0a7b8c894a61b2648b1b4c070c5e0e97235d7a0b020a904f252f2b34e3
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 2.9-484
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 18088
@@ -3563,6 +3547,22 @@ Size: 4522856
 MD5sum: c73191f7e8fdcc214b2bec9b162e7f11
 SHA1: 7b0172bb1f58b3a7594c00357b4505e47f374126
 SHA256: 2d05851e8d4f0e3ada094e3585925b5e5be7249ca34ee5e9cd99c2652162ce46
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 2.9-484
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 18088
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_2.9-484_iphoneos-arm_c1fdff0a7b8c894a61b2648b1b4c070c5e0e97235d7a0b020a904f252f2b34e3.deb
+Size: 4517248
+MD5sum: fa795432dbdfb607b9738f6b73b04e26
+SHA1: 0d555133e23dab992591e35508b6aaa40946c81d
+SHA256: c1fdff0a7b8c894a61b2648b1b4c070c5e0e97235d7a0b020a904f252f2b34e3
 Section: Applications
 Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
@@ -3586,22 +3586,6 @@ Name: TrollRecorder JB
 
 Package: wiki.qaq.trapp.jb
 Version: 3.0-574
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 20848
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
-Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_3.0-574_iphoneos-arm_0bee7516817936a4391675bc17cec6162641364e87a8028d1381392076f5d5cd.deb
-Size: 5299020
-MD5sum: d0d71d76d1a0361a845fcab40aaebc20
-SHA1: 83842208d8144563280f013b725c9ee06a9299a5
-SHA256: 0bee7516817936a4391675bc17cec6162641364e87a8028d1381392076f5d5cd
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 3.0-574
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 20848
@@ -3611,6 +3595,22 @@ Size: 5303046
 MD5sum: d01b2247ace48ba94b0d56cbd974fdc8
 SHA1: d9563a31eddb8e27cdf2b6d1349e7da847724cd0
 SHA256: 36562b0378a231561467b0473b863eef40d363d14f4112bb4c920bc32f045c63
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 3.0-574
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 20848
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_3.0-574_iphoneos-arm_0bee7516817936a4391675bc17cec6162641364e87a8028d1381392076f5d5cd.deb
+Size: 5299020
+MD5sum: d0d71d76d1a0361a845fcab40aaebc20
+SHA1: 83842208d8144563280f013b725c9ee06a9299a5
+SHA256: 0bee7516817936a4391675bc17cec6162641364e87a8028d1381392076f5d5cd
 Section: Applications
 Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
@@ -3634,22 +3634,6 @@ Name: TrollRecorder JB
 
 Package: wiki.qaq.trapp.jb
 Version: 3.0-594
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 58248
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
-Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_3.0-594_iphoneos-arm_0dc7d0daac124c494c12e8987e22af2c1c39fe835967546d3a904552d27c875a.deb
-Size: 14055738
-MD5sum: b1642e26bc831af7ce7edf2bf2776921
-SHA1: edce265277c74fa437d3b009ff86515b863abd6f
-SHA256: 0dc7d0daac124c494c12e8987e22af2c1c39fe835967546d3a904552d27c875a
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 3.0-594
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 58244
@@ -3659,6 +3643,22 @@ Size: 14054560
 MD5sum: 11a95d1a6728356e0ec1457e5b22954c
 SHA1: 32e1ff550c4ebfbecf95bc97c93589d6c606632d
 SHA256: bc564739cedcaf686e01dea5e5f64e4171df2d6975f0181deb68896f095fa1f2
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 3.0-594
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 58248
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_3.0-594_iphoneos-arm_0dc7d0daac124c494c12e8987e22af2c1c39fe835967546d3a904552d27c875a.deb
+Size: 14055738
+MD5sum: b1642e26bc831af7ce7edf2bf2776921
+SHA1: edce265277c74fa437d3b009ff86515b863abd6f
+SHA256: 0dc7d0daac124c494c12e8987e22af2c1c39fe835967546d3a904552d27c875a
 Section: Applications
 Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
@@ -3682,22 +3682,6 @@ Name: TrollRecorder JB
 
 Package: wiki.qaq.trapp.jb
 Version: 3.1-600
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 58340
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
-Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_3.1-600_iphoneos-arm_bdd96c99f6f3bd42319ab0c51bb2c19396b92da52a1b4e1b97837eaca6da3a30.deb
-Size: 14480886
-MD5sum: 5798f3cc6bd8db56cbec58dbb1339757
-SHA1: efa9759d3b17d74ad9579dfc8d64fecffc5973c5
-SHA256: bdd96c99f6f3bd42319ab0c51bb2c19396b92da52a1b4e1b97837eaca6da3a30
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 3.1-600
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 58340
@@ -3707,6 +3691,22 @@ Size: 14477100
 MD5sum: e7e5bf4c00dda1a8b8a126c9dc240ae2
 SHA1: 830bbf74f17d1c78834f120a72447b185de290cf
 SHA256: d682a8994674a74d6bca7329c040ab42a9fa2e8507368c970e21d69cfe84cbd7
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 3.1-600
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 58340
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_3.1-600_iphoneos-arm_bdd96c99f6f3bd42319ab0c51bb2c19396b92da52a1b4e1b97837eaca6da3a30.deb
+Size: 14480886
+MD5sum: 5798f3cc6bd8db56cbec58dbb1339757
+SHA1: efa9759d3b17d74ad9579dfc8d64fecffc5973c5
+SHA256: bdd96c99f6f3bd42319ab0c51bb2c19396b92da52a1b4e1b97837eaca6da3a30
 Section: Applications
 Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
@@ -3730,22 +3730,6 @@ Name: TrollRecorder JB
 
 Package: wiki.qaq.trapp.jb
 Version: 3.1-601
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 58336
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
-Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_3.1-601_iphoneos-arm_f8abef7985f2581eb63062399f19f989def61fb4aaa051a379d2a94af40ab29d.deb
-Size: 14483340
-MD5sum: ea6fb726216fc3a8e2bfb58c9bd4c0ab
-SHA1: 793f66df6dbcc9229eee7db84c7855a772ebbf23
-SHA256: f8abef7985f2581eb63062399f19f989def61fb4aaa051a379d2a94af40ab29d
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 3.1-601
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 58344
@@ -3755,6 +3739,22 @@ Size: 14480418
 MD5sum: fca7396d327049830edcadfacda8bbe1
 SHA1: c9f1085d4a2124259480462f898d90c768c3c779
 SHA256: 0bf5b8eae490e29420e48422304a4b19e007e8dc594f48e37eed4eac03e51f0d
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 3.1-601
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 58336
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_3.1-601_iphoneos-arm_f8abef7985f2581eb63062399f19f989def61fb4aaa051a379d2a94af40ab29d.deb
+Size: 14483340
+MD5sum: ea6fb726216fc3a8e2bfb58c9bd4c0ab
+SHA1: 793f66df6dbcc9229eee7db84c7855a772ebbf23
+SHA256: f8abef7985f2581eb63062399f19f989def61fb4aaa051a379d2a94af40ab29d
 Section: Applications
 Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
@@ -3778,22 +3778,6 @@ Name: TrollRecorder JB
 
 Package: wiki.qaq.trapp.jb
 Version: 3.2-608
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 58432
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
-Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_3.2-608_iphoneos-arm_4f5d39fcb81dc3a3ebc67842b0755fd92e6291384f03727be7e076f3e5b1ae25.deb
-Size: 14499646
-MD5sum: 330b3d2fd3be31f73337296a194f12f8
-SHA1: 031fb7793a72d766903589bd93429e84d040e108
-SHA256: 4f5d39fcb81dc3a3ebc67842b0755fd92e6291384f03727be7e076f3e5b1ae25
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 3.2-608
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 58432
@@ -3803,6 +3787,22 @@ Size: 14497106
 MD5sum: 095718d01161410fac9d0aaf52d27f3c
 SHA1: 99c149fa651afa94c0de0a5e6af36f0f89733d02
 SHA256: 9ccf0b262fb1d9f134c1bdfd5c0bdbbd6ce50fa144ae06d386a5b08e048465b5
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 3.2-608
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 58432
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_3.2-608_iphoneos-arm_4f5d39fcb81dc3a3ebc67842b0755fd92e6291384f03727be7e076f3e5b1ae25.deb
+Size: 14499646
+MD5sum: 330b3d2fd3be31f73337296a194f12f8
+SHA1: 031fb7793a72d766903589bd93429e84d040e108
+SHA256: 4f5d39fcb81dc3a3ebc67842b0755fd92e6291384f03727be7e076f3e5b1ae25
 Section: Applications
 Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
@@ -3826,22 +3826,6 @@ Name: TrollRecorder JB
 
 Package: wiki.qaq.trapp.jb
 Version: 3.2-609
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 58520
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
-Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_3.2-609_iphoneos-arm_108321853550d2eb4534338a348a52f8703b50f412e067072ad201760690dde5.deb
-Size: 14133764
-MD5sum: 4f15db41377e060fa03857535b4eaaaa
-SHA1: fbb45fc491b5e2c8f2b465edc1888ed51690ad45
-SHA256: 108321853550d2eb4534338a348a52f8703b50f412e067072ad201760690dde5
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 3.2-609
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 58524
@@ -3851,6 +3835,22 @@ Size: 14121128
 MD5sum: 9d071203431abd8f7d3969a8366251d8
 SHA1: 6ed27b8d20afde1a711911758a553283112dbe0b
 SHA256: 6d77a4591c84925f151be711b0dfba163156c6c4746a5657e400ec09919a72de
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 3.2-609
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 58520
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_3.2-609_iphoneos-arm_108321853550d2eb4534338a348a52f8703b50f412e067072ad201760690dde5.deb
+Size: 14133764
+MD5sum: 4f15db41377e060fa03857535b4eaaaa
+SHA1: fbb45fc491b5e2c8f2b465edc1888ed51690ad45
+SHA256: 108321853550d2eb4534338a348a52f8703b50f412e067072ad201760690dde5
 Section: Applications
 Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
@@ -3922,22 +3922,6 @@ Name: TrollRecorder JB
 
 Package: wiki.qaq.trapp.jb
 Version: 3.4-614
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 58540
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
-Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_3.4-614_iphoneos-arm_6e1db0a9dd758d322f022aa986522d46cb2913b2e0ea11b2cd1f61bf62e08b7e.deb
-Size: 14143222
-MD5sum: 1ccd3c9ea7aea0de9d9d2f0017ef022e
-SHA1: 048d35f271a0b1b99c9ce51400e6d953de35ee69
-SHA256: 6e1db0a9dd758d322f022aa986522d46cb2913b2e0ea11b2cd1f61bf62e08b7e
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 3.4-614
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 58540
@@ -3947,6 +3931,22 @@ Size: 14134196
 MD5sum: 350b59e0e2d0a63eb6ca92adc9ba6118
 SHA1: 81716ea89707ee0577dc217abc68bbafa290586a
 SHA256: 233b48d4d34e7b1e468a537370926d2eec30fc20863f2cb68799b4762ee4d0f4
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 3.4-614
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 58540
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_3.4-614_iphoneos-arm_6e1db0a9dd758d322f022aa986522d46cb2913b2e0ea11b2cd1f61bf62e08b7e.deb
+Size: 14143222
+MD5sum: 1ccd3c9ea7aea0de9d9d2f0017ef022e
+SHA1: 048d35f271a0b1b99c9ce51400e6d953de35ee69
+SHA256: 6e1db0a9dd758d322f022aa986522d46cb2913b2e0ea11b2cd1f61bf62e08b7e
 Section: Applications
 Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
@@ -3970,22 +3970,6 @@ Name: TrollRecorder JB
 
 Package: wiki.qaq.writenow
 Version: 2.0
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 15072
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/iphoneos-arm/wiki.qaq.writenow_2.0_iphoneos-arm_8f66a79c55ff6e7bdadd8730cee53fd3bdd39ae0cf8ac52ab2ae0a0f7d77b9bc.deb
-Size: 3268400
-MD5sum: f580fe3f25ec305f7d713ad84cba1330
-SHA1: 842113e88ee7d304191fcafe353c5afa21bf6e76
-SHA256: 8f66a79c55ff6e7bdadd8730cee53fd3bdd39ae0cf8ac52ab2ae0a0f7d77b9bc
-Section: Tweaks
-Description: AI tool within your hands.
-Author: Lessica <82flex@gmail.com>
-Name: Write Now
-
-Package: wiki.qaq.writenow
-Version: 2.0
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 15072
@@ -3995,6 +3979,22 @@ Size: 3267348
 MD5sum: 4626a07efcb7222bb5ad95851777da9d
 SHA1: 62e90dafb102e68f5e509e417c9316ea14dc401b
 SHA256: b32e8e2bdf91025fbc2d5f74f09f361af7a0fe4d735239859116795f95affcae
+Section: Tweaks
+Description: AI tool within your hands.
+Author: Lessica <82flex@gmail.com>
+Name: Write Now
+
+Package: wiki.qaq.writenow
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 15072
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm/wiki.qaq.writenow_2.0_iphoneos-arm_8f66a79c55ff6e7bdadd8730cee53fd3bdd39ae0cf8ac52ab2ae0a0f7d77b9bc.deb
+Size: 3268400
+MD5sum: f580fe3f25ec305f7d713ad84cba1330
+SHA1: 842113e88ee7d304191fcafe353c5afa21bf6e76
+SHA256: 8f66a79c55ff6e7bdadd8730cee53fd3bdd39ae0cf8ac52ab2ae0a0f7d77b9bc
 Section: Tweaks
 Description: AI tool within your hands.
 Author: Lessica <82flex@gmail.com>
@@ -4018,22 +4018,6 @@ Name: Write Now
 
 Package: wiki.qaq.writenow
 Version: 2.1
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 15168
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/iphoneos-arm/wiki.qaq.writenow_2.1_iphoneos-arm_1fcdca6c0e522382b3f34c657163c8cc3f0a2821f4abf240d2007a2ffefd9463.deb
-Size: 3292000
-MD5sum: 896bb175b7c766cff4599cadfc0814e9
-SHA1: 18b32e9fbff852172d422202a9c4e2f8b6f1754b
-SHA256: 1fcdca6c0e522382b3f34c657163c8cc3f0a2821f4abf240d2007a2ffefd9463
-Section: Tweaks
-Description: AI tool within your hands.
-Author: Lessica <82flex@gmail.com>
-Name: Write Now
-
-Package: wiki.qaq.writenow
-Version: 2.1
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 15168
@@ -4043,6 +4027,22 @@ Size: 3290562
 MD5sum: 7c7da2f75aae4081bb67746a67ad415c
 SHA1: 741b8925d3ec8d2ff8f21071dce05fbdd1e48f6c
 SHA256: dd36162a0ff41a8e0a6eabf9c86b4686eeb03015b6fb9e3b175f19be5c27ed1e
+Section: Tweaks
+Description: AI tool within your hands.
+Author: Lessica <82flex@gmail.com>
+Name: Write Now
+
+Package: wiki.qaq.writenow
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 15168
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm/wiki.qaq.writenow_2.1_iphoneos-arm_1fcdca6c0e522382b3f34c657163c8cc3f0a2821f4abf240d2007a2ffefd9463.deb
+Size: 3292000
+MD5sum: 896bb175b7c766cff4599cadfc0814e9
+SHA1: 18b32e9fbff852172d422202a9c4e2f8b6f1754b
+SHA256: 1fcdca6c0e522382b3f34c657163c8cc3f0a2821f4abf240d2007a2ffefd9463
 Section: Tweaks
 Description: AI tool within your hands.
 Author: Lessica <82flex@gmail.com>
