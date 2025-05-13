@@ -366,6 +366,54 @@ Description: XXTouch is a powerful and flexible automation tool for iOS.
 Author: 82Flex <82flex@gmail.com>
 Name: XXTouch Elite
 
+Package: ch.xxtou.xxtouch
+Version: 5.2.2
+Architecture: iphoneos-arm
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 55428
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/ch.xxtou.xxtouch_5.2.2_iphoneos-arm_20250513-1846_e7fc351a0b43441ce4fcee87982093d04b3a04f4c3c896dc6f508ed3d86df631.deb
+Size: 19176174
+MD5sum: df39baad25d348a0d68f57ce0eba125a
+SHA1: 67f348eabeac00cec036442e0e3dcee24af9180b
+SHA256: e7fc351a0b43441ce4fcee87982093d04b3a04f4c3c896dc6f508ed3d86df631
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Name: XXTouch Elite
+
+Package: ch.xxtou.xxtouch
+Version: 5.2.2
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 55496
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/ch.xxtou.xxtouch_5.2.2_iphoneos-arm64e_20250513-1846_3b961d8477ca3e3e22e6c65943c5cbcae242ca0df6427905fd936555f6be269f.deb
+Size: 19174892
+MD5sum: e091a14797e78227cb0097a351f2832f
+SHA1: ec6ded47044ba3d0253d4428976080f3f1e0afce
+SHA256: 3b961d8477ca3e3e22e6c65943c5cbcae242ca0df6427905fd936555f6be269f
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Name: XXTouch Elite
+
+Package: ch.xxtou.xxtouch
+Version: 5.2.2
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 55512
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/ch.xxtou.xxtouch_5.2.2_iphoneos-arm64_20250513-1846_3813cd5618cb90a93ed3b400b1caaac5b21afd5d20cbf877ecd25ac40a760744.deb
+Size: 19174980
+MD5sum: a4334f6c991f372b8e0e01ee8bfdabc1
+SHA1: 63be959f9c54a14e748c8b814103e5d864f74876
+SHA256: 3813cd5618cb90a93ed3b400b1caaac5b21afd5d20cbf877ecd25ac40a760744
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Name: XXTouch Elite
+
 Package: codes.aurora.kayoko
 Version: 2.4
 Architecture: iphoneos-arm64
@@ -2547,6 +2595,54 @@ Description: Dynamic wallpaper with colorful effects.
 Author: Lessica <82flex@gmail.com>
 Name: Colorful Wallpaper X
 
+Package: wiki.qaq.colorfulwallpaperx
+Version: 5.0
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 5960
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm/wiki.qaq.colorfulwallpaperx_5.0_iphoneos-arm_20250513-1846_73447637dba7ed45dc520c9d401a18a344c3de1051ef6bcee49c2287e7a36e79.deb
+Size: 1433290
+MD5sum: df5b6c839b50412d550fc9ab80a976c0
+SHA1: 75c73b94c680e1f613fd7cc4326ca8b0c9ca5b6d
+SHA256: 73447637dba7ed45dc520c9d401a18a344c3de1051ef6bcee49c2287e7a36e79
+Section: Tweaks
+Description: Dynamic wallpaper with colorful effects.
+Author: Lessica <82flex@gmail.com>
+Name: Colorful Wallpaper X
+
+Package: wiki.qaq.colorfulwallpaperx
+Version: 5.0
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 5960
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/wiki.qaq.colorfulwallpaperx_5.0_iphoneos-arm64e_20250513-1846_fd3f482cfd050a06ed18c97255d78d607bf888fdef8c2cce3981e7078bea7775.deb
+Size: 1432752
+MD5sum: 092e8f5e95ec645e1d7120399db76b75
+SHA1: f0e5633127be8c8d43c92a9795f186cfbb00dd57
+SHA256: fd3f482cfd050a06ed18c97255d78d607bf888fdef8c2cce3981e7078bea7775
+Section: Tweaks
+Description: Dynamic wallpaper with colorful effects.
+Author: Lessica <82flex@gmail.com>
+Name: Colorful Wallpaper X
+
+Package: wiki.qaq.colorfulwallpaperx
+Version: 5.0
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 5944
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/wiki.qaq.colorfulwallpaperx_5.0_iphoneos-arm64_20250513-1846_2e274a38f4598400d7a59afcdba726196e40c635dcaf0a367af22520a875c9fb.deb
+Size: 1431966
+MD5sum: 8566b349bb3ce76e27312c403b6c5bf7
+SHA1: 81708b10d4095e8df86420ce9a05349eb953e398
+SHA256: 2e274a38f4598400d7a59afcdba726196e40c635dcaf0a367af22520a875c9fb
+Section: Tweaks
+Description: Dynamic wallpaper with colorful effects.
+Author: Lessica <82flex@gmail.com>
+Name: Colorful Wallpaper X
+
 Package: wiki.qaq.trapp.jb
 Version: 1.10.0-266
 Architecture: iphoneos-arm
@@ -4158,6 +4254,54 @@ Size: 14148762
 MD5sum: 78a9da317ad0d5ee664d9d34e5378995
 SHA1: 4510611b910b73d52121cf8a2105680da4539503
 SHA256: 426cd4829364e8001d85a9968ace0140f285a1a0e4fbd82af5cd477955c9eb7d
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 3.5.1-3208
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 58668
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_3.5.1-3208_iphoneos-arm_20250513-1846_228bd7fff8b65433f21a97596c98b655c7796e354269fe605922c5998a103b0a.deb
+Size: 14159318
+MD5sum: 7c57765d7cb0a74332e2577ce354f5be
+SHA1: 8183f00cb739ce56e75418447afd7475fdeb803e
+SHA256: 228bd7fff8b65433f21a97596c98b655c7796e354269fe605922c5998a103b0a
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 3.5.1-3208
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 58664
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64e/wiki.qaq.trapp.jb_3.5.1-3208_iphoneos-arm64e_20250513-1846_f3358876cab26a2acd1fd1045d74275ea2c9ffad6f4886390786541f8b8a4e4b.deb
+Size: 14158066
+MD5sum: cd05de08d67769fda129f9c636088b0c
+SHA1: 03336fdbc3ce50973a196b5a714e5574f1cd0d1a
+SHA256: f3358876cab26a2acd1fd1045d74275ea2c9ffad6f4886390786541f8b8a4e4b
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 3.5.1-3208
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 58676
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64/wiki.qaq.trapp.jb_3.5.1-3208_iphoneos-arm64_20250513-1846_27338b49a298aa91f1c9d2aa54a17ae52e751dd1ce196668189dcee4ad0199b4.deb
+Size: 14147416
+MD5sum: 6e31c9977be50ab812ce9cc22b5bdbe4
+SHA1: ad8132a140870e43bd63f7b17a727978134e423a
+SHA256: 27338b49a298aa91f1c9d2aa54a17ae52e751dd1ce196668189dcee4ad0199b4
 Section: Applications
 Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
