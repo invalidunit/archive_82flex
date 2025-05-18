@@ -1856,6 +1856,54 @@ Description: Display your touch interactions!
 Author: Lessica <82flex@gmail.com>
 Name: Touch-Viz
 
+Package: com.82flex.touchvis
+Version: 4.0
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 4360
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.82flex.touchvis_4.0_iphoneos-arm64e_20250518-2033_1c3e1104de01a9d3c703810496e3338d3d0ead8dde82d428526a38e21fc23443.deb
+Size: 915946
+MD5sum: f460f90b491268c263acba187aa68014
+SHA1: e18705ff3529912715d472ea30e0a780ef89f1e5
+SHA256: 1c3e1104de01a9d3c703810496e3338d3d0ead8dde82d428526a38e21fc23443
+Section: Tweaks
+Description: Display your touch interactions!
+Author: Lessica <82flex@gmail.com>
+Name: Touch-Viz
+
+Package: com.82flex.touchvis
+Version: 4.0
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 4360
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm/com.82flex.touchvis_4.0_iphoneos-arm_20250518-2033_88581c0ebdd2b367f92ee1093c23a9397164849ec54de9f1e3e3819c9f5aae21.deb
+Size: 915132
+MD5sum: e5469ef4bf64890898b1d785d59de031
+SHA1: e663dbb69e6b4eaccf266a83bc32499f746937e9
+SHA256: 88581c0ebdd2b367f92ee1093c23a9397164849ec54de9f1e3e3819c9f5aae21
+Section: Tweaks
+Description: Display your touch interactions!
+Author: Lessica <82flex@gmail.com>
+Name: Touch-Viz
+
+Package: com.82flex.touchvis
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 4360
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.82flex.touchvis_4.0_iphoneos-arm64_20250518-2033_eaa6f225e16702d26f47ed5a416f14e33426ade75ea7df214e4461eb3afb244d.deb
+Size: 917146
+MD5sum: 44393da96974cab2d1ee6ec5bc79586f
+SHA1: 603283113eec1b13f09a388df310b871cff3c939
+SHA256: eaa6f225e16702d26f47ed5a416f14e33426ade75ea7df214e4461eb3afb244d
+Section: Tweaks
+Description: Display your touch interactions!
+Author: Lessica <82flex@gmail.com>
+Name: Touch-Viz
+
 Package: com.82flex.wtvrbglauncher
 Version: 0.0.1
 Architecture: iphoneos-arm
