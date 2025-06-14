@@ -718,6 +718,38 @@ Description: Clipboard manager for iOS.
 Author: Alexandra Aurora Göttlicher
 Name: Kayoko
 
+Package: com.82flex.amlyrics
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.82flex.amlyrics_0.0.1_iphoneos-arm64e_20250614-1039_9a5c7e40147202cd48745d8ec782a00794753eeb0b63c4b49918a550f60c2a5e.deb
+Size: 11770
+MD5sum: 1d8a1143e86ef87dfe6533a141ba7f77
+SHA1: 9b9b2981a49604db9d8471245d364caa584ebc8f
+SHA256: 9a5c7e40147202cd48745d8ec782a00794753eeb0b63c4b49918a550f60c2a5e
+Section: Tweaks
+Description: Dump lyrics from Apple Music.
+Author: Lessica <82flex@gmail.com>
+Name: AMLyrics
+
+Package: com.82flex.amlyrics
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.82flex.amlyrics_0.0.1_iphoneos-arm64_20250614-1039_2194cf78d10b25544388d02e920f7aaf78080a65d9005afded104dcf1fb32ed6.deb
+Size: 11828
+MD5sum: 0131dcd349e3698af2b89721a5cbb517
+SHA1: 8c50e7d8e3106c8e0af6edefc6be15f8cca46a1b
+SHA256: 2194cf78d10b25544388d02e920f7aaf78080a65d9005afded104dcf1fb32ed6
+Section: Tweaks
+Description: Dump lyrics from Apple Music.
+Author: Lessica <82flex@gmail.com>
+Name: AMLyrics
+
 Package: com.82flex.artworkspinner
 Version: 1.2
 Architecture: iphoneos-arm64e
@@ -4641,6 +4673,102 @@ Size: 14179914
 MD5sum: dd19af8d42bde2e16f2d7f145db6bfd8
 SHA1: 8112542ac7c8457193b773e7217ea1d47b2ffad4
 SHA256: e7d900f8a8dc2d4edd7d46a0725fc2ab88fdeb0f055d24da0e2d7d249742054e
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 3.5.2-3232
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 59216
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64e/wiki.qaq.trapp.jb_3.5.2-3232_iphoneos-arm64e_20250614-1039_69d674829535d4698bc10abf8368a7a3312eec2061a047a1359d51dcff45f406.deb
+Size: 14205522
+MD5sum: 9dc6e6c073990bfe438b5b70e122974c
+SHA1: 3d1348b11530081d819e28d7e552f9deee9bc4df
+SHA256: 69d674829535d4698bc10abf8368a7a3312eec2061a047a1359d51dcff45f406
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 3.5.2-3232
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 59232
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_3.5.2-3232_iphoneos-arm_20250614-1039_40f64acf17f4437f6cf25a65969f34f1ad17d9c85f8d2e784bf868db33936af6.deb
+Size: 14206436
+MD5sum: ff073594827a64d07cdfad8bc6862992
+SHA1: cf8f381a8a8b91bdb2ac8127814380572c496fb8
+SHA256: 40f64acf17f4437f6cf25a65969f34f1ad17d9c85f8d2e784bf868db33936af6
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 3.5.2-3232
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 59212
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64/wiki.qaq.trapp.jb_3.5.2-3232_iphoneos-arm64_20250614-1039_0696f4165215a75886aed62af619771f8d60db66b8b6ba75b0478206eb58f870.deb
+Size: 14212320
+MD5sum: ed4cd28b9f537df1bb9cac942840f0ea
+SHA1: b890e4de1c80e4b819db1bbaefaada309de42732
+SHA256: 0696f4165215a75886aed62af619771f8d60db66b8b6ba75b0478206eb58f870
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 3.5.3-3270
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 59772
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64e/wiki.qaq.trapp.jb_3.5.3-3270_iphoneos-arm64e_20250614-1039_6ed2950367b0386ab20059431990042f6bff47f302932de48626e3fa8194f59d.deb
+Size: 14259116
+MD5sum: 1f1280e389efae8908eaaec5d2e92d9c
+SHA1: 8575dd78b15d8dea1f43a21751ac61f95c25d135
+SHA256: 6ed2950367b0386ab20059431990042f6bff47f302932de48626e3fa8194f59d
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 3.5.3-3270
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 59708
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_3.5.3-3270_iphoneos-arm_20250614-1039_179c148f51f4c0ffedefcf1e7db338cca1c19ee7ead3d47370d2f7c7e31bcda2.deb
+Size: 14258508
+MD5sum: ef354cf99a9d022a7dfaae32df624516
+SHA1: 11f57e26e79500022a40c64001b23ef794d32bc6
+SHA256: 179c148f51f4c0ffedefcf1e7db338cca1c19ee7ead3d47370d2f7c7e31bcda2
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 3.5.3-3270
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 59756
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64/wiki.qaq.trapp.jb_3.5.3-3270_iphoneos-arm64_20250614-1039_e49fd5d19039c9c23e20d617266360835436a5225f32bd745f100b2fbb0a03cc.deb
+Size: 14272622
+MD5sum: 9d68843728a639edeaf15004ef93b943
+SHA1: ccadf296eafee8edbf3a7bd00173c1b9d945348c
+SHA256: e49fd5d19039c9c23e20d617266360835436a5225f32bd745f100b2fbb0a03cc
 Section: Applications
 Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
