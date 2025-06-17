@@ -2710,6 +2710,57 @@ Author: Finn Gaida
 Depiction: https://finngaida.de/repo/depictions/de.finngaida.daynightswitch
 Name: DayNightSwitch
 
+Package: de.finngaida.daynightswitch
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: Finn Gaida
+Installed-Size: 584
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/de.finngaida.daynightswitch_1.2_iphoneos-arm64e_20250617-1641_0011246b2a4e36d46f5c6409f7c924cecdc49eb22191d4a0b1bd14c538e0b515.deb
+Size: 67414
+MD5sum: 4ff0c70f8b900078860bb627c6b6344c
+SHA1: 3835f7e4fcae34d1efc3871df33217d346cc6c91
+SHA256: 0011246b2a4e36d46f5c6409f7c924cecdc49eb22191d4a0b1bd14c538e0b515
+Section: Tweaks
+Description: Add some style to your switches
+Author: Finn Gaida
+Depiction: https://finngaida.de/repo/depictions/de.finngaida.daynightswitch
+Name: DayNightSwitch
+
+Package: de.finngaida.daynightswitch
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Finn Gaida
+Installed-Size: 584
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/de.finngaida.daynightswitch_1.2_iphoneos-arm_20250617-1641_19435f96e455d97576c3ae3782f1ac4711026e74e7ecf3776e3599eb4cf28801.deb
+Size: 69306
+MD5sum: 6e1ded7aa017b832004f445dcafa02fe
+SHA1: 6b8e9a1fb6cf03697bf280d686cc03bed631c01f
+SHA256: 19435f96e455d97576c3ae3782f1ac4711026e74e7ecf3776e3599eb4cf28801
+Section: Tweaks
+Description: Add some style to your switches
+Author: Finn Gaida
+Depiction: https://finngaida.de/repo/depictions/de.finngaida.daynightswitch
+Name: DayNightSwitch
+
+Package: de.finngaida.daynightswitch
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Finn Gaida
+Installed-Size: 584
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/de.finngaida.daynightswitch_1.2_iphoneos-arm64_20250617-1641_98024c3b28ae57d22928dfa0341ff0a22cc80d5103148ce2d54f63a6886b2c36.deb
+Size: 69050
+MD5sum: 9cdffbc94e56bd963c44859cc2343886
+SHA1: 4a9edb283323d15a25a9e9e41931e73fe136c4e4
+SHA256: 98024c3b28ae57d22928dfa0341ff0a22cc80d5103148ce2d54f63a6886b2c36
+Section: Tweaks
+Description: Add some style to your switches
+Author: Finn Gaida
+Depiction: https://finngaida.de/repo/depictions/de.finngaida.daynightswitch
+Name: DayNightSwitch
+
 Package: dev.traurige.kayoko
 Version: 1.2-3
 Architecture: iphoneos-arm
