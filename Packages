@@ -2924,6 +2924,22 @@ Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 5960
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/wiki.qaq.colorfulwallpaperx_5.0_iphoneos-arm64e_20250617-1437_a98758b9d616a1f150d0e293e0a157d7cf703d5a430935f3778413d858b2e8f3.deb
+Size: 1432808
+MD5sum: 73243edeac82631e923f05d19c941aeb
+SHA1: d6d11fea877734e230b72353721ab61427cd10d7
+SHA256: a98758b9d616a1f150d0e293e0a157d7cf703d5a430935f3778413d858b2e8f3
+Section: Tweaks
+Description: Dynamic wallpaper with colorful effects.
+Author: Lessica <82flex@gmail.com>
+Name: Colorful Wallpaper X
+
+Package: wiki.qaq.colorfulwallpaperx
+Version: 5.0
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 5960
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: ./debs/iphoneos-arm64e/wiki.qaq.colorfulwallpaperx_5.0_iphoneos-arm64e_20250513-1846_fd3f482cfd050a06ed18c97255d78d607bf888fdef8c2cce3981e7078bea7775.deb
 Size: 1432752
 MD5sum: 092e8f5e95ec645e1d7120399db76b75
@@ -2945,6 +2961,38 @@ Size: 1433290
 MD5sum: df5b6c839b50412d550fc9ab80a976c0
 SHA1: 75c73b94c680e1f613fd7cc4326ca8b0c9ca5b6d
 SHA256: 73447637dba7ed45dc520c9d401a18a344c3de1051ef6bcee49c2287e7a36e79
+Section: Tweaks
+Description: Dynamic wallpaper with colorful effects.
+Author: Lessica <82flex@gmail.com>
+Name: Colorful Wallpaper X
+
+Package: wiki.qaq.colorfulwallpaperx
+Version: 5.0
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 5960
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm/wiki.qaq.colorfulwallpaperx_5.0_iphoneos-arm_20250617-1437_33b30792bb0997b6f786138eb1a4da9308d9355f273610fdd190e6c662737d78.deb
+Size: 1435838
+MD5sum: bffcd5014f5d4c9a640430958c253eca
+SHA1: 2b4b3527c0a9aa67f0f4c15dcce9992d91c4bb0a
+SHA256: 33b30792bb0997b6f786138eb1a4da9308d9355f273610fdd190e6c662737d78
+Section: Tweaks
+Description: Dynamic wallpaper with colorful effects.
+Author: Lessica <82flex@gmail.com>
+Name: Colorful Wallpaper X
+
+Package: wiki.qaq.colorfulwallpaperx
+Version: 5.0
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 5960
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/wiki.qaq.colorfulwallpaperx_5.0_iphoneos-arm64_20250617-1437_88c5d3a29c13333d651e6794f8c289ef75a25f9f1a0a871c681c2236fb7c6308.deb
+Size: 1434606
+MD5sum: 7d0dcf5e3e553c83feec623d45dd0746
+SHA1: 1778d664f0d0c490ed3c4a79fb455ecde8df6dd4
+SHA256: 88c5d3a29c13333d651e6794f8c289ef75a25f9f1a0a871c681c2236fb7c6308
 Section: Tweaks
 Description: Dynamic wallpaper with colorful effects.
 Author: Lessica <82flex@gmail.com>
@@ -4769,6 +4817,54 @@ Size: 14272622
 MD5sum: 9d68843728a639edeaf15004ef93b943
 SHA1: ccadf296eafee8edbf3a7bd00173c1b9d945348c
 SHA256: e49fd5d19039c9c23e20d617266360835436a5225f32bd745f100b2fbb0a03cc
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 3.5.3-3274
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 59780
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64e/wiki.qaq.trapp.jb_3.5.3-3274_iphoneos-arm64e_20250617-1437_7cb0c1b0c1a63189c709884b6a6d7ff093513e5e73f1effcca0fbcf1bc4e47c6.deb
+Size: 14260730
+MD5sum: 4837dd5e2dec64e08a36a1dcaa8b8289
+SHA1: 9af90c23363b58a8f713620c023f7fbe6a54544c
+SHA256: 7cb0c1b0c1a63189c709884b6a6d7ff093513e5e73f1effcca0fbcf1bc4e47c6
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 3.5.3-3274
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 59768
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_3.5.3-3274_iphoneos-arm_20250617-1437_49cafbfcac061cc8dda7b0bc6414e6498175ad80ed36ccb13dc58af30a84f12e.deb
+Size: 14261302
+MD5sum: 6d0ae117c95eeec653db26e8c15ae137
+SHA1: 223321a272983657a71b37d09b67b445d8a20803
+SHA256: 49cafbfcac061cc8dda7b0bc6414e6498175ad80ed36ccb13dc58af30a84f12e
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 3.5.3-3274
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 59772
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64/wiki.qaq.trapp.jb_3.5.3-3274_iphoneos-arm64_20250617-1437_dc5facb835354fb1efafbdf1c2848ea8d8f414efccdc2a9478548e655a149933.deb
+Size: 14267154
+MD5sum: 13699b731c750f56585f8b2dc8e61f69
+SHA1: ad3a107aa687e654f54059e394dd54abeb8f19ac
+SHA256: dc5facb835354fb1efafbdf1c2848ea8d8f414efccdc2a9478548e655a149933
 Section: Applications
 Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
