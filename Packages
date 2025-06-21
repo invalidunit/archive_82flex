@@ -2581,6 +2581,22 @@ Name: EeveeSpotify (Lessica Fork)
 
 Package: com.eevee.spotify
 Version: 6.0
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1668
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
+Filename: ./debs/iphoneos-arm64e/com.eevee.spotify_6.0_iphoneos-arm64e_20250621-1037_8e0e6be9bd25d18291a00162dc13c95a34d900e01d5465403d98b716c4ed9259.deb
+Size: 431160
+MD5sum: f96ea3f72aa59f19e9f4c3cc0d0442df
+SHA1: 98e931cf530d895e0173b5a469fb97a384bbb445
+SHA256: 8e0e6be9bd25d18291a00162dc13c95a34d900e01d5465403d98b716c4ed9259
+Section: Tweaks
+Description: A tweak to get Spotify Premium for free, just like Spotilife.
+Author: Eevee
+Name: EeveeSpotify (Lessica Fork)
+
+Package: com.eevee.spotify
+Version: 6.0
 Architecture: iphoneos-arm
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 1668
@@ -2590,6 +2606,38 @@ Size: 430488
 MD5sum: fc0fa58a5cfe86d62b50abda8704aaf5
 SHA1: 8531ac0a1c2951d617facfa6a93f3f61250f1628
 SHA256: 23355d1aca4069eaa43b21e39e0e6d3cd6b6b377e4e0331c02541598f4452dc0
+Section: Tweaks
+Description: A tweak to get Spotify Premium for free, just like Spotilife.
+Author: Eevee
+Name: EeveeSpotify (Lessica Fork)
+
+Package: com.eevee.spotify
+Version: 6.0
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1668
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
+Filename: ./debs/iphoneos-arm/com.eevee.spotify_6.0_iphoneos-arm_20250621-1037_7be3749c0b2143312cdaf4bc40e6ee6790a681dd4486c5a197c9a34462ce5f78.deb
+Size: 431478
+MD5sum: f024bd1fefd45b8e0b51a5f83808b01e
+SHA1: 2848f3e0b7a08b2d20a876d95d969d3ebdf1696f
+SHA256: 7be3749c0b2143312cdaf4bc40e6ee6790a681dd4486c5a197c9a34462ce5f78
+Section: Tweaks
+Description: A tweak to get Spotify Premium for free, just like Spotilife.
+Author: Eevee
+Name: EeveeSpotify (Lessica Fork)
+
+Package: com.eevee.spotify
+Version: 6.0
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1668
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
+Filename: ./debs/iphoneos-arm64/com.eevee.spotify_6.0_iphoneos-arm64_20250621-1037_7008cb6a523d1b113db8494d779f4a0effcb518df7a554436cf5d5c183864101.deb
+Size: 431500
+MD5sum: 3480ae53934222e04314de5fbe24df91
+SHA1: 2f3555194a9043f84640d07a2d63e5aadbae55f0
+SHA256: 7008cb6a523d1b113db8494d779f4a0effcb518df7a554436cf5d5c183864101
 Section: Tweaks
 Description: A tweak to get Spotify Premium for free, just like Spotilife.
 Author: Eevee
@@ -2712,6 +2760,60 @@ Description: objc_msgSend tracing framework
 Tag: role::developer
 Author: Ethan Arbuckle
 Name: objsee
+
+Package: com.ginsu.ytmusicultimate
+Version: 2.3.1
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 17812
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.ginsu.ytmusicultimate_2.3.1_iphoneos-arm64e_20250621-1037_5eeb7dd1d2e4b276ffbfccee2d20202f90a4493feec8c2c69edac9c45977e720.deb
+Size: 6485240
+MD5sum: 0c3e3c4ac0d2fa6d79a66b9390684533
+SHA1: ac5170dbec032650ebf0d4b9506f7a8287d28068
+SHA256: 5eeb7dd1d2e4b276ffbfccee2d20202f90a4493feec8c2c69edac9c45977e720
+Section: Tweaks
+Description: YouTube Music Premium
+Author: dayanch96 & ginsu
+Icon: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/refs/heads/main/Resources/icon.png
+Name: YTMusicUltimate (Lessica Fork)
+Sileodepiction: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/main/Resources/depiction.json
+
+Package: com.ginsu.ytmusicultimate
+Version: 2.3.1
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 17812
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm/com.ginsu.ytmusicultimate_2.3.1_iphoneos-arm_20250621-1037_effa45704c4991c342617ce9e36725a29172727e7c0f23a821c6212a88e23960.deb
+Size: 6483832
+MD5sum: a2d4768f27997fd5f3f45d71398bae82
+SHA1: d6d99955233b729272beda366f5d28ee4c76dacb
+SHA256: effa45704c4991c342617ce9e36725a29172727e7c0f23a821c6212a88e23960
+Section: Tweaks
+Description: YouTube Music Premium
+Author: dayanch96 & ginsu
+Icon: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/refs/heads/main/Resources/icon.png
+Name: YTMusicUltimate (Lessica Fork)
+Sileodepiction: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/main/Resources/depiction.json
+
+Package: com.ginsu.ytmusicultimate
+Version: 2.3.1
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 17812
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.ginsu.ytmusicultimate_2.3.1_iphoneos-arm64_20250621-1037_4d049cd8d30607a4deea1051deaaf567fc2aad58895c4024bead1af0810a2ced.deb
+Size: 6483054
+MD5sum: e98cbfdfbeb9f0016e55623fa43debd3
+SHA1: 837ccd89c3a014b8cdd837f05954723471754f53
+SHA256: 4d049cd8d30607a4deea1051deaaf567fc2aad58895c4024bead1af0810a2ced
+Section: Tweaks
+Description: YouTube Music Premium
+Author: dayanch96 & ginsu
+Icon: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/refs/heads/main/Resources/icon.png
+Name: YTMusicUltimate (Lessica Fork)
+Sileodepiction: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/main/Resources/depiction.json
 
 Package: com.rpetrich.rocketbootstrap
 Version: 1.0.10~beta5
