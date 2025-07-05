@@ -3359,6 +3359,54 @@ Description: Dynamic wallpaper with colorful effects.
 Author: Lessica <82flex@gmail.com>
 Name: Colorful Wallpaper X
 
+Package: wiki.qaq.colorfulwallpaperx
+Version: 5.1
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 5984
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/wiki.qaq.colorfulwallpaperx_5.1_iphoneos-arm64e_20250705-1531_e282b0928dd62732fbb6dea8a80177ba06eb6b31c4549b26db1d91d431d2a01d.deb
+Size: 1442266
+MD5sum: 16cb3ce90fae429c008a49eb54b736a1
+SHA1: 28233f427cba0f84bf598c24036beb4843c257b9
+SHA256: e282b0928dd62732fbb6dea8a80177ba06eb6b31c4549b26db1d91d431d2a01d
+Section: Tweaks
+Description: Dynamic wallpaper with colorful effects.
+Author: Lessica <82flex@gmail.com>
+Name: Colorful Wallpaper X
+
+Package: wiki.qaq.colorfulwallpaperx
+Version: 5.1
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 5984
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/wiki.qaq.colorfulwallpaperx_5.1_iphoneos-arm64_20250705-1531_6dc79f3227d110424138daa4b788b6076cd79fc266f6eda7fb9b6170b6b682be.deb
+Size: 1441324
+MD5sum: a90f5fa63de7e3609f3e4ad165887835
+SHA1: 7d11bfe6b514ab0f15f5383b13aec3472833c6d0
+SHA256: 6dc79f3227d110424138daa4b788b6076cd79fc266f6eda7fb9b6170b6b682be
+Section: Tweaks
+Description: Dynamic wallpaper with colorful effects.
+Author: Lessica <82flex@gmail.com>
+Name: Colorful Wallpaper X
+
+Package: wiki.qaq.colorfulwallpaperx
+Version: 5.1
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 6000
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm/wiki.qaq.colorfulwallpaperx_5.1_iphoneos-arm_20250705-1531_065d0e3f001159c13f7d3ca1f8dc2b1a580ff16d43663acd5c2305aff7b42a95.deb
+Size: 1434908
+MD5sum: abec5c83fc9f1a5cabd16fd4b79daa40
+SHA1: 6ec1ef297ba160e184c762760635f8dd94432155
+SHA256: 065d0e3f001159c13f7d3ca1f8dc2b1a580ff16d43663acd5c2305aff7b42a95
+Section: Tweaks
+Description: Dynamic wallpaper with colorful effects.
+Author: Lessica <82flex@gmail.com>
+Name: Colorful Wallpaper X
+
 Package: wiki.qaq.trapp.jb
 Version: 1.10.0-266
 Architecture: iphoneos-arm64
