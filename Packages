@@ -2694,6 +2694,54 @@ Description: An awesome MobileSubstrate tweak!
 Author: Lessica
 Name: XcodeAnyTroll
 
+Package: com.82flex.xcodeanytroll
+Version: 1.1.3
+Architecture: iphoneos-arm64e
+Maintainer: Lessica
+Installed-Size: 468
+Depends: mobilesubstrate (>= 0.9.5000), com.82flex.libsandyxpc (>= 1.1), com.opa334.libsandy (>= 1.1.3), xcode-any-debug
+Filename: ./debs/iphoneos-arm64e/com.82flex.xcodeanytroll_1.1.3_iphoneos-arm64e_20250716-0651_3861c1a474e75a42b657f93ea5427493d1601041dc14bd0bc87e4818befaa307.deb
+Size: 60302
+MD5sum: 4e6a87ec0a9bcb52d01224da4d653bc6
+SHA1: 0a91bb948bd11ab365d3a65057806e58efd8144c
+SHA256: 3861c1a474e75a42b657f93ea5427493d1601041dc14bd0bc87e4818befaa307
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Lessica
+Name: XcodeAnyTroll
+
+Package: com.82flex.xcodeanytroll
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: Lessica
+Installed-Size: 468
+Depends: mobilesubstrate (>= 0.9.5000), com.82flex.libsandyxpc (>= 1.1), com.opa334.libsandy (>= 1.1.3), xcode-any-debug
+Filename: ./debs/iphoneos-arm/com.82flex.xcodeanytroll_1.1.3_iphoneos-arm_20250716-0651_17106b1f3de6d50dcd6305fa8e463490211e1aa829aa6619c34fc62f09b3fc5f.deb
+Size: 60222
+MD5sum: 3edaf0be3c6a273610e4ef45fa5474eb
+SHA1: 099d2f786c9d24c381b30cb73e6014eb1c811a96
+SHA256: 17106b1f3de6d50dcd6305fa8e463490211e1aa829aa6619c34fc62f09b3fc5f
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Lessica
+Name: XcodeAnyTroll
+
+Package: com.82flex.xcodeanytroll
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Installed-Size: 468
+Depends: mobilesubstrate (>= 0.9.5000), com.82flex.libsandyxpc (>= 1.1), com.opa334.libsandy (>= 1.1.3), xcode-any-debug
+Filename: ./debs/iphoneos-arm64/com.82flex.xcodeanytroll_1.1.3_iphoneos-arm64_20250716-0651_6a582b2dcc96e0272879a6859d7f556dc4bb0db973d40445f5064364a665d128.deb
+Size: 60372
+MD5sum: 74549694a8e01bd6b8d36ad58f314c83
+SHA1: 6ac46b34bcfaedb348c9b289204fd4e32c499505
+SHA256: 6a582b2dcc96e0272879a6859d7f556dc4bb0db973d40445f5064364a665d128
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Lessica
+Name: XcodeAnyTroll
+
 Package: com.byteage.xcoderootdebug
 Version: 0.0.2
 Architecture: iphoneos-arm64e
