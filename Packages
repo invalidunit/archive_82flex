@@ -606,6 +606,54 @@ Description: XXTouch is a powerful and flexible automation tool for iOS.
 Author: 82Flex <82flex@gmail.com>
 Name: XXTouch Elite
 
+Package: ch.xxtou.xxtouch
+Version: 5.3.4
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 61400
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/ch.xxtou.xxtouch_5.3.4_iphoneos-arm64_20250824-1433_39546071f1fc514de08c19869d8ba16869af9daf7723453accdcead0139571b6.deb
+Size: 20307270
+MD5sum: e21c843c54bfc05d1be0a9ce6865bb48
+SHA1: d85bac2c376bf12b1a52757fb8470decb5266613
+SHA256: 39546071f1fc514de08c19869d8ba16869af9daf7723453accdcead0139571b6
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Name: XXTouch Elite
+
+Package: ch.xxtou.xxtouch
+Version: 5.3.4
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 61404
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/ch.xxtou.xxtouch_5.3.4_iphoneos-arm64e_20250824-1433_f8f8c9f2679333a315760de46b7e10b3ead05b22defbda6462b2c6d8fd4808ba.deb
+Size: 20307268
+MD5sum: 8b5aed7ff1cdaa06defa5286c81242f3
+SHA1: 264639cf02fd5b9c77ad9135f3e8fec7e2d5497e
+SHA256: f8f8c9f2679333a315760de46b7e10b3ead05b22defbda6462b2c6d8fd4808ba
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Name: XXTouch Elite
+
+Package: ch.xxtou.xxtouch
+Version: 5.3.4
+Architecture: iphoneos-arm
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 69684
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/ch.xxtou.xxtouch_5.3.4_iphoneos-arm_20250824-1433_e388317660c3c6bbf9180be92aaf44f1f79b0136b33ff39f72699fd9258e08f2.deb
+Size: 22154322
+MD5sum: e8549d9b8e25b0b20bc511d4f2625d46
+SHA1: fac03234965440d553080f02a997a968e639ff6f
+SHA256: e388317660c3c6bbf9180be92aaf44f1f79b0136b33ff39f72699fd9258e08f2
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Name: XXTouch Elite
+
 Package: codes.aurora.kayoko
 Version: 2.4
 Architecture: iphoneos-arm64
@@ -4086,6 +4134,54 @@ Size: 1434908
 MD5sum: abec5c83fc9f1a5cabd16fd4b79daa40
 SHA1: 6ec1ef297ba160e184c762760635f8dd94432155
 SHA256: 065d0e3f001159c13f7d3ca1f8dc2b1a580ff16d43663acd5c2305aff7b42a95
+Section: Tweaks
+Description: Dynamic wallpaper with colorful effects.
+Author: Lessica <82flex@gmail.com>
+Name: Colorful Wallpaper X
+
+Package: wiki.qaq.colorfulwallpaperx
+Version: 5.2
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 6000
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/wiki.qaq.colorfulwallpaperx_5.2_iphoneos-arm64_20250824-1433_c5861288cea1a5531afff97df7d3e51d8fcf9ca2d056c53828e05c70e49f6608.deb
+Size: 1444444
+MD5sum: e6882306c405b8900c54a983a37e9b3b
+SHA1: 8abd27d51bf191d5a0bf0a6036cf96617fa910cf
+SHA256: c5861288cea1a5531afff97df7d3e51d8fcf9ca2d056c53828e05c70e49f6608
+Section: Tweaks
+Description: Dynamic wallpaper with colorful effects.
+Author: Lessica <82flex@gmail.com>
+Name: Colorful Wallpaper X
+
+Package: wiki.qaq.colorfulwallpaperx
+Version: 5.2
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 6016
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/wiki.qaq.colorfulwallpaperx_5.2_iphoneos-arm64e_20250824-1433_ec4b8f0c564502d39acfea862849cd183f5aaac2fa1ad1bbd8d4e087bd79a826.deb
+Size: 1444068
+MD5sum: 5ad7af15d25cec9ddbe90028e4057057
+SHA1: 7ceefc0ef02d08fe734060c862392d906a9dc476
+SHA256: ec4b8f0c564502d39acfea862849cd183f5aaac2fa1ad1bbd8d4e087bd79a826
+Section: Tweaks
+Description: Dynamic wallpaper with colorful effects.
+Author: Lessica <82flex@gmail.com>
+Name: Colorful Wallpaper X
+
+Package: wiki.qaq.colorfulwallpaperx
+Version: 5.2
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 6016
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm/wiki.qaq.colorfulwallpaperx_5.2_iphoneos-arm_20250824-1433_5cbeeadb92527af860f32a17ad7a27318d7da2dd7dbf2c6120aaf55183fe7cda.deb
+Size: 1442804
+MD5sum: a1f752920e073028c13478178c256cfd
+SHA1: 800a660271935b9d7b0fbca3a859b795b4af3542
+SHA256: 5cbeeadb92527af860f32a17ad7a27318d7da2dd7dbf2c6120aaf55183fe7cda
 Section: Tweaks
 Description: Dynamic wallpaper with colorful effects.
 Author: Lessica <82flex@gmail.com>
