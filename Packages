@@ -7003,6 +7003,102 @@ Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
 Name: TrollRecorder JB
 
+Package: wiki.qaq.trapp.jb
+Version: 3.8-3335
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 60812
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64/wiki.qaq.trapp.jb_3.8-3335_iphoneos-arm64_20251121-1734_934a21dff1b60b6c067b88f0e5e72f2be360b929775b5f02b0af5d5cdf98939c.deb
+Size: 14960276
+MD5sum: 4ed54281045596e42a2e651813e2b4f7
+SHA1: e014ee2c976ce347336f4d940b39c3292f3ba59a
+SHA256: 934a21dff1b60b6c067b88f0e5e72f2be360b929775b5f02b0af5d5cdf98939c
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 3.8-3335
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 60812
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_3.8-3335_iphoneos-arm_20251121-1734_b2e51ac1d1b11dde898f969c9bc67afa6a9a9e7feb202ca466acf53542888669.deb
+Size: 14942628
+MD5sum: 8762e53089c6021125e150e62a8b7d63
+SHA1: 7e49ef6b220065d5ce7089d2c033983b28214a70
+SHA256: b2e51ac1d1b11dde898f969c9bc67afa6a9a9e7feb202ca466acf53542888669
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 3.8-3335
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 60816
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64e/wiki.qaq.trapp.jb_3.8-3335_iphoneos-arm64e_20251121-1734_aea11d879c0d38d24c4c23d8e302de9323f5f9c5decc7f383ed994e1670c0195.deb
+Size: 14948338
+MD5sum: 4abd31dc07e4c44325cf7eaebd0f4d08
+SHA1: ee8e645a8f84c2472937dd9f22043bc9437770d4
+SHA256: aea11d879c0d38d24c4c23d8e302de9323f5f9c5decc7f383ed994e1670c0195
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 4.0-3422
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 61392
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64/wiki.qaq.trapp.jb_4.0-3422_iphoneos-arm64_20251121-1734_0a844be35f62b336093c1c990cba725eebdd62b063c3167f8804ad4547f7e132.deb
+Size: 15093834
+MD5sum: 1949cead7f01b893fb66446e50785fe0
+SHA1: 8a32aba14fd39b5341894a20a644d95c996160c5
+SHA256: 0a844be35f62b336093c1c990cba725eebdd62b063c3167f8804ad4547f7e132
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 4.0-3422
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 61388
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_4.0-3422_iphoneos-arm_20251121-1734_ca4fffe3bd048de90c77df4d4a082fece1eb85dc14a5b63684d0753a8c44fe6e.deb
+Size: 15084908
+MD5sum: a0dd475943532462d3d0b18b32372e04
+SHA1: be3d0f20421082acdc37f5fe5077011b5c22e03b
+SHA256: ca4fffe3bd048de90c77df4d4a082fece1eb85dc14a5b63684d0753a8c44fe6e
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 4.0-3422
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 61384
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64e/wiki.qaq.trapp.jb_4.0-3422_iphoneos-arm64e_20251121-1734_79368d33b3f793ce9023cd3a2bb931933b643adad7dd349808992c1083185e45.deb
+Size: 15088046
+MD5sum: 707f5fde792e334cd245e034ab17fc74
+SHA1: 7b5a422847cbcb49bacc2feab0838493b47d3e2a
+SHA256: 79368d33b3f793ce9023cd3a2bb931933b643adad7dd349808992c1083185e45
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
 Package: wiki.qaq.writenow
 Version: 2.0
 Architecture: iphoneos-arm64
