@@ -2137,6 +2137,54 @@ Description: Just a single mute icon on the status bar of iOS.
 Author: 82Flex <82flex@gmail.com>
 Name: Single Mute
 
+Package: com.82flex.singlemute
+Version: 1.7
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 388
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.82flex.singlemute_1.7_iphoneos-arm64_20251207-0729_7b0e514d79e5e52ece7155f4e5642b3eeb3b967ef2a7e9a2df50e820eb28b31c.deb
+Size: 27604
+MD5sum: f090597f646cc89bb831f4ef46a6d0f1
+SHA1: 87d61f42ec64f5e0c318347c02d54c91e5c6bf5b
+SHA256: 7b0e514d79e5e52ece7155f4e5642b3eeb3b967ef2a7e9a2df50e820eb28b31c
+Section: Tweaks
+Description: Just a single mute icon on the status bar of iOS.
+Author: 82Flex <82flex@gmail.com>
+Name: Single Mute
+
+Package: com.82flex.singlemute
+Version: 1.7
+Architecture: iphoneos-arm
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 388
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.82flex.singlemute_1.7_iphoneos-arm_20251207-0729_535f3a5eabf77e99339ec86209173e342849da684ae5fea402c366485f67ebf1.deb
+Size: 27532
+MD5sum: d356d3c75bc7ab952d81e62af664818b
+SHA1: 23865092be62b867989241bcbb12678e759f2949
+SHA256: 535f3a5eabf77e99339ec86209173e342849da684ae5fea402c366485f67ebf1
+Section: Tweaks
+Description: Just a single mute icon on the status bar of iOS.
+Author: 82Flex <82flex@gmail.com>
+Name: Single Mute
+
+Package: com.82flex.singlemute
+Version: 1.7
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 388
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.82flex.singlemute_1.7_iphoneos-arm64e_20251207-0729_1f2fb99c0ecb6503c7fc10c73f14ff5b14c1a34b4f3240056a79ce21715d5560.deb
+Size: 27554
+MD5sum: d18024d01c954cbf77f36daa9e717804
+SHA1: 4dcc25061cd281315fcef8fbb3c8533d0f19d310
+SHA256: 1f2fb99c0ecb6503c7fc10c73f14ff5b14c1a34b4f3240056a79ce21715d5560
+Section: Tweaks
+Description: Just a single mute icon on the status bar of iOS.
+Author: 82Flex <82flex@gmail.com>
+Name: Single Mute
+
 Package: com.82flex.singlevpn
 Version: 1.2
 Architecture: iphoneos-arm64
