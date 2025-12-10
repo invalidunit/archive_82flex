@@ -1849,6 +1849,54 @@ Description: Stop specified apps from redirecting to App Store, Safari or other 
 Author: Lessica <82flex@gmail.com>
 Name: No Redirect
 
+Package: com.82flex.noredirect
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 820
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64/com.82flex.noredirect_2.0_iphoneos-arm64_20251210-1043_970479303f47c46ab90cc3c0c46491e22fc7b7be48cc9ff332142a030e902c72.deb
+Size: 87888
+MD5sum: 3d25e95675c12da91e114c30b46ad3c8
+SHA1: 31ba5293eb1a0d88ca1aa43c1a2d529ae2925cb5
+SHA256: 970479303f47c46ab90cc3c0c46491e22fc7b7be48cc9ff332142a030e902c72
+Section: Tweaks
+Description: Stop specified apps from redirecting to App Store, Safari or other apps.
+Author: Lessica <82flex@gmail.com>
+Name: No Redirect
+
+Package: com.82flex.noredirect
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 820
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/com.82flex.noredirect_2.0_iphoneos-arm_20251210-1043_45ad259107701492a78ff8221dddcb68a47652d63ec7a43ef395d227ef17d988.deb
+Size: 88174
+MD5sum: aca7cad068085b27cf35884df2735009
+SHA1: f312aa24cea8a38bd6b24fe2258ba37b000a38c6
+SHA256: 45ad259107701492a78ff8221dddcb68a47652d63ec7a43ef395d227ef17d988
+Section: Tweaks
+Description: Stop specified apps from redirecting to App Store, Safari or other apps.
+Author: Lessica <82flex@gmail.com>
+Name: No Redirect
+
+Package: com.82flex.noredirect
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 820
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64e/com.82flex.noredirect_2.0_iphoneos-arm64e_20251210-1043_b0018e8d1c026189d3339ab064883c1fb8041aaf5aded8f123fa3faecb6123b3.deb
+Size: 88364
+MD5sum: 9831a65cc2a5e4a01f432060ea7cbac9
+SHA1: ee112f56fa6b7e1c68826b97732fb5077f3b4c5a
+SHA256: b0018e8d1c026189d3339ab064883c1fb8041aaf5aded8f123fa3faecb6123b3
+Section: Tweaks
+Description: Stop specified apps from redirecting to App Store, Safari or other apps.
+Author: Lessica <82flex@gmail.com>
+Name: No Redirect
+
 Package: com.82flex.ohmyinsets
 Version: 1.2
 Architecture: iphoneos-arm64
