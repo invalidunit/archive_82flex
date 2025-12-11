@@ -3846,6 +3846,54 @@ Description: 中文输入法语音转文字免跳转插件。无设置选项，�
 Author: Lessica
 Name: 语音转文字免跳转
 
+Package: com.82flex.wtvrbglauncher
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Installed-Size: 372
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.82flex.wtvrbglauncher_1.2_iphoneos-arm64_20251211-1649_eeccd14baf5afa224202f49f2e7bd3accc6c710c80d411e7f1ef6f2529330257.deb
+Size: 23218
+MD5sum: 6881fb90689fb2fc0a427890389e67ee
+SHA1: ef10c4cad9b6c365e2e87a93b7365c95de930558
+SHA256: eeccd14baf5afa224202f49f2e7bd3accc6c710c80d411e7f1ef6f2529330257
+Section: Tweaks
+Description: 中文输入法语音转文字免跳转插件。无设置选项，安装并注销后立即生效。支持的输入法：微信、百度、搜狗、讯飞
+Author: Lessica
+Name: 语音转文字免跳转
+
+Package: com.82flex.wtvrbglauncher
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Lessica
+Installed-Size: 372
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm/com.82flex.wtvrbglauncher_1.2_iphoneos-arm_20251211-1649_115f51a1f523efc086a87ad6a1d237dd925f12e5ebbde784d24b4e9de1e1703b.deb
+Size: 23124
+MD5sum: 16d4ec705fa2c9d15dc69eaceb7acb27
+SHA1: 385041c40810b3d96e4d7ed457002f9b33ba6270
+SHA256: 115f51a1f523efc086a87ad6a1d237dd925f12e5ebbde784d24b4e9de1e1703b
+Section: Tweaks
+Description: 中文输入法语音转文字免跳转插件。无设置选项，安装并注销后立即生效。支持的输入法：微信、百度、搜狗、讯飞
+Author: Lessica
+Name: 语音转文字免跳转
+
+Package: com.82flex.wtvrbglauncher
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: Lessica
+Installed-Size: 372
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.82flex.wtvrbglauncher_1.2_iphoneos-arm64e_20251211-1649_d0e793dc822842b9c0d32d4bb00f33c9e1e9ac80c11833380f2a2b24d844bc5f.deb
+Size: 23160
+MD5sum: b096d82dddf2b137bb040048d24814d3
+SHA1: 87097a46e8bc4073628f33f1d83c8436b0db862f
+SHA256: d0e793dc822842b9c0d32d4bb00f33c9e1e9ac80c11833380f2a2b24d844bc5f
+Section: Tweaks
+Description: 中文输入法语音转文字免跳转插件。无设置选项，安装并注销后立即生效。支持的输入法：微信、百度、搜狗、讯飞
+Author: Lessica
+Name: 语音转文字免跳转
+
 Package: com.82flex.xcodeanytroll
 Version: 0.0.1
 Architecture: iphoneos-arm64
