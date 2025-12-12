@@ -2854,6 +2854,54 @@ Description: Display your touch interactions!
 Author: Lessica <82flex@gmail.com>
 Name: Touch-Viz
 
+Package: com.82flex.touchvis
+Version: 4.0.2
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 4360
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.82flex.touchvis_4.0.2_iphoneos-arm64_20251212-0740_37e80950bef50dad161fc540009dddffd5c5445ad2bf4033a927b373ec822f82.deb
+Size: 914710
+MD5sum: 422b5a66f10b1b17a0f181d02ee38e0b
+SHA1: e30cb8a202f8f1a4e8f68b6c551d0f9bcaa6a477
+SHA256: 37e80950bef50dad161fc540009dddffd5c5445ad2bf4033a927b373ec822f82
+Section: Tweaks
+Description: Display your touch interactions!
+Author: Lessica <82flex@gmail.com>
+Name: Touch-Viz
+
+Package: com.82flex.touchvis
+Version: 4.0.2
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 4360
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm/com.82flex.touchvis_4.0.2_iphoneos-arm_20251212-0740_9dbf69e3ae37034b2977fbd5b4dc816fe2d94da3ac2a4cd2c884a04c0c692afe.deb
+Size: 916538
+MD5sum: 470b4f1ec97a4c89144534e4205c1ef8
+SHA1: c67918dc44c56f690967e41d8e7948411b840c90
+SHA256: 9dbf69e3ae37034b2977fbd5b4dc816fe2d94da3ac2a4cd2c884a04c0c692afe
+Section: Tweaks
+Description: Display your touch interactions!
+Author: Lessica <82flex@gmail.com>
+Name: Touch-Viz
+
+Package: com.82flex.touchvis
+Version: 4.0.2
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 4360
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.82flex.touchvis_4.0.2_iphoneos-arm64e_20251212-0740_8c0426cdc354d70eb05be43a74a95798ae24f885a66e6f2398346ad1fec88f96.deb
+Size: 916918
+MD5sum: bd8b5272c37dd78c6404519bf2c53799
+SHA1: b36686b7d7c5b10ff52c07607d93fce833bb75b4
+SHA256: 8c0426cdc354d70eb05be43a74a95798ae24f885a66e6f2398346ad1fec88f96
+Section: Tweaks
+Description: Display your touch interactions!
+Author: Lessica <82flex@gmail.com>
+Name: Touch-Viz
+
 Package: com.82flex.trollvnc
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -3617,6 +3665,54 @@ Size: 1477948
 MD5sum: db81989bbd4bdda3db41129ff027f573
 SHA1: 98d58a8c77c28ef9a9dc95c6c0ac84d83e7e402a
 SHA256: bf23c5f18cce163a7520184ff0cc5f013bebe365c3cb771ad63b57398849bfc6
+Section: Tweaks
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Author: 82Flex <82flex@gmail.com>
+Name: TrollVNC
+
+Package: com.82flex.trollvnc
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 5684
+Depends: firmware (>= 14.0), preferenceloader
+Filename: ./debs/iphoneos-arm64/com.82flex.trollvnc_3.0_iphoneos-arm64_20251212-0740_a004e368164c7253f35776cb0b3a9b40ee06f83c34fd610239262a8cf23d9af3.deb
+Size: 1488932
+MD5sum: 6716010f867328c6f6488b7803854096
+SHA1: 42cd35a8e175254dfb4d1c5fa46bb099c1208e14
+SHA256: a004e368164c7253f35776cb0b3a9b40ee06f83c34fd610239262a8cf23d9af3
+Section: Tweaks
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Author: 82Flex <82flex@gmail.com>
+Name: TrollVNC
+
+Package: com.82flex.trollvnc
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 5684
+Depends: firmware (>= 14.0), preferenceloader
+Filename: ./debs/iphoneos-arm/com.82flex.trollvnc_3.0_iphoneos-arm_20251212-0740_085db14c0f387b2a1a5a316d15c96fe7cce155d7d56293b31286560639e0f2cd.deb
+Size: 1490156
+MD5sum: 12e451955cac1ec75b099461461ff1ed
+SHA1: 6ec8047db6265d62cd9377a850c98bb47e1d3815
+SHA256: 085db14c0f387b2a1a5a316d15c96fe7cce155d7d56293b31286560639e0f2cd
+Section: Tweaks
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Author: 82Flex <82flex@gmail.com>
+Name: TrollVNC
+
+Package: com.82flex.trollvnc
+Version: 3.0
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 5684
+Depends: firmware (>= 14.0), preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.82flex.trollvnc_3.0_iphoneos-arm64e_20251212-0740_079eb4a0bc02c7169299a1b8e52e898c3cbc69595d23f02d667d917e9261cf45.deb
+Size: 1489804
+MD5sum: 1504b17af5474c2277a04de8609d67ce
+SHA1: a9a5f4ad4dfd191812e13962d8fd87115f1bde30
+SHA256: 079eb4a0bc02c7169299a1b8e52e898c3cbc69595d23f02d667d917e9261cf45
 Section: Tweaks
 Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
 Author: 82Flex <82flex@gmail.com>
@@ -7574,6 +7670,54 @@ Size: 15091384
 MD5sum: 6473061e4b12afc485aeb5ff391e70ee
 SHA1: bf7276431895929c0586a3edb41ea74e7ea130c8
 SHA256: 99691eddcb8d8a2b16c88971077d79b28c266cd1834ca5df025e23e5a068376c
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 4.1-3448
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 61456
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64/wiki.qaq.trapp.jb_4.1-3448_iphoneos-arm64_20251212-0740_b04c34106c547d7b1903c3bb357e5adadd1124a0c3f6eebc01a32fb81d7789b7.deb
+Size: 15127652
+MD5sum: cde876a2a23c7bf55ada1f90acd1f792
+SHA1: 410a78985aadbda169f6ed5a0099ab3efcd508d5
+SHA256: b04c34106c547d7b1903c3bb357e5adadd1124a0c3f6eebc01a32fb81d7789b7
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 4.1-3448
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 61464
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/wiki.qaq.trapp.jb_4.1-3448_iphoneos-arm_20251212-0740_8ab363f5cba40facb04b38a24b3d3c0f111b2cf39b9c33e3e8d96e35fc2fce8d.deb
+Size: 15124834
+MD5sum: 08c32f9730a98b61fdae20d0933f9d05
+SHA1: 913888853483e3d0755ad98ac577766d6ba9f584
+SHA256: 8ab363f5cba40facb04b38a24b3d3c0f111b2cf39b9c33e3e8d96e35fc2fce8d
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 4.1-3448
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 61468
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64e/wiki.qaq.trapp.jb_4.1-3448_iphoneos-arm64e_20251212-0740_7d460d237266a4d93fc0ec822eb42740afe0b969d23adb21536ac0a0de176e3d.deb
+Size: 15115306
+MD5sum: 307f1ebb40446074c7ad7623f70733d0
+SHA1: 373b1fdc9e84a7eb8ea835244b630f0bad00c4de
+SHA256: 7d460d237266a4d93fc0ec822eb42740afe0b969d23adb21536ac0a0de176e3d
 Section: Applications
 Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
