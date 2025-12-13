@@ -1150,6 +1150,54 @@ Description: Clipboard manager for iOS.
 Author: Alexandra Aurora Göttlicher
 Name: Kayoko
 
+Package: codes.aurora.kayoko
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 952
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64/codes.aurora.kayoko_3.0_iphoneos-arm64_20251213-0537_f352aafc90d65a475011dbaac20d0027fab2bcd818d1b212ae6d5dfc2a618d5a.deb
+Size: 131320
+MD5sum: f42ee4afbf8fb7504bcee2beb8ddb39b
+SHA1: e9bd546381ae132c0f7f781b90eb91d5bdec9d1b
+SHA256: f352aafc90d65a475011dbaac20d0027fab2bcd818d1b212ae6d5dfc2a618d5a
+Section: Tweaks
+Description: Clipboard manager for iOS.
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko
+
+Package: codes.aurora.kayoko
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 952
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm/codes.aurora.kayoko_3.0_iphoneos-arm_20251213-0537_12da4b0fa5b3e4b5171ce094291acdad2270500be3a79ded3e1271f368e0f723.deb
+Size: 131120
+MD5sum: 2cb291e94007fd107922ac27182544d5
+SHA1: b5bf271e750dbbd020954ed2c0c5c944d1c11cf8
+SHA256: 12da4b0fa5b3e4b5171ce094291acdad2270500be3a79ded3e1271f368e0f723
+Section: Tweaks
+Description: Clipboard manager for iOS.
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko
+
+Package: codes.aurora.kayoko
+Version: 3.0
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 968
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64e/codes.aurora.kayoko_3.0_iphoneos-arm64e_20251213-0537_e4fc1c7d52fdfd4e9d7b6ceb326b391f08d8759e86224377a72c7a44f72af124.deb
+Size: 131584
+MD5sum: 151211e89fa9cf3527d816c86bdb669f
+SHA1: 5c5c5552817fe85726050f9821f40bffc39c7337
+SHA256: e4fc1c7d52fdfd4e9d7b6ceb326b391f08d8759e86224377a72c7a44f72af124
+Section: Tweaks
+Description: Clipboard manager for iOS.
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko
+
 Package: com.82flex.amlyrics
 Version: 0.0.1
 Architecture: iphoneos-arm64
