@@ -2569,6 +2569,54 @@ Description: Combine VPN state and wireless state into one icon.
 Author: 82Flex <82flex@gmail.com>
 Name: Single VPN
 
+Package: com.82flex.singlevpn
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 404
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.82flex.singlevpn_2.0_iphoneos-arm64_20251213-0439_28a174403162dd630c31e7df65c5300125852709f0c4ff1da652983d2f5ebbd3.deb
+Size: 32476
+MD5sum: f10038576d6dc4cbbede9dafa444b0f7
+SHA1: 76933cdab6ae5f62e53195b1ec72bb9c18b93515
+SHA256: 28a174403162dd630c31e7df65c5300125852709f0c4ff1da652983d2f5ebbd3
+Section: Tweaks
+Description: Combine VPN state and wireless state into one icon.
+Author: 82Flex <82flex@gmail.com>
+Name: Single VPN
+
+Package: com.82flex.singlevpn
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 404
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.82flex.singlevpn_2.0_iphoneos-arm_20251213-0439_a582164c4a99707b81af6203453bce9a1b58135d82cf9eafa9f13e1e9dbc81c3.deb
+Size: 32348
+MD5sum: d0fb9cae9f2b5b3197cb6c15d5495e8d
+SHA1: 1520944a5f8880ff3466d46feb2d071b6cf39b62
+SHA256: a582164c4a99707b81af6203453bce9a1b58135d82cf9eafa9f13e1e9dbc81c3
+Section: Tweaks
+Description: Combine VPN state and wireless state into one icon.
+Author: 82Flex <82flex@gmail.com>
+Name: Single VPN
+
+Package: com.82flex.singlevpn
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 404
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.82flex.singlevpn_2.0_iphoneos-arm64e_20251213-0439_de68e4a58f999db89a7c9e29099ed26fe4042ed7fa4a17c040fec59eec7cd3c9.deb
+Size: 32366
+MD5sum: 6121de59b8bd5b949aec8f113107d696
+SHA1: 70f350bcde14b5edaf5e68eb303f4779481bc0fc
+SHA256: de68e4a58f999db89a7c9e29099ed26fe4042ed7fa4a17c040fec59eec7cd3c9
+Section: Tweaks
+Description: Combine VPN state and wireless state into one icon.
+Author: 82Flex <82flex@gmail.com>
+Name: Single VPN
+
 Package: com.82flex.socpwrbud
 Version: 1.0
 Architecture: iphoneos-arm64
