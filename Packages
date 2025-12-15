@@ -5099,6 +5099,54 @@ Description: Getting peeped by a rose doesn't feel that good, it's time to chang
 Author: Litten
 Name: Rose 🌹
 
+Package: me.chichou.webinspect-global
+Version: 0.4
+Architecture: iphoneos-arm64
+Maintainer: codecolorist
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/me.chichou.webinspect-global_0.4_iphoneos-arm64_20251215-0653_66820c6e3f77e9327377cc7b6c25104d2da2aed51ca751d33fcfe30e5a6442c4.deb
+Size: 4648
+MD5sum: 82c9d1903e5d47017b1a8a6685eb0df6
+SHA1: 70166959955a20ae77199ecafef442406b457326
+SHA256: 66820c6e3f77e9327377cc7b6c25104d2da2aed51ca751d33fcfe30e5a6442c4
+Section: Tweaks
+Description: Enable webview remote inspect for every app
+Author: codecolorist
+Name: webinspect
+
+Package: me.chichou.webinspect-global
+Version: 0.4
+Architecture: iphoneos-arm
+Maintainer: codecolorist
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm/me.chichou.webinspect-global_0.4_iphoneos-arm_20251215-0653_0363b7baec23eed73a5098147694c2becc3d79d9c6e494c07d35497830e027d0.deb
+Size: 4572
+MD5sum: f0fb55bc50fa2282bf5f2565cfa8676f
+SHA1: 1610d2cfc55576c1abc88217130dd0061cc430c5
+SHA256: 0363b7baec23eed73a5098147694c2becc3d79d9c6e494c07d35497830e027d0
+Section: Tweaks
+Description: Enable webview remote inspect for every app
+Author: codecolorist
+Name: webinspect
+
+Package: me.chichou.webinspect-global
+Version: 0.4
+Architecture: iphoneos-arm64e
+Maintainer: codecolorist
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/me.chichou.webinspect-global_0.4_iphoneos-arm64e_20251215-0653_ef11958eba2a867ddbaad1260939187c5ec3ed5cb29d3bdc02ca1557333338e1.deb
+Size: 4580
+MD5sum: 43c41199e6548f5beafd3b9eb7ffbbf8
+SHA1: cf223bcd5e47f3fde7ace9734caaefa2cfedb232
+SHA256: ef11958eba2a867ddbaad1260939187c5ec3ed5cb29d3bdc02ca1557333338e1
+Section: Tweaks
+Description: Enable webview remote inspect for every app
+Author: codecolorist
+Name: webinspect
+
 Package: moe.misty.sslkillswitch3
 Version: 1.4
 Architecture: iphoneos-arm64
