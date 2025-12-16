@@ -4840,6 +4840,54 @@ Icon: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/refs/heads/main/
 Name: YTMusicUltimate (Lessica Fork)
 Sileodepiction: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/main/Resources/depiction.json
 
+Package: com.joshua.volumeflex
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Joshua Wheeler
+Installed-Size: 3240
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.joshua.volumeflex_1.0_iphoneos-arm64_20251216-0849_507c7b0fbe5a31e804811707541f96ae0e32fcee044a04a54bf14373ac515920.deb
+Size: 653100
+MD5sum: 815a710654d221093beaae5c8c40ef00
+SHA1: 79947416b983c537e7093d2edce6d2b13377b985
+SHA256: 507c7b0fbe5a31e804811707541f96ae0e32fcee044a04a54bf14373ac515920
+Section: Tweaks
+Description: The world does not need another FLEX loader but people with fat fingers do.
+Author: Joshua Wheeler
+Name: VolumeFLEX
+
+Package: com.joshua.volumeflex
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Joshua Wheeler
+Installed-Size: 3844
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.joshua.volumeflex_1.0_iphoneos-arm_20251216-0849_42b7c2dc384ced118a02198151b5581b8647ddee2c8fef3abfbf83d94109c097.deb
+Size: 866278
+MD5sum: 66c52db8a74b2c26a757f9c7a288f2b2
+SHA1: 7d93a93b7b037dfe0b84c4acdf38999f9a5a1250
+SHA256: 42b7c2dc384ced118a02198151b5581b8647ddee2c8fef3abfbf83d94109c097
+Section: Tweaks
+Description: The world does not need another FLEX loader but people with fat fingers do.
+Author: Joshua Wheeler
+Name: VolumeFLEX
+
+Package: com.joshua.volumeflex
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Joshua Wheeler
+Installed-Size: 3240
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.joshua.volumeflex_1.0_iphoneos-arm64e_20251216-0849_8935b5c7b49957500372f36f630b34017b13ac49c89d4bd6bfbc9263b37871c3.deb
+Size: 649912
+MD5sum: f942e8b76467397e1355ec3753bcc738
+SHA1: 0b750c3f614e0b672beca478124818d37dfda881
+SHA256: 8935b5c7b49957500372f36f630b34017b13ac49c89d4bd6bfbc9263b37871c3
+Section: Tweaks
+Description: The world does not need another FLEX loader but people with fat fingers do.
+Author: Joshua Wheeler
+Name: VolumeFLEX
+
 Package: com.rpetrich.rocketbootstrap
 Version: 1.0.10~beta5
 Architecture: iphoneos-arm64
