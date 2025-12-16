@@ -4732,6 +4732,54 @@ Tag: role::developer
 Author: Ethan Arbuckle
 Name: objsee
 
+Package: com.evilpenguin.networksniffer
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: EvilPenguin
+Installed-Size: 352
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/iphoneos-arm64/com.evilpenguin.networksniffer_1.0_iphoneos-arm64_20251216-1046_832e0a516aef94b50b8940e56de0a7bcbc8ddaeaedd94049b02f1c7cf5afca98.deb
+Size: 14680
+MD5sum: 0a2a2e9c9d023d567e30436ec017ffb2
+SHA1: 3eeb23d15884eeead8d8337741b3febed735f803
+SHA256: 832e0a516aef94b50b8940e56de0a7bcbc8ddaeaedd94049b02f1c7cf5afca98
+Section: Tweaks
+Description: iOS network sniffer
+Author: EvilPenguin
+Name: NetworkSniffer
+
+Package: com.evilpenguin.networksniffer
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: EvilPenguin
+Installed-Size: 352
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/iphoneos-arm/com.evilpenguin.networksniffer_1.0_iphoneos-arm_20251216-1046_dcb5f459a2602e0c181688e201fa10cc7bf7ac3b98545ac10d6dadde1eb2d80e.deb
+Size: 14590
+MD5sum: bdada16dde40c08fccc511c857b58999
+SHA1: 40f7ba7fce32236c1116c7d25febeb284d4f064b
+SHA256: dcb5f459a2602e0c181688e201fa10cc7bf7ac3b98545ac10d6dadde1eb2d80e
+Section: Tweaks
+Description: iOS network sniffer
+Author: EvilPenguin
+Name: NetworkSniffer
+
+Package: com.evilpenguin.networksniffer
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: EvilPenguin
+Installed-Size: 352
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/iphoneos-arm64e/com.evilpenguin.networksniffer_1.0_iphoneos-arm64e_20251216-1046_05e923674f35be98bcecb0b8015c0f4c68430a329de846479458f261b22893f1.deb
+Size: 14614
+MD5sum: ccae17d76b7c187579a86a8b9a22b8c4
+SHA1: 271a1f7c9791ab29557b99c4a206130d86c4a6fa
+SHA256: 05e923674f35be98bcecb0b8015c0f4c68430a329de846479458f261b22893f1
+Section: Tweaks
+Description: iOS network sniffer
+Author: EvilPenguin
+Name: NetworkSniffer
+
 Package: com.ginsu.ytmusicultimate
 Version: 2.3.1
 Architecture: iphoneos-arm64
@@ -5241,6 +5289,57 @@ Size: 17490
 MD5sum: 420035fe776a52e470b67b1b2bbc62d6
 SHA1: 5c0f735a37923dcd810f73e6cf85a7881a29f586
 SHA256: 8a8bd80a19a7d349ca088e6a62da86a0c6fb8c47ca7366c03d26a85b92750a52
+Section: Tweaks
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Author: NyaMisty <misty@misty.moe>, Alban Diquet <nabla.c0d3@gmail.com>
+Name: SSL Kill Switch 3
+
+Package: moe.misty.sslkillswitch3
+Version: 1.4-2
+Architecture: iphoneos-arm64
+Maintainer: NyaMisty <misty@misty.moe>
+Installed-Size: 412
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.nablac0d3.sslkillswitch2
+Filename: ./debs/iphoneos-arm64/moe.misty.sslkillswitch3_1.4-2_iphoneos-arm64_20251216-1046_ca623f38678fdad976b969cbce1fcacc2820d83a2a5111e568a89b4f637ea4b7.deb
+Size: 17402
+MD5sum: fae172ac2545d5586f74181c827c2ec1
+SHA1: 982be53f99be8d28741c842e72538c86788c5536
+SHA256: ca623f38678fdad976b969cbce1fcacc2820d83a2a5111e568a89b4f637ea4b7
+Section: Tweaks
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Author: NyaMisty <misty@misty.moe>, Alban Diquet <nabla.c0d3@gmail.com>
+Name: SSL Kill Switch 3
+
+Package: moe.misty.sslkillswitch3
+Version: 1.4-2
+Architecture: iphoneos-arm
+Maintainer: NyaMisty <misty@misty.moe>
+Installed-Size: 412
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.nablac0d3.sslkillswitch2
+Filename: ./debs/iphoneos-arm/moe.misty.sslkillswitch3_1.4-2_iphoneos-arm_20251216-1046_a0713bfc60be1fad75a10d43d21b344b1e44ea3f2ecd3a8cb4f814ed34fbb14d.deb
+Size: 17308
+MD5sum: edf2229152b47d7cfef34a397006b78d
+SHA1: 20fe33e1d36a2a9b3e23f8a79a7a98e84ffcdff5
+SHA256: a0713bfc60be1fad75a10d43d21b344b1e44ea3f2ecd3a8cb4f814ed34fbb14d
+Section: Tweaks
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Author: NyaMisty <misty@misty.moe>, Alban Diquet <nabla.c0d3@gmail.com>
+Name: SSL Kill Switch 3
+
+Package: moe.misty.sslkillswitch3
+Version: 1.4-2
+Architecture: iphoneos-arm64e
+Maintainer: NyaMisty <misty@misty.moe>
+Installed-Size: 412
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.nablac0d3.sslkillswitch2
+Filename: ./debs/iphoneos-arm64e/moe.misty.sslkillswitch3_1.4-2_iphoneos-arm64e_20251216-1046_982f9faca8e991e69186991132d1c25c536a72c40fa8f769db03cbc9dc3ca7a9.deb
+Size: 17346
+MD5sum: 6437067f8a676eb8b648d7e5c61cd5cb
+SHA1: f15f434d82056e9dd343621b728995d1bbfbe0f1
+SHA256: 982f9faca8e991e69186991132d1c25c536a72c40fa8f769db03cbc9dc3ca7a9
 Section: Tweaks
 Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
 Author: NyaMisty <misty@misty.moe>, Alban Diquet <nabla.c0d3@gmail.com>
