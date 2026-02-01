@@ -4198,6 +4198,54 @@ Description: TrollVNC is a VNC server for iOS devices, allowing remote access an
 Author: 82Flex <82flex@gmail.com>
 Name: TrollVNC
 
+Package: com.82flex.trollvnc
+Version: 3.1-2
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 5684
+Depends: firmware (>= 14.0), preferenceloader
+Filename: ./debs/iphoneos-arm64/com.82flex.trollvnc_3.1-2_iphoneos-arm64_20260201-1541_d9fa06f1bde8381a123bf2666634b91ab32cf1d21b84d4a8f136b1596d91edb5.deb
+Size: 1489622
+MD5sum: 5f3d2d4a354688e51abe0d2fe571fa5a
+SHA1: 88ddc13175c4e10ea1f758f87f26251e5cc79e84
+SHA256: d9fa06f1bde8381a123bf2666634b91ab32cf1d21b84d4a8f136b1596d91edb5
+Section: Tweaks
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Author: 82Flex <82flex@gmail.com>
+Name: TrollVNC
+
+Package: com.82flex.trollvnc
+Version: 3.1-2
+Architecture: iphoneos-arm
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 5684
+Depends: firmware (>= 14.0), preferenceloader
+Filename: ./debs/iphoneos-arm/com.82flex.trollvnc_3.1-2_iphoneos-arm_20260201-1541_9b81c1205efe0ae3a9e54dc3c0060e856c594dd94e66f6e7d5fbb5163d8ca259.deb
+Size: 1489658
+MD5sum: b5502807ed2d757cb5454460bbf43371
+SHA1: 884969d00e025c89e88df5d373d74e480fe72483
+SHA256: 9b81c1205efe0ae3a9e54dc3c0060e856c594dd94e66f6e7d5fbb5163d8ca259
+Section: Tweaks
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Author: 82Flex <82flex@gmail.com>
+Name: TrollVNC
+
+Package: com.82flex.trollvnc
+Version: 3.1-2
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 5684
+Depends: firmware (>= 14.0), preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.82flex.trollvnc_3.1-2_iphoneos-arm64e_20260201-1541_9e5c1f35338e35c12cec91f08255aee78f9f563782a95dada9be38302988aeca.deb
+Size: 1489366
+MD5sum: 68b2f61fbd2fceaf778ae498c96f78ae
+SHA1: b4528952c7e4649d3eb5c1d1372fca434d9b0597
+SHA256: 9e5c1f35338e35c12cec91f08255aee78f9f563782a95dada9be38302988aeca
+Section: Tweaks
+Description: TrollVNC is a VNC server for iOS devices, allowing remote access and control of the device’s screen.
+Author: 82Flex <82flex@gmail.com>
+Name: TrollVNC
+
 Package: com.82flex.wtvrbglauncher
 Version: 0.0.1
 Architecture: iphoneos-arm64
