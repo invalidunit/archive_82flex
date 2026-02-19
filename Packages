@@ -8836,6 +8836,54 @@ Description: AI tool within your hands.
 Author: Lessica <82flex@gmail.com>
 Name: Write Now
 
+Package: wiki.qaq.writenow
+Version: 2.3
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 15288
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/wiki.qaq.writenow_2.3_iphoneos-arm64_20260219-1344_e2a395f1f3ae785715de9faf714c2b93039a605c77d853a94b8843472c133f9d.deb
+Size: 3322382
+MD5sum: 7f5957709fc71bd2bc1eb6a2bdd3f72a
+SHA1: c3ac0a8499a14dca46e700d4f84021b09180537b
+SHA256: e2a395f1f3ae785715de9faf714c2b93039a605c77d853a94b8843472c133f9d
+Section: Tweaks
+Description: AI tool within your hands.
+Author: Lessica <82flex@gmail.com>
+Name: Write Now
+
+Package: wiki.qaq.writenow
+Version: 2.3
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 15288
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm/wiki.qaq.writenow_2.3_iphoneos-arm_20260219-1344_e4d3779a12daa83e13d483a523413940364f4a114579abf1824a4c3e8b5f0db2.deb
+Size: 3321216
+MD5sum: 558145ba2eff383c908fcd4e0dc7ce50
+SHA1: 01d73af8d276ee480d1fdc5dee54f09572727b66
+SHA256: e4d3779a12daa83e13d483a523413940364f4a114579abf1824a4c3e8b5f0db2
+Section: Tweaks
+Description: AI tool within your hands.
+Author: Lessica <82flex@gmail.com>
+Name: Write Now
+
+Package: wiki.qaq.writenow
+Version: 2.3
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 15288
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/wiki.qaq.writenow_2.3_iphoneos-arm64e_20260219-1344_34b7ef58308675d38c9d941548b795a7107b29b2a65d07f47e88cf0fbc626abb.deb
+Size: 3317954
+MD5sum: 04c09454972d215b452ccaf511aad29f
+SHA1: 205d14ea991ae48054bbb2dd8656d8cb9406ce21
+SHA256: 34b7ef58308675d38c9d941548b795a7107b29b2a65d07f47e88cf0fbc626abb
+Section: Tweaks
+Description: AI tool within your hands.
+Author: Lessica <82flex@gmail.com>
+Name: Write Now
+
 Package: xcode-any-debug
 Version: 0.0.3
 Architecture: iphoneos-arm64
