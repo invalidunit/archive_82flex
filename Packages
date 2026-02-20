@@ -1038,6 +1038,54 @@ Description: XXTouch is a powerful and flexible automation tool for iOS.
 Author: 82Flex <82flex@gmail.com>
 Name: XXTouch Elite
 
+Package: ch.xxtou.xxtouch
+Version: 5.4.3
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 61632
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/ch.xxtou.xxtouch_5.4.3_iphoneos-arm64_20260220-0900_c4c627eee546aa73e6d632e1b3107f7750cbdd70802d6d4c20db802859c90a0c.deb
+Size: 20344560
+MD5sum: 2ba2ffd1d5791f735b8568a896ad16cf
+SHA1: df6a6f6a157207084e62bf9007c9c4c74f2b256d
+SHA256: c4c627eee546aa73e6d632e1b3107f7750cbdd70802d6d4c20db802859c90a0c
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Name: XXTouch Elite
+
+Package: ch.xxtou.xxtouch
+Version: 5.4.3
+Architecture: iphoneos-arm
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 69868
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/ch.xxtou.xxtouch_5.4.3_iphoneos-arm_20260220-0900_c818ac7d55d68f43e36d6e849dec4f40a739eaaf03ade08ab90374cbafe57a6e.deb
+Size: 22191220
+MD5sum: 6112b955decc50404dced10a22915ecf
+SHA1: 2aaf0cde279e8eb1341fdcf30090f263970c5de1
+SHA256: c818ac7d55d68f43e36d6e849dec4f40a739eaaf03ade08ab90374cbafe57a6e
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Name: XXTouch Elite
+
+Package: ch.xxtou.xxtouch
+Version: 5.4.3
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 61604
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/ch.xxtou.xxtouch_5.4.3_iphoneos-arm64e_20260220-0900_5dcc85ce4127ad465b15074dadc97430c5e76a3384f2e0d5952533dc63cae737.deb
+Size: 20342254
+MD5sum: 2789028f3df275d69fb700190ea9971f
+SHA1: 9078335d3dc77f4214bf6a44924448fd3082df99
+SHA256: 5dcc85ce4127ad465b15074dadc97430c5e76a3384f2e0d5952533dc63cae737
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Name: XXTouch Elite
+
 Package: codes.aurora.kayoko
 Version: 2.4
 Architecture: iphoneos-arm64
