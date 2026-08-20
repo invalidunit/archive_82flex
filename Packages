@@ -3938,6 +3938,23 @@ Name: Remove Widget Background
 Author: Lessica <82flex@gmail.com>
 
 Package: com.82flex.removewidgetbg
+Architecture: iphoneos-arm
+Version: 2.1.1
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 404
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Filename: ./debs/iphoneos-arm/com.82flex.removewidgetbg_2.1.1_iphoneos-arm_20260820-1453_7fd394d081e09ba06a71a61dd7185ddca038d056f3654ffb8e23b985e0cb33d6.deb
+Size: 30932
+MD5sum: 50da27ad2f4e31caffa2b4c24218911b
+SHA1: ff61a78c51f2f54356a90efdaee86c3f0d3e07c4
+SHA256: 7fd394d081e09ba06a71a61dd7185ddca038d056f3654ffb8e23b985e0cb33d6
+SHA512: 67ff00db960815011ab9a2feb57ebaf7d64237746e1e1b05b10ef895cec8de7becee32202f85e913d795bd6ecf836a95a1efe8761a00f92494063529f280a563
+Description: Remove the background of the widgets on the home screen.
+Name: Remove Widget Background
+Author: Lessica <82flex@gmail.com>
+
+Package: com.82flex.removewidgetbg
 Architecture: iphoneos-arm64
 Version: 1.7
 Section: Tweaks
@@ -4006,6 +4023,23 @@ Name: Remove Widget Background
 Author: Lessica <82flex@gmail.com>
 
 Package: com.82flex.removewidgetbg
+Architecture: iphoneos-arm64
+Version: 2.1.1
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 404
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Filename: ./debs/iphoneos-arm64/com.82flex.removewidgetbg_2.1.1_iphoneos-arm64_20260820-1453_f59108ea37bc6c13a59c8d6673ec8bf4c545c83b1c6828dff3c21a36f4de14ff.deb
+Size: 31010
+MD5sum: ff9a047cb3da42a6aef6d164228e4a97
+SHA1: 23b05c496309feeb704a60c73831f88fd1f3c70c
+SHA256: f59108ea37bc6c13a59c8d6673ec8bf4c545c83b1c6828dff3c21a36f4de14ff
+SHA512: 5e2b024a4c1d54aab8e84d1c3176360dc80282efe69bcc495ac3c9432d3fd2a387d1b06e3418c59349ba654342fea3f05a7949698600594f1dcd5a4bbed9dfd9
+Description: Remove the background of the widgets on the home screen.
+Name: Remove Widget Background
+Author: Lessica <82flex@gmail.com>
+
+Package: com.82flex.removewidgetbg
 Architecture: iphoneos-arm64e
 Version: 1.7
 Section: Tweaks
@@ -4069,6 +4103,23 @@ MD5sum: 787086aadce19bb583c517d273c78911
 SHA1: d62d7d5440e923833a0d5c730f18f7f71fded278
 SHA256: f3dba54177589b1ecd7fed6f4b10b06a42383b6418ce3f7d21d93465630add4e
 SHA512: 12fa35214cd11d7d76ec794521344d2ddeec14dc8568e83e4b654c78598d6930fa86b1fbe8d57e9927bc28b489a00cc668255cbb00fa522911cb5419f11d91ad
+Description: Remove the background of the widgets on the home screen.
+Name: Remove Widget Background
+Author: Lessica <82flex@gmail.com>
+
+Package: com.82flex.removewidgetbg
+Architecture: iphoneos-arm64e
+Version: 2.1.1
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 404
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Filename: ./debs/iphoneos-arm64e/com.82flex.removewidgetbg_2.1.1_iphoneos-arm64e_20260820-1453_a8c04a81cb8c49609c6b8ceec29f41989b5605b9c19feaffc6b2751c61f54052.deb
+Size: 30954
+MD5sum: e20d8519cdbe21005cc7bad34872de2b
+SHA1: 20292c85bec5961691106d52a60f03d58c1dbe2e
+SHA256: a8c04a81cb8c49609c6b8ceec29f41989b5605b9c19feaffc6b2751c61f54052
+SHA512: efe57613d580b9efd2e9b80c25768118c0822afaac2d7ed17b1858a9d5fd292e49e9927c2fb3e6372e6079d8d8ca28a2fd79a146b034552866194d5ee6f3de86
 Description: Remove the background of the widgets on the home screen.
 Name: Remove Widget Background
 Author: Lessica <82flex@gmail.com>
