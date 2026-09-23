@@ -4913,6 +4913,23 @@ Name: Touch-Viz
 Author: Lessica <82flex@gmail.com>
 
 Package: com.82flex.touchvis
+Architecture: iphoneos-arm
+Version: 4.1.1
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 4416
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm/com.82flex.touchvis_4.1.1_iphoneos-arm_20260923-2023_44b55d46e10cb630b3fc2758dc76434d0824f13527428462ae55e7906cb0ac58.deb
+Size: 939210
+MD5sum: 758c7fcc75adfec45bc72af01f5b3804
+SHA1: 1d67ed96ee18cef4f6f674f1671528e7f17355cb
+SHA256: 44b55d46e10cb630b3fc2758dc76434d0824f13527428462ae55e7906cb0ac58
+SHA512: 3314f4abc7b859752cde2527780a606acb996d5391f4ae8ddcb8fbdeb5e37f3c209086e55904bfb2c294d3a4fbfd571aff977962c28e2289f8af70da263c5a1f
+Description: Display your touch interactions!
+Name: Touch-Viz
+Author: Lessica <82flex@gmail.com>
+
+Package: com.82flex.touchvis
 Architecture: iphoneos-arm64
 Version: 3.10
 Section: Tweaks
@@ -5032,6 +5049,23 @@ Name: Touch-Viz
 Author: Lessica <82flex@gmail.com>
 
 Package: com.82flex.touchvis
+Architecture: iphoneos-arm64
+Version: 4.1.1
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 4400
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.82flex.touchvis_4.1.1_iphoneos-arm64_20260923-2023_a017ae0cf7e4dd4b0bd25ddd7f55be16ab3b584e763a94bddc3d38b0b30fda78.deb
+Size: 939648
+MD5sum: cd4b06988e1f23c257bed0dcebb3832f
+SHA1: 0f69fe91c776a6168b60019281d3f0db2b23dfdc
+SHA256: a017ae0cf7e4dd4b0bd25ddd7f55be16ab3b584e763a94bddc3d38b0b30fda78
+SHA512: 2a6a136e54971a0679a5edd4528344de42c306e0a09ac97106dfa25442c18e9c55ad9219d3ee3bde71f3a6f2740961f4e7313a159aebf4302301f27e20cec20c
+Description: Display your touch interactions!
+Name: Touch-Viz
+Author: Lessica <82flex@gmail.com>
+
+Package: com.82flex.touchvis
 Architecture: iphoneos-arm64e
 Version: 3.10
 Section: Tweaks
@@ -5146,6 +5180,23 @@ MD5sum: 20d998332056fee1aa76badcf6e93448
 SHA1: 678abb7b9bea3b36c59552173de1d43170d48116
 SHA256: d1500a44d6b97ec9357defd52718817d4251bbbc52431a792f06f6e7cc92bae0
 SHA512: 4f55819a3c9ff189ebb8b8b27569c508d56cacd9c862a8d3fd480e25f284c33e2b49f0e97161dad7061884db894f84116e2db148004db979161d18ced4cf9f03
+Description: Display your touch interactions!
+Name: Touch-Viz
+Author: Lessica <82flex@gmail.com>
+
+Package: com.82flex.touchvis
+Architecture: iphoneos-arm64e
+Version: 4.1.1
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 4416
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.82flex.touchvis_4.1.1_iphoneos-arm64e_20260923-2023_28cd52b6d9eca9006041f6a9762e4f75d18871fe34c2e6b5c098cf562bd05dfa.deb
+Size: 939388
+MD5sum: 25038374a104dfb5117cc68eac491dae
+SHA1: c7a3b5dcbd5372d5eeaf5d2645fe6269c2eb0ca6
+SHA256: 28cd52b6d9eca9006041f6a9762e4f75d18871fe34c2e6b5c098cf562bd05dfa
+SHA512: 64750ab530f40fd2fdc07bfdf9cdd1dd02c501befea2d6942efd80096121e890f16a08692697cf09cdb12ae4c49c5571e86c0a1c462e0c434512c0edcca9f772
 Description: Display your touch interactions!
 Name: Touch-Viz
 Author: Lessica <82flex@gmail.com>
@@ -8614,6 +8665,23 @@ Name: Colorful Wallpaper X
 Author: Lessica <82flex@gmail.com>
 
 Package: wiki.qaq.colorfulwallpaperx
+Architecture: iphoneos-arm
+Version: 5.8.1
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 6064
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm/wiki.qaq.colorfulwallpaperx_5.8.1_iphoneos-arm_20260923-2023_d4a5ed9ce2b2bea33380a1d38ff6c13c9c3042913661f47bd4f980f042e8b4cd.deb
+Size: 1478502
+MD5sum: 06e183f465db2e3367a7d8dbf533c062
+SHA1: 33a06bf062e010a0c43e46613c60946ab491168e
+SHA256: d4a5ed9ce2b2bea33380a1d38ff6c13c9c3042913661f47bd4f980f042e8b4cd
+SHA512: 0471119b891c57855213369161fb564d819276b1e6f635dd6c26cdefcf5f48c77aeb196d712e8a56b1372e7828b8a49d2afb5773531f520ea3eeceabebfc50e2
+Description: Dynamic wallpaper with colorful effects.
+Name: Colorful Wallpaper X
+Author: Lessica <82flex@gmail.com>
+
+Package: wiki.qaq.colorfulwallpaperx
 Architecture: iphoneos-arm64
 Version: 4.8
 Section: Tweaks
@@ -8818,6 +8886,23 @@ Name: Colorful Wallpaper X
 Author: Lessica <82flex@gmail.com>
 
 Package: wiki.qaq.colorfulwallpaperx
+Architecture: iphoneos-arm64
+Version: 5.8.1
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 6064
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/wiki.qaq.colorfulwallpaperx_5.8.1_iphoneos-arm64_20260923-2023_dbd86a727024a58b109c62849146605c58c09aced187e310205a25a789852067.deb
+Size: 1476324
+MD5sum: 13e4f125640e6d8cdfbbaf15a8274af6
+SHA1: e21d2f3ebad003990cbc19a2bf7eff8170564d45
+SHA256: dbd86a727024a58b109c62849146605c58c09aced187e310205a25a789852067
+SHA512: e0d5f187a168ec2a62c885bcbfae20cd71a623b2406b83d9024265bd32cfa878d1243c9955ad610f57abc14c2e98ce77cf17b88086d4b80750f1b90e9a92a75c
+Description: Dynamic wallpaper with colorful effects.
+Name: Colorful Wallpaper X
+Author: Lessica <82flex@gmail.com>
+
+Package: wiki.qaq.colorfulwallpaperx
 Architecture: iphoneos-arm64e
 Version: 4.8
 Section: Tweaks
@@ -9017,6 +9102,23 @@ MD5sum: ee8d3a5cbb5bbc52135c59046c48b061
 SHA1: 6af406242521cf6a4bacd7688f86f0d455635c81
 SHA256: 8a56626092337c69409db7736ab42edbb1d373c3196173838a7d961ea63fb7c0
 SHA512: 4288c251a893a2b1a655ad9fe8fc69087d9043f5d91893fb3dd270f4b8a14d9f3ddf6dc635a3a8ffda490d2eb6d64289c777f1d86edd6e75e598261e590c1386
+Description: Dynamic wallpaper with colorful effects.
+Name: Colorful Wallpaper X
+Author: Lessica <82flex@gmail.com>
+
+Package: wiki.qaq.colorfulwallpaperx
+Architecture: iphoneos-arm64e
+Version: 5.8.1
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 6064
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/wiki.qaq.colorfulwallpaperx_5.8.1_iphoneos-arm64e_20260923-2023_0cdd747198e3256647ba7687ea7cbfa51ccb431e7c03a05214724b10254ec6da.deb
+Size: 1474108
+MD5sum: c9274755a91212da8ad81bd53bbec7ae
+SHA1: a120fc4c236089dada7715f83aed56ea01c05ce7
+SHA256: 0cdd747198e3256647ba7687ea7cbfa51ccb431e7c03a05214724b10254ec6da
+SHA512: 3bc7119e6db1f09cc7bf536e66ad879a17afae844e8171a2049aa2fa183a5cf98ff9a89fb6e4b816e79976425ec42e0dbadf2a98fdbf5f8bd19435c3a419b23b
 Description: Dynamic wallpaper with colorful effects.
 Name: Colorful Wallpaper X
 Author: Lessica <82flex@gmail.com>
